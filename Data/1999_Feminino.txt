@@ -210,6 +210,7 @@
   210  1118 ANADELVA SANDOVAL              (65)  38 F3034 1:21:18         OLIMPIA                       (ASUNCION            )
   211   949 ANITA CLEMENTE MODESTO         (57)  23 F4044 1:21:20         GAE AVAES                     (VITORIA             )
   212   330 ADRIANE DO ROCIO LACERDA       (81)  13 F1519 1:21:24         CAC CURITIBA                  (PIRAQUARA           )
+  Col. Nr    Nome                     Ano CCat        Categ T.TOTAL         Equipe
   213   798 ADRIANA NICOLAI                (69)  39 F3034 1:21:25         DECET                         (ITAPIRA             )
   214  1044 ELENITA APARECIDA DOS SANTOS   (66)  40 F3034 1:21:27         AVANHANDAVA                   (AVANHANDAVA         )
   215   951 DAYANE OLIVEIRA                (85)   3 F0014 1:21:35         CRESS                         (SAO SIMAO           )

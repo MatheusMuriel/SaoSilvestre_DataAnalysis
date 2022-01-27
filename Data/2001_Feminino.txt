@@ -1,3 +1,4 @@
+Col. Nr    Nome                     Ano CCat Categ Equipe          T.TOTAL
     1 20007 MARIA ZEFERINA R BALLDAI (72)   1 ELITF ASA STA  0:52:12 0:52:09
     2 20001 MARGARET OKAYO           (76)   2 ELITF FILA(KEN 0:52:23 0:52:20
     3 20004 MARCIA NARLOCH           (69)   3 ELITF BIOQUIMI 0:53:07 0:53:07

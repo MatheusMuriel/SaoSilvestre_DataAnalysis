@@ -1,3 +1,4 @@
+Col. Nr    Nome                     Ano CCat Categ Equipe          T.TOTAL
     1     1 PAUL TERGAT              (69)   1 MELIT QUENIA()        0:43:57
     2     2 TESFAYE TOLA             (74)   2 MELIT QUENIA()        0:43:58
     3    10 TESFAYE JIFAR            (76)   3 MELIT ETIOPIA()       0:43:59

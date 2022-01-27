@@ -1,3 +1,4 @@
+        Coloc.  Num.     Atleta                                   Id.   Fx.Et   Cl.F.E Sx.  C.
         1        20010   MARIZETE DE PAULA REZENDE                28   F2529       -    F   E                    CTA ARARAQUARA           00:54:02
         2        20003   ADRIANA DE SOUZA                         29   F2529       -    F   E                    A.A.M MIZUNO             00:54:29
         3        20001   MARIA ZEFERINA R BALDAIA                 30   F3034       -    F   E                    STA ELISA/MIZUNO         00:54:38

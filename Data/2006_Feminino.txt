@@ -1,3 +1,4 @@
+ColocaçãoNúmeroNome                                          SexoIdadFaixa EtárClass. Faixa EtáTempo BrutTempo LíquidCategoriEquipe
     1    14033 LUCELIA DE OLIVEIRA PERES                      F   25   F2529          -         00:51:24   00:51:23     E    MIZUNO
     2    14032 EDNALVA LAURIANO DA SILVA                      F   30   F3034          -         00:51:53   00:51:52     E    MIZUNO - UNICSUL - PARAIBA
     3    14039 BERTHA OLIVA SANCHEZ                           F   28   F2529          -         00:53:29   00:53:27     E    BOLIVIA

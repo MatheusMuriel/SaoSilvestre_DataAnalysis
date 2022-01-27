@@ -1,3 +1,4 @@
+Col. Nr    Nome                     Ano CCat        Categ T.TOTAL         Equipe
     1     2 PAUL TERGAT                    (69)     M2529 0:44:47         FILA                          (KENYA               )
     2     6 HENDRICK RAMAALA               (72)     M2529 0:45:05         REEBOK                        (AFRICA DO SUL       )
     3     4 ELIJAH KIPTARBEI LAGAT         (98)     M0014 0:45:08         FILA KENYA                    (KENYA               )
