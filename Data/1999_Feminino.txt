@@ -197,7 +197,7 @@
   197   866 SILVANA COLE                   (67)  35 F3034 1:20:00         BASCA HELAT E FITNES          (SANTO ANDRE         )
   198  1119 OLGA GILL OVIEDO               (65)  36 F3034 1:20:14         ASOPAVE                       (ASUNCION            )
   199   880 VILMA FERREIRA DE OLIVEIRA     (48)   7 F5054 1:20:16         JABAQUARA ATL CLUBE           (SANTOS              )
-  200   442 LIZETE COUTO DEODATO           (61)  39 F3539 1:20:18         2� BC                         (SAO VICENTE         )
+  200   442 LIZETE COUTO DEODATO           (61)  39 F3539 1:20:18         2§ BC                         (SAO VICENTE         )
   201   411 JINGELA JONSSON                (47)   8 F5054 1:20:19         STOCKHOLM RRC                 (                    )
   202    70 MARLUCIA M LOBOS MEDEIROS      (51)   7 F4549 1:20:20                                       (                    )
   203   897 MARIA DE FATIMA OLIVEIRA       (63)  40 F3539 1:20:26         CORRE RECIFE                  (RECIFE              )
@@ -545,7 +545,7 @@
   545   525 VERA LUCIA VIEIRA CONCURUTO    (74)  70 F2529 1:40:03         ABA BTC                       (BARURU              )
   546   686 VANESSA GONCALVES DA SILVA     (81)  33 F1519 1:40:07         CEPE USP                      (SAO PAULO           )
   547   267 IKUKO EGUCHI                   (50)  54 F4549 1:40:08                                       (SAO PAULO           )
-  548   695 �LAUDIA B FIORILLO             (62)  97 F3539 1:40:11         FAC ASS IPIRANGA              (SAO PAULO           )
+  548   695 ‡LAUDIA B FIORILLO             (62)  97 F3539 1:40:11         FAC ASS IPIRANGA              (SAO PAULO           )
   549   581 SORAIA ALE SOUZA               (66)  93 F3034 1:40:17                                       (SAO PAULO           )
   550   718 ROSANA BEVILACQUA              (71)  71 F2529 1:40:26         AC FILIPINI                   (SAO PAULO           )
   551   764 VANILDA SALLES GOMES           (65)  94 F3034 1:40:30         ASCOBRAPA                     (BRAGANCA PAULISTA   )
@@ -793,4 +793,3 @@
   793   257 ANTONIA LUCIA C FREGNI         (50)  76 F4549 2:11:35         CORREBAS                      (SAO PAULO           )
   794   415 MARIA CECILIA GIAO DE CAMPOS   (53)  77 F4549 2:20:36                                       (SAO PAULO           )
   795  4881 ISMENIA GALVAO MALTA           (64) 145 F3539 2:24:17                                       (                    )
-      Noticias sobre esporte: http://www.totalsport.com.br                  

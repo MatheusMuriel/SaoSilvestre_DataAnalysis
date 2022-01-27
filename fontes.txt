@@ -5,4 +5,7 @@ https://www.gazetaesportiva.com/sao-silvestre/resultados/
 
 
 
-Regex de filtro de cabeçalho: ^(?!\s+\d+).*\n
+Regex de filtro de cabeçalho: 
+
+^(?!\s+\d+).*\n
+^(?!\s*\d+).*\n

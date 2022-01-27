@@ -1,4 +1,3 @@
-                                                                   78A. S�O SILVESTRE - 2002
         1        20010   MARIZETE DE PAULA REZENDE                28   F2529       -    F   E                    CTA ARARAQUARA           00:54:02
         2        20003   ADRIANA DE SOUZA                         29   F2529       -    F   E                    A.A.M MIZUNO             00:54:29
         3        20001   MARIA ZEFERINA R BALDAIA                 30   F3034       -    F   E                    STA ELISA/MIZUNO         00:54:38
@@ -1143,5 +1142,4 @@
         1142     21141   CELIA HORTA                             40   F4044      187   F                                                 02:25:33
         1143     22358   KIYOKO KOHIGASHI                        59   F5559      25    F                                                 02:25:42
         1144     21890   ELVIRA MARIA DE SOUZA                   57   F5559      26    F                                                 02:26:46
-        1145     21616   MARIA DA SOLIDADE SANTOS                44   F4044      188   F                                                 02:27:19
-        1146     21253   RUBIA MARIZA DE AZEVEDO SILVA           51   F5054      76    F                                                 02:27:31
+        1145     21616   MARIA DA SOLIDADE SANTOS                44   F4044      188   F                                                 02:27:19        1146     21253   RUBIA MARIZA DE AZEVEDO SILVA           51   F5054      76    F                                                 02:27:31
