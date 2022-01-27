@@ -1,4 +1,3 @@
-
     1     1 PAUL TERGAT                    (69)     M3034 0:44:35  2.58 QUENIA                        (                    )
     2    15 TESFAYE TOLA                   (74)     M2529 0:44:40  2.59 ETIOPIA                       (                    )
     3     6 WILLIAM KIPLAGAT               (72)     M2529 0:44:44  2.59 QUENIA                        (                    )
@@ -42,7 +41,6 @@
    41   132 NELSON FRANCISCO DE MATOS      (64)   2 M3539 0:48:43  3.15 DMELOTERICA B SORTE           (                    )
    42    35 LINDEMBERG GOMES NUNES         (63)   3 M3539 0:48:50  3.15 PE DE VENTO BRASILIA          (                    )
    43   114 ROBERTO MARCIRIO               (68)   1 M3034 0:48:54  3.16 RAT MALLET ASAT               (                    )
-
    44   524 WILLIAN SALGADO GOMES          (79)   6 M2024 0:48:55  3.16 AA PAPA LEGUAS                (                    )
    45   552 GIOMAR PEREIRA DA SILVA        (72)   4 M2529 0:48:56  3.16 AFAC UCFS                     (                    )
    46     8 GERALDO FRANCISCO DE ASSIS     (65)   2 M3034 0:49:02  3.16 CRUZEIRO E.C.                 (BRASIL              )
@@ -86,7 +84,6 @@
    84   501 CLAUDEMIR DE CASTRO BARBOSA    (74)  19 M2529 0:50:26  3.22 SAO PAULO FC                  (                    )
    85  2327 MANOEL NOVAES DARO CHA         (74)  20 M2529 0:50:27  3.22 P A CLUBE                     (GUARULHOS           )
    86  4284 MILTON MESSIAS PEDROSO         (66)  19 M3034 0:50:28  3.22 A CONSTRUTORA                 (BARRETOS            )
-
    87   539 RICARDO LUIZ DA SILVA          (68)  20 M3034 0:50:29  3.22 CSS II EX                     (                    )
    88   101 GILMAR DE BUS                  (78)  10 M2024 0:50:30  3.22 MARECHAL CANDIDO RONDON       (                    )
    89   702 GILSON RODRIGUES DE MIRANDA    (73)  21 M2529 0:50:30  3.22 JAIR ROSSETTI OSASCO          (                    )
@@ -130,7 +127,6 @@
   127   738 ROBSON ALEXANDRE VALIM DE LIMA (71)  33 M2529 0:51:38  3.27 MARCOS PAULO REIS A E         (                    )
   128  4508 ANTONIO ARAUJO DE SANTANA IRMA (66)  30 M3034 0:51:39  3.27                               (S PAULO             )
   129   584 ALDEIR GOMES LIMA              (70)  34 M2529 0:51:40  3.27 REVELACAO ACM                 (                    )
-
   130   124 CUSTODIO MONTEIRO DE CARVALHO  (57)   4 M4044 0:51:40  3.27 CRUZEIRO EC                   (                    )
   131 11796 LUCIANO FERREIRA DE SOUZA      (72)  35 M2529 0:51:41  3.27 FUZILEIROS NAVAIS             (RIO DE JANEIRO      )
   132   677 SERGIO LUIS PEREIRA            (71)  36 M2529 0:51:41  3.27 FUZILEIROS NAVAIS             (                    )
@@ -174,7 +170,6 @@
   170  2376 ALEXSANDRO NERY DOS SANTOS     (79)  26 M2024 0:52:21  3.29 P A CLUBE                     (SP                  )
   171  9498 JOSE NASCIMENTO SOUSA          (49)   1 M5054 0:52:23  3.30 GARRA DE AGUIA                (                    )
   172   535 ROGERIO PAULA DA SILVA         (76)  27 M2024 0:52:24  3.30 C ESPORTIVO DA PENHA          (                    )
-
   173   557 ANTONIO FEITOSA DIAS           (72)  48 M2529 0:52:24  3.30 ASS DEP UNIMEP                (                    )
   174    18 DIONISIO CASTRO                (63)  14 M3539 0:52:25  3.30 PORTUGAL                      (                    )
   175 11701 APARECIDO MOREIRA DE ARAUJO    (59)   7 M4044 0:52:25  3.30 IAL                           (LINS                )
@@ -218,7 +213,6 @@
   213  9677 ADILSON JOSE PEREIRA           (68)  44 M3034 0:53:06  3.32 PREF MUNIC D ECAMPESTRE       (CAMPESTRE           )
   214   676 JONAS RICARDO NICOLEIT         (80)   9 M1519 0:53:06  3.32 UNISUL                        (                    )
   215    96 LUIS RAIMUNDO DIAS             (75)  33 M2024 0:53:08  3.33 VASCO DA GAMA                 (                    )
-
   216  9332 ANDRE LUIZ DOS SANTOS          (76)  34 M2024 0:53:08  3.33 ACORC                         (CARAGUATATUBA       )
   217   602 FERNANDO PEREIRA DO CARMO      (79)  35 M2024 0:53:09  3.33 QUELONIOS                     (                    )
   218   703 FRANCISCO CARLOS SILVA         (75)  36 M2024 0:53:10  3.33 PETSR SAO ROQUE               (                    )
@@ -262,7 +256,6 @@
   256  9451 JORGE LUIZ DE SOUZA SANTOS     (61)  21 M3539 0:53:55  3.36 VAMOS CORRER                  (NOVA IGUACU         )
   257   537 TADEU MARQUES FERREIRA         (74)  77 M2529 0:53:56  3.36 CE PENHA                      (                    )
   258   553 EGNALDO SILVA AMELO            (63)  22 M3539 0:53:59  3.36 ADC NITROQUIMICA              (                    )
-
   259   145 PAULO ROBERTO RIANELLI         (73)  78 M2529 0:54:00  3.36 PE DE VENTO JUIZ DE FORA      (                    )
   260  8746 VICENTE DE PAULA SILVA         (56)  11 M4044 0:54:01  3.36 CORUAP                        (JUNDIAI             )
   261   652 JOATAN CABIDELLE DOS SANTOS    (77)  42 M2024 0:54:02  3.36 GAE-ARACRUZ                   (                    )
@@ -306,7 +299,6 @@
   299  6496 JOSE ROBERTO ALMEIDA ALVES     (73)  85 M2529 0:54:44  3.39 SESPOL SESI VOTRANTIM         (SALTO DE PIRAPORA   )
   300   550 WILLIAM GATTI DIAS             (77)  50 M2024 0:54:45  3.39 4A BRIGADA POUPEX             (                    )
   301   606 JOAO BARBOSA DE SOUZA          (68)  59 M3034 0:54:46  3.39 NELSON EVENCIO TRAINING       (                    )
-
   302  4775 MARCOS PAULO ESPIRITO SANTO    (75)  51 M2024 0:54:47  3.39 CAC CURITIBA                  (CURITIBA            )
   303   846 ALUIZIO LAURINDO DA PAZ        (64)  32 M3539 0:54:49  3.39 CORREIOS                      (                    )
   304 12367 JOSE CARLOS RODRIGUES SANTOS   (71)  86 M2529 0:54:49  3.39 BARRAMARESI SOLETUR           (                    )
@@ -350,7 +342,6 @@
   342  7941 ANTONIO JOSE DOS SANTOS        (62)  40 M3539 0:55:16  3.41                               (SP                  )
   343  9799 ELIESIO MIRANDA                (75)  56 M2024 0:55:16  3.41 TOCANTINS                     (PALMAS              )
   344 10450                                ( 0)  10       0:55:16  3.41                               (                    )
-
   345 12631 CRISTIANO DA SILVA MACHADO     (81)  15 M1519 0:55:17  3.41 ASCORV                        (VARGINHA            )
   346   698 MIGUEL FIALHO DA SILVA         (66)  70 M3034 0:55:17  3.41 ADC NITROQUIMICA              (                    )
   347    75 JOARES DE SOUZA ALBUQUERQUE    (70)  95 M2529 0:55:17  3.41 BINGOL CLUBE                  (                    )
@@ -394,7 +385,6 @@
   385 11024 LOURIVALDO DOS ANJOS ROCHA     (65)  80 M3034 0:55:53  3.44 ADVALDO                       (SAO PAULO           )
   386  9722 ALTAIR DIVIESO ROMAN           (65)  81 M3034 0:55:54  3.44 POLICIA CIVIL SP              (REGENTE FEIJO       )
   387   727 EDVAL BARBOSA PAZ              (62)  48 M3539 0:55:54  3.44 ARUFER ARUJA FERR             (                    )
-
   388 10086 CLEYTON LUIZ AGUIAR            (83)  17 M1519 0:55:54  3.44 AFM FRANCISCO BELTRAO         (FRANCISCO BELTRAO   )
   389  4371 ANTONIO PEDRO DA SILVA SALES   (75)  63 M2024 0:55:55  3.44                               (CABREUVA            )
   390  9656 JOSE ROBERTO PEREIRA DE JESUS  (78)  64 M2024 0:55:55  3.44 AJA SER DE JAU                (JAU                 )
@@ -438,7 +428,6 @@
   428   586 CARLOS ALBERTO SILVA SENA      (66)  90 M3034 0:56:13  3.45 ACM ITAQUERA                  (                    )
   429 10297 WANLOO DA SILVA TORQUATO       (72) 109 M2529 0:56:14  3.45 CORRIM                        (IMPERATRIZ          )
   430  7341 PEDRO SOUZA ALMEIDA            (78)  72 M2024 0:56:15  3.45 ESCOLA ADVENTITA              (MORUNGABA           )
-
   431  9464 MARCELO LIMA ARAUJO            (72) 110 M2529 0:56:16  3.45 SEC PRAIA GRANDE EC           (PRAIA GRANDE        )
   432 12705 ALEX DOS SANTOS OLIVEIRA       (74) 111 M2529 0:56:17  3.45 CABANA ARCUI                  (ILHEUS              )
   433  9435 ANTONIO FERNANDO B SIMOES      (57)  30 M4044 0:56:17  3.45 ASPAM                         (AMERICANA           )
@@ -482,7 +471,6 @@
   471  4776 SAMUEL BISPO DE MACEDO         (72) 126 M2529 0:56:40  3.47 CAC CURITIBA                  (CURITIBA            )
   472  6028 FRANCISCO DORIVAL PEIXOTO      (61)  54 M3539 0:56:40  3.47 BANCO BNL DO BRASIL           (SAO PAULO           )
   473 12407 VICENTE DA CUNHA MELO          (56)  34 M4044 0:56:41  3.47 CORREIOS                      (                    )
-
   474 10639 VANDERSON DA FONSECA PEREIRA   (83)  23 M1519 0:56:41  3.47 E A VARGEM GRANDE PAULISTA    (                    )
   475 11285 EDER DE JESUS GALDINO          (81)  24 M1519 0:56:42  3.47 AMA                           (OURO PRETO          )
   476 12398 JUNIVAL RODRIGUES SANTOS       (70) 127 M2529 0:56:42  3.47 CORREIOS                      (                    )
@@ -526,7 +514,6 @@
   514  2387 RONALDO NERIS DA SILVA MELO    (70) 136 M2529 0:57:08  3.49 P A CLUBE                     (SP                  )
   515  8213 JOSE ALEXANDRINO DA SILVSA     (73) 137 M2529 0:57:08  3.49 ANONIMO                       (ITAQUA              )
   516  9543 WILSON PAES                    ( 0)  62 M3539 0:57:09  3.49 COLIDER                       (COLIDER             )
-
   517  4983 FRANCISCO DE PAIVA AMORIM      (48)   4 M5054 0:57:10  3.49 CORPORE                       (                    )
   518 10445 ANTONIO A DIONISIO CANDIDO     (77)  86 M2024 0:57:10  3.49 J PARANA GSE AMIGO            (JI PARANA           )
   519  9349 CLEBER PAULO PEREIRA           (74) 138 M2529 0:57:12  3.49 ARA                           (JATAI               )
@@ -570,7 +557,6 @@
   557  7909 JOSE LEOPOLDO VITAL            (55)  41 M4044 0:57:32  3.50 ADC NITRO QUIMICA             (SP                  )
   558 10911 MARIVAL AMARAL DO ROSARIO      (63)  70 M3539 0:57:33  3.50                               (                    )
   559  2835 ODILON DUTRA                   (49)   5 M5054 0:57:36  3.50 ASCORT FUKUOKA                (TAUBAT�             )
-
   560 11026 CIERO MACEDO LEITE             (62)  71 M3539 0:57:37  3.50 ADVALDO                       (SAO PAULO           )
   561 12615 JOAO CRUZ CORDEIRO ALVES       (72) 150 M2529 0:57:37  3.50                               (SENADOR CANEDO      )
   562  3783 AFRANIO FERREIRA GRIGORIO      (71) 151 M2529 0:57:38  3.51                               (COREAU              )
@@ -614,7 +600,6 @@
   600  7581 CLAUDIO CAVALCANTE             (77) 101 M2024 0:57:59  3.52 CORNING RIO CLARO             (RIO CLARO           )
   601  9217 JULIO CESAR FERREIRA DA ROCHA  (65) 120 M3034 0:57:59  3.52 ARROZ DANIELA                 (TATAI               )
   602  5983 MANOEL RIBEIRO NETO            (64)  78 M3539 0:57:59  3.52 BANCO BNL DO BRASIL           (SAO PAULO           )
-
   603  9153 RENALDO DE JESUS SANTOS        (67) 121 M3034 0:58:00  3.52 VILA OLIMPICA                 (ITABUNA             )
   604  3727 JADER PRADO DE LIMA            (76) 102 M2024 0:58:01  3.52 TRILOPEZ                      (MAIRIPORA           )
   605  4788 ANTONIO SILVIO DOS SANTOS      (75) 103 M2024 0:58:01  3.52 CAC CURITIBA                  (COLOMBO             )
@@ -658,7 +643,6 @@
   643 10366 CARLOS SOARES DOS SANTOS       (62)  86 M3539 0:58:20  3.53                               (PORTO SEGURO        )
   644 12571                                ( 0)  16       0:58:20  3.53                               (                    )
   645  9374 GILSON CARLOS                  (83)  33 M1519 0:58:21  3.53 AGUDOS                        (AGUDOS              )
-
   646 10122 JOSE OSMAR SANTOS              (63)  87 M3539 0:58:23  3.54                               (GUARAPUAVA          )
   647 11848 EDIELSON MORAES DE MELO        (78) 110 M2024 0:58:23  3.54 EXERCITO BRASILEIRO           (PARANA              )
   648 12450 LUIS AGUERO                    (76) 111 M2024 0:58:23  3.54 4 CIA CMB MEC                 (JARDIM              )
@@ -702,7 +686,6 @@
   686   726 LUCAS FERREIRA DE PAIVA        (71) 167 M2529 0:58:40  3.55 VICO FARMA                    (                    )
   687 10192 DANIEL CARLOS LOUREIRO         (63)  94 M3539 0:58:40  3.55 GAE                           (VILA VELHA          )
   688  2595 GIBSON OLIVEIRA LEITE          (76) 120 M2024 0:58:40  3.55 FREQUENCIA MAXIMA             (RESENDE             )
-
   689 12509 JOSE FRANCISCO SOARES          (63)  95 M3539 0:58:40  3.55 AABB FAVILE                   (MAL CANDIDO RONDON  )
   690 10294 MARCELO COLACO DO ROSARIO      (81)  34 M1519 0:58:40  3.55 SAO JOAO DEL REY              (CURITIBA            )
   691 11218 NILTON CESAR ANDRADE           (80)  35 M1519 0:58:40  3.55 ASS BOTUCATU                  (BOTUCATU            )
@@ -746,7 +729,6 @@
   729  7156 MIGUEL CAETANO DANTAS          (68) 142 M3034 0:58:57  3.56 TIETE VANESSA SUCOS           (SP                  )
   730 12497 MARCELO VILNILUSKI             (76) 129 M2024 0:58:58  3.56 ACORVALI                      (CRUZ MACHADO        )
   731  9641 CARLOS HENRIQUE DE SOUZA       (63) 103 M3539 0:58:58  3.56 UFLA UNIV FED DE LAVRAS       (LAVRAS              )
-
   732 12404 SIDNEI FERREIRA                (52)  18 M4549 0:58:59  3.56 CORREIOS                      (                    )
   733 12588                                ( 0)  21       0:58:59  3.56                               (                    )
   734  5141 REINALDO NUNES                 (66) 143 M3034 0:58:59  3.56 2� BC                         (                    )
@@ -790,7 +772,6 @@
   772  9624 LUIZ CLAUDIO DA SILVA          (74) 181 M2529 0:59:18  3.57 AA PERNALONGA                 (SANTOS DUMONT       )
   773  4782 ANTONIO GONCALVES DIAS         (74) 182 M2529 0:59:20  3.57 CAC CURITIBA                  (CURITIBA            )
   774 11685 JOSE GONCALVES MARQUES         (58)  60 M4044 0:59:20  3.57 CORBRAZ                       (BRASILIA            )
-
   775  1934 PEDRO ARAUJO DE FRANCA         (69) 152 M3034 0:59:21  3.57                               (SAO PAULO           )
   776   532 JOSE FRANCISCO DA SILVA        (70) 183 M2529 0:59:21  3.57 EC TAVARES AMIAMSPE           (                    )
   777  8977 SELMO GOMES DOS SANTOS         (72) 184 M2529 0:59:21  3.57 VAGALUME                      (SP                  )
@@ -834,7 +815,6 @@
   815  9662 ANTONIO ROBERTO FURLANETTO     (71) 193 M2529 0:59:41  3.59 AJA SER DE JAU                (JAU                 )
   816 11754 ALDENIR DOS SANTOS             (62) 112 M3539 0:59:41  3.59 MACAE                         (MACAE               )
   817 11606 IVO RODRIGUES DOS SANTOS       (60) 113 M3539 0:59:42  3.59 NOVA ESPERANCA                (NOVA ESPERANCA      )
-
   818 10278 MANCEL PINHEIRO                (71) 194 M2529 0:59:42  3.59 PREF MUN OLIMPIA              (                    )
   819 11695 VALTER MARTINS BEZERRA         (64) 114 M3539 0:59:43  3.59 COLEGIO MACKENZIE BRASILIA    (BRASILIA            )
   820  8351 JAURO PEREIRA GOMES FERREIRA   (78) 145 M2024 0:59:43  3.59 ADCCTA                        (PINDAMONHANGABA     )
@@ -878,7 +858,6 @@
   858 11447 GENILTON SILVA DE SANTANA      (67) 163 M3034 1:00:06  4.00 CHAVEIRO GSS                  (                    )
   859 10039 PAULO RICARDO ABRAHAO          (68) 164 M3034 1:00:07  4.00 CR RIOCELL VENANCIO AIRES     (V AIRES             )
   860   693 LENINE MAERCIO LOPES           (73) 205 M2529 1:00:07  4.00 BBV TRILOPES                  (                    )
-
   861  6667 DANIEL EDUARDO S DE MIRANDA    (75) 154 M2024 1:00:07  4.00 CIRCULO MILITAR SP            (SAO PAULO           )
   862  2314 DEAILTON SILVA DE JESUS        (78) 155 M2024 1:00:08  4.01 P A CLUBE                     (EMBU                )
   863   554 JACINTO MENDES DA SILVA        (59)  66 M4044 1:00:09  4.01 ADC NITROQUIMICA              (                    )
@@ -922,7 +901,6 @@
   901 12250 SEBASTIAO ROGERIO DE ALMEIDA   (57)  69 M4044 1:00:22  4.01 GUARDA CIVIL METROPOLITANA    (EMBU DAS RATES      )
   902 12384                                ( 0)  29       1:00:23  4.02                               (                    )
   903  2712 JOSE GOMES DA SILVA            (57)  70 M4044 1:00:23  4.02                               (                    )
-
   904  4173 EDVALDO OLIVEIRA DE SOUZA      (92)   6 M0014 1:00:23  4.02                               (SAO JOAQUIM DA BARRA)
   905  9479 ANTONIO JOSE TOFALINE          (74) 212 M2529 1:00:23  4.02                               (CAMBE               )
   906   969                                ( 0)  30       1:00:24  4.02                               (                    )
@@ -966,7 +944,6 @@
   944   614 FABIO DA SILVA                 (70) 219 M2529 1:00:42  4.03 GAE ES                        (                    )
   945  6685 JADIR PEREIRA DA SILVA         (64) 136 M3539 1:00:42  4.03 CONSTRUTORA DALAS LISBOA      (RIO G DA SERRA      )
   946 10349 HELIO HENNIKA                  ( 0)   5 F7099 1:00:43  4.03 GREMIO PASABORY               (PORTO ALEGRE        )
-
   947  7632 ENOC GONCALVES                 (61) 137 M3539 1:00:44  4.03                               (                    )
   948   739 PAULO ROMAGNOLI                (58)  72 M4044 1:00:44  4.03 MPR                           (                    )
   949  8275                                ( 0)  31       1:00:45  4.03                               (ITAJAI              )
@@ -1010,7 +987,6 @@
   987 12392 CICERO SOARES DOS SANTOS       (69) 195 M3034 1:01:06  4.04 CORREIOS                      (                    )
   988  8086 CONSTANTINO DOS SANTOS SOUZA   (81)  60 M1519 1:01:07  4.04 MARCORRER CORPP               (SAO PAULO           )
   989  9027 JULIO CESAR PIRES              (77) 171 M2024 1:01:08  4.05                               (TANABI              )
-
   990  3354 REINAVALDO BISPO DOS SANTOS    (69) 196 M3034 1:01:08  4.05 HAUSE PREST SERVI�OS          (SAO PAULO           )
   991 10795 GILBERTO DA SILVA ROQUE        (79) 172 M2024 1:01:08  4.05 MANDI ESPORTIVO               (                    )
   992  4648 PAULO SERGIO DA SILVA          (79) 173 M2024 1:01:09  4.05                               (DIADEMA             )
@@ -1054,7 +1030,6 @@
  1030  9378 ANDERSON DELFINO               (83)  62 M1519 1:01:25  4.06 AGUDOS                        (AGUDOS              )
  1031  2703 EDMILSON JORGE NINA            (69) 204 M3034 1:01:25  4.06                               (                    )
  1032 12383                                ( 0)  36       1:01:25  4.06                               (                    )
-
  1033  4378 FRANCISCO ALBERTO ALMEIDA LIMA (66) 205 M3034 1:01:25  4.06                               (SAO B DO CAMPO      )
  1034 10506 CLAUDIONOR CARVALHO DAS MERCES (73) 232 M2529 1:01:25  4.06 E C TAVARES                   (SP                  )
  1035 12298 WAGNER GARCIA DE MORAES        (81)  63 M1519 1:01:26  4.06                               (                    )
@@ -1098,7 +1073,6 @@
  1073  9820 ADALMIR LOPES DA SILVA         (82)  69 M1519 1:01:40  4.07 TOCANTINS                     (PINDORAMA           )
  1074  7728 OTO FREDERICO DE FRANCA HANSEN (81)  70 M1519 1:01:40  4.07 FUNC ATLETA                   (JUIZ DE FORA        )
  1075  9504 JOSE APARECIDO TEIXEIRA        (61) 154 M3539 1:01:41  4.07 NOVO HORIZONTE                (NOVO HORIZONTE      )
-
  1076  2038 ALBERTO BEZERRA SOARES         (80)  71 M1519 1:01:42  4.07 CORRER                        (SAO PAULO           )
  1077 11373 JOSE WILSON CARVALHO LIMA      (77) 185 M2024 1:01:42  4.07                               (                    )
  1078 10036 JORGE JSOE SOARES              (63) 155 M3539 1:01:42  4.07 CR RIOCELL SESI               (GRAVATAI            )
@@ -1142,7 +1116,6 @@
  1116  2875 VALDECIR BATISTA DOS SANTOS    (64) 164 M3539 1:01:56  4.08                               (S PAULO             )
  1117  9988 GILMAR DO SACRAMENTO           (67) 217 M3034 1:01:56  4.08 PM SERGIPE                    (ARACAJU             )
  1118  2836 JOSE EVALDO RIBEIRO            (77) 193 M2024 1:01:57  4.08 ASCORT STOP SOM               (TAUBATE             )
-
  1119 10231 JOSE VENICIO DE LIMA           (69) 218 M3034 1:01:57  4.08                               (VARGINHA            )
  1120 10033 VALCI BRITO DA SILVA           (56)  82 M4044 1:01:57  4.08 CR RIOCELL AABB SESI          (GRAVATAI            )
  1121  1388 EDVALDO GUABERTO DE LIRA       (59)  83 M4044 1:01:58  4.08                               (SAO PAULO           )
@@ -1186,7 +1159,6 @@
  1159  6481 PAULO JOSE DOS REIS            (53)  36 M4549 1:02:15  4.09 ADC COGNIS                    (JACAREI             )
  1160  9296 JOSE IVAIR DOMINGUES           (67) 227 M3034 1:02:16  4.09 VIECOM BRASIL                 (MAUA                )
  1161  1408 MIGUEL PEREIRA DA SILVA        (73) 257 M2529 1:02:16  4.09                               (CAJAMAR             )
-
  1162  7671 MARINAUDO BRITO MARTINS        (74) 258 M2529 1:02:16  4.09                               (                    )
  1163 11365 ANTONIO CARLOS DA CRUZ FERREIR (75) 200 M2024 1:02:17  4.09 BRUNO DANIEL                  (                    )
  1164 12657 SILVIO DA SILVA DUARTE         (52)  37 M4549 1:02:17  4.09 POSTO PERY                    (CURITIBANOS         )
@@ -1230,7 +1202,6 @@
  1202  3810 JOSE GERALDO FRANCA            (76) 207 M2024 1:02:33  4.10                               (SALTO               )
  1203 12587                                ( 0)  38       1:02:34  4.10                               (                    )
  1204  2357 ANTONIO DOS SANTOS             (67) 234 M3034 1:02:34  4.10 P A CLUBE                     (SP                  )
-
  1205  8444 ADILSON FERREIRA DA SILVA      (66) 235 M3034 1:02:34  4.10                               (SP                  )
  1206  4414 JOAO GUILHERME DOS SANTOS      (73) 268 M2529 1:02:34  4.10                               (SAO VICENTE         )
  1207 10798 CARLOS BARBOSA OLIVEIRA        (64) 181 M3539 1:02:35  4.10 MANDI ESPORTIVO               (                    )
@@ -1274,7 +1245,6 @@
  1245 12543 JOSE PEREIRA DE SOUSA          (60) 186 M3539 1:02:49  4.11 TRANSP MAGRAO                 (                    )
  1246   556 MANOEL TEOTONIO DA SILVA       (71) 277 M2529 1:02:49  4.11 ANDORINHA SUPERMERCADO        (                    )
  1247  9793 OSMERIO SILVA CARVALHO         (54)  42 M4549 1:02:50  4.11 GAE AVAES                     (VITORIA             )
-
  1248   595 MARCO AURELIO MONTEMEZZ VARGAS (75) 216 M2024 1:02:50  4.11 FILA DO BRASIL ORPHEU         (                    )
  1249  5219 ANTONIO CLAUDIO DE GODOY       (72) 278 M2529 1:02:50  4.11                               (                    )
  1250 11753 NILTON CRISOSIO DA SILVA       (75) 217 M2024 1:02:50  4.11 CORDF BRASILIA                (VALPARAISO          )
@@ -1318,7 +1288,6 @@
  1288 11412 ROMILDO MENDES                 (78) 224 M2024 1:03:00  4.12 DME CAPAO BONITO              (                    )
  1289 12005                                ( 0)  44       1:03:00  4.12                               (                    )
  1290  9730 CARLOS DOS REIS LEAL           (60) 192 M3539 1:03:01  4.12 ACORD DIVINOPOLIS             (FORMIGA             )
-
  1291 10130 NEWTON DONIZETE DO NASCIMENTO  (70) 288 M2529 1:03:01  4.12 JARDINOPOLIS                  (JARDINOPOLIS        )
  1292 12696 BUGRE DAMIAO SANTOS            (71) 289 M2529 1:03:01  4.12 TURMA DO BAHIANO              (                    )
  1293  5195 EBIEZER LOUREIRO               (47)  18 M5054 1:03:02  4.12                               (                    )
@@ -1362,7 +1331,6 @@
  1331 10225 JOSE ALEXANDRE PEREIRA         (70) 294 M2529 1:03:17  4.13 GREMIO POA                    (POA                 )
  1332  1419 JOAO JOSE DE ALKIMIM           (69) 251 M3034 1:03:17  4.13                               (SAO PAULO           )
  1333  3540 ADRIANO LIMEIRA DE LIMA        (74) 295 M2529 1:03:17  4.13 NOVA ERA                      (SAO PAULO           )
-
  1334 10110 JACI HONORIO DE PAULA          (60) 197 M3539 1:03:18  4.13                               (FORMIGA             )
  1335  6548 VALDIR APARECIDO B DE CAMARGO  (79) 231 M2024 1:03:18  4.13                               (S PAULO             )
  1336  1845 MANOEL BATISTA DE ALEXANDRIA   (67) 252 M3034 1:03:19  4.13                               (COTIA               )
@@ -1406,7 +1374,6 @@
  1374 12708 MAURILEI SEBASTIAO ANASTACIO   (79) 237 M2024 1:03:31  4.14                               (BARBACENA           )
  1375  3648 VICENTE LOPES LIMA             (64) 208 M3539 1:03:31  4.14 EQUIPE MULTIBRAS S/A          (S BERNARDO DO CAMPO )
  1376  7858 JOSE CARLOS COSTA              (47)  21 M5054 1:03:31  4.14 CORAJ                         (SAO JOSE DOS CAMPOS )
-
  1377  9678 AFONSO BATISTA DA SILVA        (56) 106 M4044 1:03:32  4.14 PREF MUNIC DE CAMPESTRE       (CAMPESTRE           )
  1378  6824 REINALDO GON�ALVES FAL�AO      (73) 302 M2529 1:03:32  4.14 ALCEU MOTOS                   (BARUERI             )
  1379  9121 OSVALDO MENESES DOS SANTOS     (56) 107 M4044 1:03:32  4.14 COOPEC SINTSEF BA             (ITABUNA             )
@@ -1450,7 +1417,6 @@
  1417 11637 MARCIUS DOS SANTOS SALVE       (59) 113 M4044 1:03:41  4.15 CUCA GRABER                   (CAMPINAS            )
  1418  9218 LUIZ CARLOS COMDE              (59) 114 M4044 1:03:42  4.15 BARBACENA                     (BARBACENA           )
  1419 10678 VILMAR GOES DE ALMEIDA         (61) 214 M3539 1:03:42  4.15 POLICIA FERROVIA FED          (                    )
-
  1420  9372 ANGELO PEREIRA                 (83)  94 M1519 1:03:42  4.15 AGUDOS                        (AGUDOS              )
  1421 10451                                ( 0)  47       1:03:42  4.15                               (                    )
  1422  6783 VANDERLEI TAVARES RIBEIRO      (70) 308 M2529 1:03:42  4.15 BAR CASTELO                   (SAO JOSE DOS CAMPOS )
@@ -1494,7 +1460,6 @@
  1460  9312 GOLOFRIDO GONSALVES DE ALMEIDA (44)  12 M5559 1:03:54  4.16                               (SALVADOR            )
  1461 12277 GILVAN ROMS SABARA             (68) 281 M3034 1:03:55  4.16 EQUIPE AGUIA                  (                    )
  1462  9029 PAULO DE MENEZES SILVA         (60) 217 M3539 1:03:55  4.16                               (APARECIDA DE GOIANIA)
-
  1463  6854 RONALDO MARCOS DE OLIVEIRA     (79) 247 M2024 1:03:56  4.16 FACULDADE R PIRES             (MAUA                )
  1464  2206 ELSON PEREIRA DA SILVA         (75) 248 M2024 1:03:56  4.16 VOLUNTARIOS HP MARTE          (SAO PAULO           )
  1465  6512 ROBERTO ANSELMO DE ARAUJO      (50)  55 M4549 1:03:56  4.16 SESPOL/SESI VOTORANTIM        (SOROCABA            )
@@ -1538,7 +1503,6 @@
  1503  7679 ANTONIO REIS ANDRADE           (56) 126 M4044 1:04:10  4.17                               (                    )
  1504 12601 FRANCISCO DAS CHAGAS A RODRIGS (68) 290 M3034 1:04:10  4.17 ACAV                          (FORTALEZA           )
  1505  4937 LUIS FRANCISCO SORIANI         (58) 127 M4044 1:04:10  4.17 DECET ITAPIRA                 (                    )
-
  1506   544 ARMINDO ALVES DE OLIVEIRA      (58) 128 M4044 1:04:10  4.17 HIDRAULI CUMULUS              (                    )
  1507  8743 ALENOIR ALVES DA SILVA         (63) 223 M3539 1:04:10  4.17 FIND YOURSELF                 (                    )
  1508  9309 LUCIANO FREITAS DE ANDRADE     (77) 259 M2024 1:04:11  4.17 ROMAR VIDROS                  (MARINGA             )
@@ -1582,7 +1546,6 @@
  1546  8192 EDIVALDO BUENO DO PRADO        (68) 296 M3034 1:04:21  4.17 ITACABOS OXBRIDGE             (JUNDIAI             )
  1547 12012                                ( 0)  49       1:04:21  4.17                               (                    )
  1548 10155 MARCOS ANTONIO RIBEIRO         (60) 233 M3539 1:04:22  4.17 PREF MUNCIPAL NORTE           (CIANORTE            )
-
  1549  6063 RFIGENIO ALVES CAVALCANTE      (62) 234 M3539 1:04:22  4.17 BANCO BNL DO BRASIL           (SAO PAULO           )
  1550 11486 SIDNEY FERREIRA RODRIGUES      (70) 324 M2529 1:04:22  4.17 CASTANHAL E CLUBE             (                    )
  1551 10265 EURIPEDES SEVERO DE JESUS      (67) 297 M3034 1:04:22  4.17 CENTRAL MAT DE CONSTRUCAO     (GOIAS               )
@@ -1626,7 +1589,6 @@
  1589  1719 NOEL DA SILVA                  (75) 269 M2024 1:04:34  4.18 MONUMENTO SPORTS              (SAO PAULO           )
  1590  3748 JOSE ADEMIR DOS SANTOS         (75) 270 M2024 1:04:35  4.18 CME TREMEMBE                  (TREMEMBE            )
  1591  6918 JOSE CARLOS VARUSSA            (58) 134 M4044 1:04:36  4.18 GREMIO RIO CLARO              (RIO CLARO           )
-
  1592 10527 LUIS AUGUSTO DE VASCONCELLOS   (65) 303 M3034 1:04:37  4.18 E C TAVARES                   (SP                  )
  1593 11142 GEOVANE CARLOS DE MENEZES      (65) 304 M3034 1:04:37  4.18                               (SERRA DE SALITRE    )
  1594 11702 CARLOS ANTONIO BARBOSA         (79) 271 M2024 1:04:38  4.19 CORDF BRASILIA                (BRASILIA            )
@@ -1670,7 +1632,6 @@
  1632 11121 ANTONIO PINHEIRO DE ALMEIDA    (54)  70 M4549 1:04:48  4.19 QUEIROZ GALVAO SA             (UBERLANDIA          )
  1633  5702 ADISON SANTIAGO DE SOUZA       (68) 312 M3034 1:04:48  4.19 CORUJA                        (JUNDIAI             )
  1634 12641 RAIMUNDO ANTONIO R RASTELLY    (62) 248 M3539 1:04:49  4.19 PREF STO AMARO BA             (SANTO AMATO         )
-
  1635  8865 NEURI BONFIM DANTAS            (76) 276 M2024 1:04:49  4.19 NEURI 2000                    (TABOAO DA SERRA     )
  1636 12801 EDSON AP FERNANDES POLIDO      (61) 249 M3539 1:04:49  4.19 AGUDOS                        (AGUDOS              )
  1637 11545 MARKS COSTA DA SILVA           (71) 342 M2529 1:04:49  4.19 MARINHA                       (RIO DE JANEIRO      )
@@ -1714,7 +1675,6 @@
  1675 12241 JOCIEUDES OLIVEIRA DOS SANTOS  (78) 283 M2024 1:05:01  4.20                               (                    )
  1676 10056 CLEO ELIAS                     (81) 111 M1519 1:05:01  4.20 CR RIOCELL SESI               (EST VELHA           )
  1677  6986 EDIVALDO DOS SANTOS            (88)  12 M0014 1:05:02  4.20 CLINICA SERENE ARARAS         (ARARAS              )
-
  1678 10175 DAMIAO DO CARMO MOTEIRO        (60) 259 M3539 1:05:02  4.20 FAZENDA SANTO ANTONIO         (                    )
  1679  8435 CLEBSON DE JESUS MORAIS        (80) 112 M1519 1:05:04  4.20                               (SP                  )
  1680  1072 ELPIDIO ALVES MARTINS          (59) 141 M4044 1:05:04  4.20                               (SAO PAULO           )
@@ -1758,7 +1718,6 @@
  1718 12444 MIZAEL GONCALVES JUNIOR        (80) 116 M1519 1:05:19  4.21                               (GOIANIA             )
  1719 11045 ANTONIO J ALMEIDA S JR         (82) 117 M1519 1:05:19  4.21 CA ATIBAIA                    (ATIBAIA             )
  1720  1389 ANTONIO SANTOS SOUSA           (70) 353 M2529 1:05:19  4.21                               (SAO PAULO           )
-
  1721 12350 VANDERLEI PEREIRA              (68) 328 M3034 1:05:19  4.21 EEF PM                        (                    )
  1722  8412 HELIO ANTONIO DE ALMEIDA       (58) 145 M4044 1:05:20  4.21 XV DE ITAPETININGA            (SP                  )
  1723 10612 ANTONIO MARTINS DANTAS         (66) 329 M3034 1:05:20  4.21                               (                    )
@@ -1802,7 +1761,6 @@
  1761 12689 ROBERTO SANTOS DE J. FIGUEIRA  (64) 268 M3539 1:05:36  4.22 CIDREIRA                      (CIDREIRA            )
  1762   838 LUIS CLAUDIO ROCHA             (60) 269 M3539 1:05:37  4.22 CASSASP                       (                    )
  1763 12669 ANTONIO GOMES DOS REIS         (76) 295 M2024 1:05:39  4.23 CLUBE ASSOXUPE                (GUAXUPE             )
-
  1764  5961 CLOVES JOSE DE ANDRADE         (81) 119 M1519 1:05:39  4.23                               (SAO PAULO           )
  1765 11948                                ( 0)  58       1:05:40  4.23                               (                    )
  1766 11798 DIRCEU SOARDI                  (65) 340 M3034 1:05:40  4.23 PREFEITURA                    (ARAPOTI             )
@@ -1846,7 +1804,6 @@
  1804  6945 ADIGLEY FIRMINI DE LUCENA      (63) 278 M3539 1:05:54  4.24 OS INDEPENDENTES              (DIADEMA             )
  1805  4130 VALDENE PEREIRA DOS SANTOS     (73) 366 M2529 1:05:54  4.24 .                             (S PAULO             )
  1806  2949 JOAQUIM RODRIGUES DE MATOS     (64) 279 M3539 1:05:54  4.24 GUARDA MUNIC DE MONTE MOR     (MONTE MOR           )
-
  1807 10043 ITAMAR PIRES BRITO             (59) 156 M4044 1:05:54  4.24 SC INTERNANCIONAL POA         (SAO BORJA           )
  1808  8228 JOSE EDIVALDO DE OLIVEIRA      (66) 346 M3034 1:05:54  4.24 FLAVIO FREIRE                 (MONGAGUA            )
  1809  4750 DAMIAO SOARES DO NASCIMENTO    (78) 300 M2024 1:05:55  4.24                               (OSASCO              )
@@ -1890,7 +1847,6 @@
  1847  5982 MANOEL FRANCISCO DOS S SILVA   (77) 304 M2024 1:06:05  4.24 BANCO BNL DO BRASIL           (SAO PAULO           )
  1848  8685 REINALDO ANDRADE DOS SANTOS    (68) 359 M3034 1:06:05  4.24 REVAP PETROBRAS               (S J DOS CAMPOS      )
  1849 10838 LUCIVALDO LEITE DOS SANTOS     (76) 305 M2024 1:06:05  4.24 RUN  FUN                      (                    )
-
  1850 11004 RICARDO IRINEU DOS SANTOS      (67) 360 M3034 1:06:06  4.24 LITORAL PLAZA SHOPPIN         (SAO PAULO           )
  1851  3222 RONI ENITON MARTINS DA SILVA   (81) 123 M1519 1:06:06  4.24                               (MAUA                )
  1852  8482 JOAO ROBERTO DE SOUZA          (64) 286 M3539 1:06:07  4.24                               (STO ANDRE           )
@@ -1934,7 +1890,6 @@
  1890 12612 WALTER DE LIMA                 (77) 310 M2024 1:06:18  4.25 CORDF                         (BRASILIA            )
  1891  8428 MAURICIO OLIVEIRA DA SILVA     (79) 311 M2024 1:06:18  4.25 JOAO DO PULO                  (S J DOS CAMPOS      )
  1892  3372 RICARDO CISLINSCHI             (75) 312 M2024 1:06:18  4.25 GLORIMAR ESPORTES             (BARRA VELHA         )
-
  1893  2102 SILVESTRE DOS SANTOS FERREIRA  (71) 380 M2529 1:06:18  4.25                               (SAO PAULO           )
  1894  1858 RUI MAGALHAES BARRETO          (55) 162 M4044 1:06:19  4.25 RODELLY                       (SAO PAULO           )
  1895 11185 CICERO DA SILVA                (67) 370 M3034 1:06:19  4.25 ACR LESTE                     (SP                  )
@@ -1978,7 +1933,6 @@
  1933  9651 SALVADOR MANOEL DA ROCHA       (50)  88 M4549 1:06:34  4.26 AITA                          (ITABIRA             )
  1934 12439 EULER DOS SANTOS ALVES         (62) 302 M3539 1:06:34  4.26 TOSHIBA ACORGE                (CONTAGEM            )
  1935 12278 RULIAN CARDOSO DA ROSA         (74) 386 M2529 1:06:35  4.26 EQUIPE AGUIA                  (                    )
-
  1936  3531 NATAN NOEL SANTOS GOMES        (80) 130 M1519 1:06:35  4.26 CLUBE RECREATIVO              (HORTOLANDIA         )
  1937  1705 PAULO EDENILTON A DE SANTANA   (71) 387 M2529 1:06:35  4.26                               (SAO PAULO           )
  1938  8485 ALUIZIO DA SILVA               (67) 375 M3034 1:06:36  4.26 DROGARIA DIMAFARM             (SP                  )
@@ -2022,7 +1976,6 @@
  1976  6546 WILSON LUCIO DA COSTA          (79) 324 M2024 1:06:45  4.27                               (S PAULO             )
  1977  1399 JOSE GRACINO DA SILVA          (59) 169 M4044 1:06:46  4.27 ALPINA                        (SAO B DO CAMPO      )
  1978  1484 EDUARDO SOARES DE ARAUJO       (66) 382 M3034 1:06:46  4.27 VOLUNTARIO                    (SAO PAULO           )
-
  1979  2170 GIVALDO ALVES DOS SANTOS       (71) 398 M2529 1:06:47  4.27                               (SAO PAULO           )
  1980  5218 GILSON DA SILVA SNTOS          (57) 170 M4044 1:06:47  4.27 JESUS CRISTO                  (                    )
  1981  9146 HOSANO PEREIRA DOS SANTOS      (75) 325 M2024 1:06:48  4.27                               (SAO JOSE DOS CAMPOS )
@@ -2066,7 +2019,6 @@
  2019  6920 AGAMENON MACIEL DOS SANTOS     (78) 331 M2024 1:07:01  4.28                               (SP                  )
  2020  1218 UBIRATAN JOSE DE OLIVEIRA      (57) 176 M4044 1:07:01  4.28 CIRCULO MILITAR               (SAO PAULO           )
  2021  7384 ADRIANO OLIVEIRA VIGARIO       (75) 332 M2024 1:07:01  4.28 NOVO GUEREIRO                 (SAO PAULO           )
-
  2022  3401 DODAI TEIXEIRA SANTOS          (46)  40 M5054 1:07:02  4.28 GEL                           (TAUBATE             )
  2023  3501 RUBENS DOS SANTOS LIMA         (52)  94 M4549 1:07:02  4.28 RUBINHO CABELEREIRO           (SAO PAULO           )
  2024  4019 ANTONIO MARCOS LEMOS SOARES    (72) 409 M2529 1:07:03  4.28                               (SAO PAULO           )
@@ -2110,7 +2062,6 @@
  2062 11865 JORGE CARDOSO                  (54)  96 M4549 1:07:12  4.29 ASS ATLET DE ANGRA DOS REIS   (                    )
  2063  8904 ELIZEU DO NASCIMENTO           (71) 417 M2529 1:07:12  4.29                               (SP                  )
  2064  4320 CLECIO DE SOUZA SILVA          (81) 136 M1519 1:07:12  4.29                               (SAO PAULO           )
-
  2065 11073 ERECIANO RODRIGUES             (64) 313 M3539 1:07:13  4.29 ATLETICO ARAMACAN             (SANTO ANDRE         )
  2066  9751 FRANCISCO MONTEIRO             (63) 314 M3539 1:07:14  4.29 ACAV                          (FORTALEZA           )
  2067  7466 FABRIZIO GIOVANNINI            (64) 315 M3539 1:07:14  4.29                               (BARUERI             )
@@ -2154,7 +2105,6 @@
  2105  7459 FLORISVALDO DE SOUZA           (43)  20 M5559 1:07:24  4.30 PREF MUNIC ITAPETINGA         (ITAPETINGA          )
  2106 10610 FERNANDO MIRANDA               (79) 345 M2024 1:07:24  4.30                               (                    )
  2107  2431 ANDRE MENDES                   (77) 346 M2024 1:07:25  4.30 BPM FILA                      (SAO PAULO           )
-
  2108  3820 JOAO BATISTA ESPERANCA         (68) 402 M3034 1:07:25  4.30                               (SAO PAULO           )
  2109  5207 ADILSON JESUS DE OLIVEIRA      (59) 187 M4044 1:07:26  4.30                               (                    )
  2110  5293 FRANCISCO SOUZA DA SILVA       (67) 403 M3034 1:07:26  4.30                               (                    )
@@ -2198,7 +2148,6 @@
  2148  6232 SIDINEY AZEVEDO SILVA          (68) 412 M3034 1:07:40  4.31 COMARCA COM DE PLASTICO LTDA  (SAO PAULO           )
  2149  8589 ANDERSON CABRAL SEVERINO       (81) 147 M1519 1:07:40  4.31 ADC G BASF                    (SBC                 )
  2150  4772 EDSON LUIZ OLIVEIRA SANTOS     (66) 413 M3034 1:07:40  4.31 CAC CURITIBA                  (CURITIBA            )
-
  2151   818 ANTONIO FRANCISCO FILHO        (72) 431 M2529 1:07:41  4.31                               (                    )
  2152   780 MARIO SERGIO MELLO             (62) 328 M3539 1:07:41  4.31 MARIOS TEAM                   (                    )
  2153  1828 MAARCELO FRIGO                 (65) 414 M3034 1:07:41  4.31 FLAVIO FREIRE                 (SAO PAULO           )
@@ -2242,7 +2191,6 @@
  2191  7616 JOSE PEDRO DOMINGOS            (37)   5 M6064 1:07:49  4.31 BRAVUS GUARULHOS              (GUARULHOS           )
  2192  6632 GERALDO B CAMELO JR            (71) 436 M2529 1:07:50  4.31 CORPO DE BOMBEIROS            (SAO PAULO           )
  2193  7010 DJALMA GONCALVES DA SILVA      (70) 437 M2529 1:07:50  4.31                               (SP                  )
-
  2194  9697 LAERCIO GOMES DE OLIVEIRA      (58) 190 M4044 1:07:50  4.31 TAMARIA SISTER BAR            (RIO DE JANEIRO      )
  2195  6916 JAMES J DA ROZ LEONARDI        (53) 104 M4549 1:07:50  4.31 GREMIO RIO CLARO              (RIO CLARO           )
  2196  2200 JOSE FELIX SOBRINHO            (65) 419 M3034 1:07:50  4.31                               (SAO PAULO           )
@@ -2286,7 +2234,6 @@
  2234 12414 SANDRO JOSE VALENTIN           (75) 362 M2024 1:08:00  4.32 CORREIOS                      (                    )
  2235   631 ADEMIR GATTI                   (50) 108 M4549 1:08:00  4.32 A R FORD                      (                    )
  2236  4092 ELIO ALVES DE ALMEIDA          (67) 425 M3034 1:08:00  4.32                               (SAO PAULO           )
-
  2237  4726 MARCELO VICTOR                 (72) 445 M2529 1:08:01  4.32 EQUIPE VENTANIA               (SAO PAULO           )
  2238  6670 RAFAEL REYES CAMPOS            (76) 363 M2024 1:08:02  4.32 CIRCULO MILITAR SP            (SAO PAULO           )
  2239   706 THIAGO FELIPE MOTTA CIPRIANO   (83) 154 M1519 1:08:02  4.32                               (                    )
@@ -2330,7 +2277,6 @@
  2277 11832 LUIZ CARLOS CRUZ OLEA          (50) 112 M4549 1:08:12  4.33 GBDEX CONFIANCA               (CANOAS              )
  2278  8874 EDVALDO CARDOSO DA SILVA       (56) 197 M4044 1:08:13  4.33 AMANTES DA NATUREZA           (SAOPAULO            )
  2279  3595 ARI CASAGRANDE FILHO           (69) 433 M3034 1:08:13  4.33 APAMAGIS                      (SAO PAULO           )
-
  2280  7797 DIVALCIR CORREIA               (51) 113 M4549 1:08:14  4.33 MARCORRER                     (SAO PAULO           )
  2281  9750 RODRIGO FIGUEIRA               (84) 157 M1519 1:08:14  4.33 LETREIROS TOZANA              (URUGUAIANA          )
  2282  9760 JOAO PEREIRA DE SENA           (72) 452 M2529 1:08:14  4.33                               (SAO GONCALO         )
@@ -2374,7 +2320,6 @@
  2320  7035 ANTONIO APARECIDO F DE AUBREU  (62) 358 M3539 1:08:26  4.34 IBIRAPUERA                    (SP                  )
  2321  3722 OSVALDO LASTRO SILVA           (55) 202 M4044 1:08:26  4.34 PREFEITURA MUNICIPAL          (ILHA BELA           )
  2322  7556 ALESSANDRO FERREIRA DA SILVA   (76) 373 M2024 1:08:27  4.34 SANTA CECILIA                 (CUBATAO             )
-
  2323  7318 NILSON VALENTIM DA SILVA       (66) 441 M3034 1:08:27  4.34 WINNING ACADEMIA              (ITAPETININGA        )
  2324  2085 HILTON FERREIRA DA SILVA       (56) 203 M4044 1:08:28  4.34 KIKOQUEL                      (SAO B DO CAMPO      )
  2325  3462 EDMILSON LOPES DOS SANTOS      (71) 459 M2529 1:08:28  4.34                               (SAO C DO SUL        )
@@ -2418,7 +2363,6 @@
  2363 11577 ALEXANDRE TEIXEIRA DOS SANTOS  (69) 446 M3034 1:08:39  4.35 RECIFE PE                     (OLINDA              )
  2364  2155 LUCIO JOSE ELIAS MONTEIRO      (70) 465 M2529 1:08:40  4.35                               (GOIANIA             )
  2365  5672 FRANCISCO DE ARAUJO TIGRE      (80) 161 M1519 1:08:40  4.35                               (SAO PAULO           )
-
  2366  3056 JOAO BATISTA MARTINS           (62) 363 M3539 1:08:40  4.35 ADVOCACIA VMP                 (SAO B DO CAMPO      )
  2367  9086 WALDEMAR VINHA                 (47)  50 M5054 1:08:40  4.35                               (STA BARBARA DO OESTE)
  2368  3670 HELIO GONCALVES TAVARIS        (63) 364 M3539 1:08:41  4.35                               (S PAULO             )
@@ -2462,7 +2406,6 @@
  2406  9583 MANOEL ROQUE DOS SANTOS        (71) 469 M2529 1:08:52  4.35 IGREJA ADVENTISTA             (RIBEIRAO DO LARGO   )
  2407 11997                                ( 0)  79       1:08:52  4.35                               (                    )
  2408  1452 FLAVIO DA SILVA OLIVEIRA       (73) 470 M2529 1:08:53  4.36 PAD BRASILEIRA                (SANTO ANDRE         )
-
  2409  3983 SEVERINO VIEIRA DA SILVA       (55) 213 M4044 1:08:53  4.36                               (CARAPICUIBA         )
  2410  2997 JORGE DONIZETE M DA CUNHA      (57) 214 M4044 1:08:53  4.36                               (FERRAZ DE VASCONCELO)
  2411  5273 BENEDITO RENE DE SOUZA LIMA    (59) 215 M4044 1:08:54  4.36 CORVAP                        (                    )
@@ -2506,7 +2449,6 @@
  2449 10057 DIEGO CUNHA SCHAF              (70) 475 M2529 1:09:05  4.36 CR RIOCELL SESI               (GAIBA               )
  2450 12293 WALTER LUIS OLIVEIRA DA ROCHA  (67) 461 M3034 1:09:05  4.36 9� BIMTZ                      (                    )
  2451  5160 INALDO DA SILVA                (68) 462 M3034 1:09:06  4.36 TABOAO DA SERRA               (                    )
-
  2452 12650 ANDRE FELIX OLIMPIO DE SOUZA   (79) 393 M2024 1:09:06  4.36                               (SAO J DA BOA VISTA  )
  2453  3500 ESPEDITO ENEAS DE OLIVEIRA     (41)  28 M5559 1:09:06  4.36 TAVARES                       (SAO PAULO           )
  2454  3546 VILMAR VIGIRA LIMA             (78) 394 M2024 1:09:07  4.36                               (SERRA ESP SANTOS    )
@@ -2550,7 +2492,6 @@
  2492  4531 RONALDO RODRIGUES DE SOUZA     (76) 398 M2024 1:09:17  4.37                               (GUAIANASES          )
  2493  6704 RODRIGO MAKOTO MATSUMURA       (79) 399 M2024 1:09:17  4.37                               (DIADEMA             )
  2494 11646 HOMERO DE ARAUJO ABREU FILHO   (52) 136 M4549 1:09:18  4.37 ACORD DIVINOPOLIS             (DIVINOPOLIS         )
-
  2495 11033 GILBERTO HISEAKI ARAKAKI       (64) 385 M3539 1:09:18  4.37                               (SAO PAULO           )
  2496 13000 ELECIO AUGUSTO DOS SANTOS      (67) 468 M3034 1:09:18  4.37 TAVIARRE                      (GUARULHOS           )
  2497  3146 VASCO ORFAO THOMAZ             (53) 137 M4549 1:09:18  4.37                               (SAO PAULO           )
@@ -2594,7 +2535,6 @@
  2535  8601 FERNANDO DOMINGOS SUQUINA      (67) 477 M3034 1:09:28  4.38                               (SP                  )
  2536  8067 DANILO JOSE LEAL               (62) 393 M3539 1:09:29  4.38 DEUS                          (SAO PAULO           )
  2537  7347 DIOMELCINO DA SILVA M CORTEZ   (51) 140 M4549 1:09:29  4.38 2� GI                         (SAO PAULO           )
-
  2538  3769 AGENOR BRAGA DE SOUZA          (50) 141 M4549 1:09:29  4.38 VINHEDO                       (VINHEDO             )
  2539  5582 MIGUEL APARECIDO ROSA          (66) 478 M3034 1:09:29  4.38 DENTELA                       (RESSAQUINHA         )
  2540  7547 REINALDO CRUZ                  (75) 404 M2024 1:09:29  4.38                               (SALTO               )
@@ -2638,7 +2578,6 @@
  2578  2954 YOSXIO SAKATA                  (53) 145 M4549 1:09:41  4.39 APVE EMBRAER                  (SAO JOSE DOS CAMPOS )
  2579  8724 CARLITO DE SOUZA MATOS         (72) 494 M2529 1:09:41  4.39 GERA�AO GUARULHOS             (GUARULHOS           )
  2580  4480 MILTON CASTOR DE ARAUJO        (69) 489 M3034 1:09:41  4.39                               (SAO PAULO           )
-
  2581 10483                                ( 0)  83       1:09:42  4.39                               (                    )
  2582  8600 MAOEL MARINALDO CANDIDO        (65) 490 M3034 1:09:42  4.39                               (SP                  )
  2583  5592 DAVID GONCALVES SOUZA          (77) 410 M2024 1:09:42  4.39 SO PATROCINIO                 (SAO PAULO           )
@@ -2682,7 +2621,6 @@
  2621  9711 BRAZ DOS SANTOS                (68) 497 M3034 1:09:50  4.39                               (COLATINA            )
  2622  6967 MARCOS OLIVEIRA LIMA           (69) 498 M3034 1:09:51  4.39                               (SP                  )
  2623 11738 LUCIO MAURO DINIZ              (43)  31 M5559 1:09:52  4.39 YUCCA                         (CONTAGEM            )
-
  2624  5753 JUAN RODRIGUES GODOY           (49)  57 M5054 1:09:53  4.40 CORUJA                        (JUNDIAI             )
  2625  1532 MARCOS R RAMOS                 (67) 499 M3034 1:09:53  4.40 GUARDA CIVIL BARUERI          (OSASCO              )
  2626  1268 MARCO ANTONIO TEIXEIRA DE JESU (63) 401 M3539 1:09:53  4.40 ABRIL                         (SAO PAULO           )
@@ -2726,7 +2664,6 @@
  2664  9840 EDIVALDO JOSE DOS SANTOS       (75) 421 M2024 1:10:04  4.40 GARRA                         (ARACAJU             )
  2665 10238 JOAO DONIZETE MAURICIO DA SILV (71) 510 M2529 1:10:05  4.40                               (CAMPINAS            )
  2666 12146 JOSE GERALDO RIBEIRO DE SOUZA  (52) 153 M4549 1:10:05  4.40 C 5 RIBEIRAO PIRES            (                    )
-
  2667  7322 ANTONIO FLORENCO MARTINS       (51) 154 M4549 1:10:05  4.40                               (SAO PAULO           )
  2668  4302 NILTON VILLA ULLGA             (76) 422 M2024 1:10:06  4.40                               (SAO PAULO           )
  2669  3380 ALDEBARAN PERSEKE              (70) 511 M2529 1:10:06  4.40                               (SAO PAULO           )
@@ -2770,7 +2707,6 @@
  2707  6749 WILSON DE SOUZA                (56) 243 M4044 1:10:15  4.41                               (SAO PAULO           )
  2708  7800 WALMIR COSTA DA SILVA          (56) 244 M4044 1:10:15  4.41 PE NA TABUA                   (SAO PAULO           )
  2709  8260 JOSE DIAS DE SOUZA             (58) 245 M4044 1:10:15  4.41 ACRI                          (ITAJAI              )
-
  2710  1909 FRANCISCO CORDEIRO DA SILAV    (63) 415 M3539 1:10:16  4.41                               (ITAPEVI             )
  2711  7361 DOMACIO SOARES ROCHA           (61) 416 M3539 1:10:16  4.41                               (TABOA DA SERRA      )
  2712  9145 ALEXSANDRO FERNANDES DA SILVA  (74) 521 M2529 1:10:16  4.41 EQUIPE RAIA 1                 (BELO HORIZONTE      )
@@ -2814,7 +2750,6 @@
  2750  2971 PEDRO PEREIRA DOS SANTOS       (54) 164 M4549 1:10:24  4.42                               (CEILANDIA           )
  2751  1026 EUFRASIO PEREIRA MOREIRA       (55) 251 M4044 1:10:25  4.42 EQUIPE BAMBA                  (SAO PAULO           )
  2752  1573 VILSON SILVA COSTA             (77) 432 M2024 1:10:25  4.42                               (SAO PAULO           )
-
  2753  6352 ROSEVALDO CAETANO ALVES        (74) 526 M2529 1:10:25  4.42                               (SAO PAULO           )
  2754  1319 FABIO DA SILVA                 (76) 433 M2024 1:10:26  4.42                               (SAO B DO CAMPO      )
  2755  1938 FABIO DE SOUSA                 (79) 434 M2024 1:10:26  4.42                               (JANDIRA             )
@@ -2858,7 +2793,6 @@
  2793  8441 GILSON ANTONIO MARAES DA SILVA (66) 529 M3034 1:10:36  4.42                               (BARUERI             )
  2794  3322 DENIS DAYVISON DE OLIVEIRA     (72) 531 M2529 1:10:36  4.42 ITAPECERICA DA SERRA          (ITAPECERICA DA SERRA)
  2795  9670 JOAO NICANOR RENATO            (60) 431 M3539 1:10:36  4.42 TRAINER MOGI                  (MOGI DAS CRUZES     )
-
  2796  7377 JOSAO MIRANDA                  (47)  65 M5054 1:10:37  4.42 ASCOBRAPA                     (BRAGANCA PTA        )
  2797  1156 JAIRO GOMES DE MORAES          (59) 254 M4044 1:10:37  4.42                               (OSASCO              )
  2798  5458 SEBASTIAO TEIXEIRA MIQUELOTE   (47)  66 M5054 1:10:37  4.42 CORRPIQUERI                   (S PAULO             )
@@ -2902,7 +2836,6 @@
  2836 12746 ANDRE RODRIGUES DE OLIVEIRA    (80) 188 M1519 1:10:46  4.43 NOVA CAMPINA                  (NOVA CAMPINA        )
  2837  1583 FRANCISCO DE SALES M DE MELO   (67) 536 M3034 1:10:47  4.43 CORPORE                       (SAO PAULO           )
  2838  1397 REGINALDO DIONISIO SOARES      (76) 449 M2024 1:10:47  4.43 PREF SANTA MONICA             (SAO PAULO           )
-
  2839 10218 ORIVAL ANTONIO ALVES           (66) 537 M3034 1:10:47  4.43 MATINHA                       (TIROS               )
  2840 12643 ANTONIO DE SOUZA LIMA          (68) 538 M3034 1:10:47  4.43 PREF DE STO AMARO             (SANTO AMARO         )
  2841  3243 JOSE ANTONIO DE LIMA           (74) 537 M2529 1:10:47  4.43                               (SAO PAULO           )
@@ -2946,7 +2879,6 @@
  2879  3485 ANTONIO FRANCISCO DOS SANTOS   (62) 449 M3539 1:10:58  4.44                               (CARAPICUIBA         )
  2880  1224 GILVAN ALVES DOS SANTOS        (57) 259 M4044 1:10:58  4.44                               (SAO PAULO           )
  2881  7007 JOSADACK ALVES PINTO           (68) 545 M3034 1:10:58  4.44                               (SP                  )
-
  2882  4157 JESUSMARIO PEREIRA DOS SANTOS  (67) 546 M3034 1:10:58  4.44                               (S PAULO             )
  2883  3229 MIGUEL ANGELO DE SOUZA         (65) 547 M3034 1:10:58  4.44                               (S JOSE DOS CAMPOS   )
  2884 10296 MARCOS ELI DE OLIVEIRA         (47)  69 M5054 1:10:58  4.44 BONNYUR                       (CUIRITBA            )
@@ -2990,7 +2922,6 @@
  2922 10131 SEBASTIAO DE OLIVEIRA          (51) 174 M4549 1:11:10  4.45 IMPERIO DOS COLCHOES          (BELO HORIZONTE      )
  2923  3070 FRANCISCO DA SILVA SOUSA       (63) 456 M3539 1:11:10  4.45 SACHS AUTOMOTIVE              (SAO PAULO           )
  2924  1342 PETRONIO VIEIRA DE OLIVEIRA    (76) 462 M2024 1:11:11  4.45                               (PIRITUBA            )
-
  2925  4498 REGINALDO AP SIQUEIRA          (74) 549 M2529 1:11:11  4.45                               (ARUJA               )
  2926  1371 ALBERTO JACINTO PEREIRA        (65) 556 M3034 1:11:11  4.45                               (SAO PAULO           )
  2927  6003 AFONSO ANTONIO PENA            (45)  75 M5054 1:11:11  4.45 BANCO BNL DO BRASIL           (SAO PAULO           )
@@ -3034,7 +2965,6 @@
  2965 11164 RODNEY BUENO DE OLIVEIRA       (57) 265 M4044 1:11:22  4.45 GREIC                         (SP                  )
  2966 10698 MARCIO ANTONIO DE OLIVEIRA     (66) 562 M3034 1:11:22  4.45                               (                    )
  2967  5394 CAIO FONSECA FERREIRA          (72) 558 M2529 1:11:22  4.45                               (S PAULO             )
-
  2968  8926 CLAUDEMIR MARIANO DE ANDRADE   (82) 194 M1519 1:11:22  4.45                               (COTIA               )
  2969  6269 MARCELO APARECIDO DE SOUZA     (71) 559 M2529 1:11:22  4.45 DSP DORGARIA SP               (RIO G DA SERRA      )
  2970  9872 PAULO JOSE DE O EVANGELISTA    (58) 266 M4044 1:11:23  4.46                               (BRASILIA            )
@@ -3078,7 +3008,6 @@
  3008   756 JURACI DIAS DA SILVA           (51) 179 M4549 1:11:29  4.46 PM SP                         (                    )
  3009  3580 VINICIUS RODRIGUES SANTOS      (80) 196 M1519 1:11:29  4.46                               (ITAPEVA             )
  3010 12723 VALDIR JOSE DOS SANTOS         (51) 180 M4549 1:11:29  4.46 PLANETA AUTOPECAS             (CONTAGEM            )
-
  3011  3087 CICERO APARECIDO DE SOUZA      (57) 272 M4044 1:11:30  4.46 OFFICIO VIG E SEGURANCA       (SAO PAULO           )
  3012  9448 ANTONIO LOPES DA SILVA         (49)  78 M5054 1:11:30  4.46 VAMOS CORRER                  (NOVA IGUACU         )
  3013  1126 ANTEGILDO VIEIRA NUNES         (72) 567 M2529 1:11:30  4.46                               (SANTO ANDRE         )
@@ -3122,7 +3051,6 @@
  3051  3185 GENERINO PIRES DOS SANTOS FO   (71) 573 M2529 1:11:40  4.47                               (SAO PAULO           )
  3052  2259 NEUTON DA SILVA AGUIAR         (75) 480 M2024 1:11:40  4.47                               (DIADEMA             )
  3053  6099 ROBERTO MARCELINO LOPES        (52) 184 M4549 1:11:41  4.47 CIAVE                         (DIADEMA             )
-
  3054  9369 ALAN FERREIRA                  (84) 200 M1519 1:11:41  4.47 AGUDOS                        (AGUDOS              )
  3055 12374                                ( 0)  94       1:11:41  4.47                               (                    )
  3056  9367 FABIANO OLIVEIRA               (80) 201 M1519 1:11:41  4.47 AGUDOS                        (AGUDOS              )
@@ -3166,7 +3094,6 @@
  3094  9060 GILVAN XAVIER FELIPE           (74) 579 M2529 1:11:52  4.47                               (RIO DE JANEIRO      )
  3095  8824 RICARDO DE FREITAS DA SILVA    (77) 484 M2024 1:11:53  4.48 3 GERA�OES                    (SAO PAULO           )
  3096  7380 JONAS FIUZA DOS SANTOS         (76) 485 M2024 1:11:53  4.48                               (SAO PAULO           )
-
  3097 12151 MANOEL TEOTONIO DE SOBRAL      (45)  82 M5054 1:11:53  4.48 DRAGONETTI                    (                    )
  3098 10807 RODRIGO GUELFI                 (82) 207 M1519 1:11:53  4.48 CORPORE                       (                    )
  3099 10913 FRANCISCO DE PAULA MANHAES     (52) 192 M4549 1:11:53  4.48                               (                    )
@@ -3210,7 +3137,6 @@
  3137 10495                                ( 0)  95       1:12:04  4.48                               (                    )
  3138  5718 CARLOS ROBERTO RIZETTO BARBOSA (68) 586 M3034 1:12:04  4.48 CORUJA                        (JUNDIAI             )
  3139  6042 MANOEL R DA SILVA              (51) 196 M4549 1:12:04  4.48 BANCO BNL DO BRASIL           (SAO PAULO           )
-
  3140  1835 ANDRE BARBOSA DE ARAUJO        (78) 494 M2024 1:12:04  4.48                               (DIADEMA             )
  3141 11735 EDIRAN CARINHANHA NUNES        (54) 197 M4549 1:12:05  4.48 CORDF BRASILIA                (BRASILIA            )
  3142  8844 VALDIR DOS SANTOS RUFINO       (63) 487 M3539 1:12:05  4.48                               (SANTANA DE PARNAIBA )
@@ -3254,7 +3180,6 @@
  3180  3745 RONALDO APARECIDO ALVES        (81) 209 M1519 1:12:16  4.49 CME TREMEMBE                  (TREMEMBE            )
  3181  9152 LAERCIO FERREIRA DA SILVA      (74) 589 M2529 1:12:16  4.49 EC FLORA RICA                 (FLORA RICA          )
  3182  9739 OSCARINO TEIXEIRA DE SOUZA     (54) 201 M4549 1:12:17  4.49 ACORD DIVINOPOLIS             (DIVINOPOLIS         )
-
  3183  5378 LEANDRO PEREIRA BRANCO         (80) 210 M1519 1:12:17  4.49 PAO DE ACUCAR CLUB            (INDAIATUBA          )
  3184  3633 JOSE CLODOALDO ARRANTES        (55) 287 M4044 1:12:17  4.49 TOMOVALE SJC                  (CACAPAVA            )
  3185  6073 EDISON OLIVEIRA                (58) 288 M4044 1:12:17  4.49                               (SAO PAULO           )
@@ -3298,7 +3223,6 @@
  3223   812 RODOLFO LUIZ DO NASCIMENTO     (59) 293 M4044 1:12:29  4.50 PETROBRAS                     (                    )
  3224  2483 RENATO ABILA                   (81) 213 M1519 1:12:29  4.50                               (SAO PAULO           )
  3225  8136 FLAVIO GUIMARAES CICERO        (79) 509 M2024 1:12:29  4.50                               (SAO PAULO           )
-
  3226  2279 ANTONIO LOPES CARVALHO         (73) 597 M2529 1:12:29  4.50                               (SAO PAULO           )
  3227  4570 KEVORK EKIZIERAN               (59) 294 M4044 1:12:29  4.50 MASTERUSP                     (S PAULO             )
  3228  1687 RENATO DE OLIVEIRA RUIZ        (74) 598 M2529 1:12:30  4.50                               (SAO PAULO           )
@@ -3342,7 +3266,6 @@
  3266  8864 JULIO FORMIGA DEMOURA          (52) 207 M4549 1:12:43  4.51                               (SAO PAULO           )
  3267  4209 LUIZ HENRIQUE C. DO NASCIMENTO (69) 615 M3034 1:12:43  4.51                               (SAO PAULO           )
  3268 10769 JOSE IRANDE DE J SANTOS        (67) 616 M3034 1:12:43  4.51 PAPALEGUAS                    (                    )
-
  3269  7224                                ( 0)  99       1:12:43  4.51                               (                    )
  3270 10548 VANDILSON DE SOUZA FERREIRA    (69) 617 M3034 1:12:44  4.51                               (GUARULHOS           )
  3271  6343 ANDERSON CATELANI DO NASCIMENT (77) 516 M2024 1:12:44  4.51                               (SUZANO              )
@@ -3386,7 +3309,6 @@
  3309  7148 ADIVALDO BORGES DAS DORES      (63) 511 M3539 1:12:54  4.52 BANESPA                       (SP                  )
  3310 11156 JORGE BATISTA DIAS             (74) 610 M2529 1:12:54  4.52                               (SAO PAULO           )
  3311  4910 ALEX SANDRO PEREIRA            (76) 521 M2024 1:12:54  4.52                               (                    )
-
  3312  8189 PAULO CESAR ALVES MARTINS      (66) 625 M3034 1:12:55  4.52                               (SAO PAULO           )
  3313  2545 GILMAR JOSE OST                (60) 512 M3539 1:12:55  4.52                               (SANTA ROSA          )
  3314  7295 FABIANO COSTA DE SOUZA         (81) 216 M1519 1:12:55  4.52 SESI                          (SP                  )
@@ -3430,7 +3352,6 @@
  3352  2010 WALTER LEAL                    (59) 306 M4044 1:13:08  4.53 ESP CLUBE RIBEIRAO PIRES      (RIO G DA SERRA      )
  3353  8052 VITOR JESUZ MARTINS            (44)  46 M5559 1:13:09  4.53 ALO                           (LEME                )
  3354  9609 PEDRO GENUINO DE SOUZA         (52) 212 M4549 1:13:09  4.53                               (BRASILIA            )
-
  3355  6079 ARTILIO JORGE DOS SANTOS       (64) 519 M3539 1:13:09  4.53 RADIO DIFUSORA VALE           (PARAIBUNA           )
  3356  1715 LAERCIO RODRIGUES DE SOUSA     (71) 619 M2529 1:13:10  4.53                               (SAO C DO SUL        )
  3357  7666 JAYME RUFINO DOS PRAZERES      (63) 520 M3539 1:13:11  4.53                               (                    )
@@ -3474,7 +3395,6 @@
  3395  1258 EDUARDO FRANCISCO DOS SANTOS   (62) 527 M3539 1:13:23  4.54                               (CARAPICUIBA         )
  3396  8782 WALDIR RODRIGUES               (48) 100 M5054 1:13:23  4.54 LUMINOSOS OP�AO               (SAO PAULO           )
  3397  4338 ROBERTO PERRELLA               (51) 216 M4549 1:13:23  4.54 SANTOS                        (SAO PAULO           )
-
  3398  2201 ANTONIO RENATO CAMILO          (72) 628 M2529 1:13:23  4.54 FORCA SINDICAL                (OSASCO              )
  3399  3937 RODRIGO FERNANDO DE ASSIS      (83) 220 M1519 1:13:23  4.54                               (SUZANO              )
  3400  1978 CARLOS ANTONIO A DE OLIVEIRA   (71) 629 M2529 1:13:23  4.54 DEXA Q EU CHUTO               (RIBEIRAO PIRES      )
@@ -3518,7 +3438,6 @@
  3438  5899 YOLANDO SIMOES                 (49) 103 M5054 1:13:31  4.54 ASS ATL BANCO DO BRASIL       (SP                  )
  3439  1837 ALUISIIO RODRIGUES BARBOSA     (51) 222 M4549 1:13:31  4.54                               (SAO PAULO           )
  3440  2307 CHRISTIAN LOZANO               (77) 536 M2024 1:13:33  4.54 P A CLUBE                     (SP                  )
-
  3441  8949 BENEDITO CAMOLESI              (45) 104 M5054 1:13:33  4.54                               (SANTANA DO PARNAIBA )
  3442  5482 RAFEL AUGUSTO AMARAL           (84) 223 M1519 1:13:33  4.54 RUNNING                       (S PAULO             )
  3443  7579 ANTONIO APARECIDO DE ALMEIDA   (65) 644 M3034 1:13:33  4.54 CORNING RIO CLARO             (RIO CLARO           )
@@ -3562,7 +3481,6 @@
  3481  4507 ROBERTO ALEXANDRE DA SILVA     (66) 652 M3034 1:13:40  4.55                               (CAMPINAS            )
  3482  6843 ALEXANDRE DE REZENDE QUEIROZ   (78) 540 M2024 1:13:40  4.55                               (MOGI DAS CRUZES     )
  3483  9594 JOSE DE SOUZA                  (59) 319 M4044 1:13:40  4.55 MULTSPORT A BRANCA            (SALVADOR            )
-
  3484 10728 APARECIDO SOARES DE SOUZA      (40)  49 M5559 1:13:40  4.55 GAROTO E GOROTINHA            (                    )
  3485  2698 DARCIO ARTUR PINTO             (67) 653 M3034 1:13:40  4.55 ESBORIOL CORRETORA            (SAO PAULO           )
  3486 10778 ADIR BRANZONI LEAL             (67) 654 M3034 1:13:41  4.55 OBAO                          (                    )
@@ -3606,7 +3524,6 @@
  3524  6876                                ( 0) 102       1:13:50  4.55                               (CUBATO              )
  3525  4473 DAVID GIUNTINI FILHO           (56) 327 M4044 1:13:50  4.55                               (COTIA               )
  3526  5621 ALBERTO APARECIDO GOIS         (58) 328 M4044 1:13:50  4.55 SME GUARA                     (GUARATINGUETA       )
-
  3527  3461 JOSE HELIO SERAFIM DA PAZ      (68) 659 M3034 1:13:51  4.55 APM DA EE OCTALLES MF         (SAO PAULO           )
  3528  9047 JOSE JULIO GRICOLETI           (44)  50 M5559 1:13:52  4.55 TANABI ESPORTE                (TANABI              )
  3529  1834 RAIMUNDO PEREIRA DA SILVA      (69) 660 M3034 1:13:52  4.55                               (OSASCO              )
@@ -3650,7 +3567,6 @@
  3567  4072 JOOA AQUINO DA SILVA           (67) 668 M3034 1:13:58  4.56                               (DIADEMA             )
  3568  8636 CARLOS ALBERTO DE A NASCIMENTO (65) 669 M3034 1:13:58  4.56 EQUIPE BRAVUS GUARULHOS       (GUARULHOS           )
  3569  5645 PAULO ROBERTO DA CONCEI�O      (53) 238 M4549 1:13:59  4.56 FURNAS                        (RIO DE JANEIRO      )
-
  3570  1990 CLAUDIO FARNCISCO DE S PEDROSO (77) 549 M2024 1:13:59  4.56                               (SAO PAULO           )
  3571  4931 IVAN GERVAZONI                 (70) 644 M2529 1:13:59  4.56 DECET                         (                    )
  3572  3942 PAULO JOSE DO NASCIMENTO       (73) 645 M2529 1:13:59  4.56                               (SAO PAULO           )
@@ -3694,7 +3610,6 @@
  3610  7209 ROBERTO LEITE CUNHA            (52) 242 M4549 1:14:08  4.57 GAROTOS DO PARQUE             (STO ANDRE           )
  3611  4777 EDER CARLOS SILVA              (70) 652 M2529 1:14:08  4.57 CAC CURITIBA                  (CURITIBA            )
  3612  5096 ANTONIO JOARES DOS SANTOS      (76) 556 M2024 1:14:08  4.57                               (                    )
-
  3613  9183 LUIZ CARLOS TAVARES VILELA     (49) 111 M5054 1:14:08  4.57 RUNNING FOR LIFE              (RIO DE JANEIRO      )
  3614  6560 RUI RICARDO CASTANHEIRA        (68) 673 M3034 1:14:08  4.57                               (S PAULO             )
  3615  9252 JOSE DE ALMEIDA FILHO          (37)  11 M6064 1:14:08  4.57 REGATS RIB PRETO              (RIBEIRAO PRETO      )
@@ -3738,7 +3653,6 @@
  3653  3456 JOELSON SANTOS SOUZA           (76) 561 M2024 1:14:16  4.57 GOCIL SEGURANCA               (SAO PAULO           )
  3654  1119 NELSON DA SILVA DIAS           (63) 573 M3539 1:14:16  4.57                               (BARUERI             )
  3655  3547 NATALINO FRANCISCO DE SOUZA    (64) 574 M3539 1:14:16  4.57                               (ITANHAEM IBIRAJARA  )
-
  3656  8081 WILSON VASCONCELOS             (63) 575 M3539 1:14:16  4.57                               (SAO PAULO           )
  3657  4540 ISAC RIBEIRO DE CARVALHO       (75) 562 M2024 1:14:16  4.57                               (MAUA                )
  3658 11013 FRANCISCO DE ASSIS             (62) 576 M3539 1:14:18  4.57 MULTI BRAS                    (SAO PAULO           )
@@ -3782,7 +3696,6 @@
  3696  6382 ROGERIO GOMES DIAS DE LACERDA  (73) 667 M2529 1:14:26  4.58                               (SAO PAULO           )
  3697  2946 LUIS CLAUDIO VINHA             (81) 236 M1519 1:14:26  4.58                               (SAO PAULO           )
  3698  9409 ELSON ANTONIO MACHADO          (49) 114 M5054 1:14:27  4.58                               (VARGINHA            )
-
  3699  6015 ALMENDES PEREIRA SENA          (55) 352 M4044 1:14:27  4.58 BANCO BNL DO BRASIL           (SAO APULO           )
  3700  2009 SANDRO CARNEVSKIS PEREIRA      (73) 668 M2529 1:14:27  4.58                               (SAO PAULO           )
  3701  7876 JAVIER MOSTAJO VALDIVIESO      (49) 115 M5054 1:14:28  4.58 COCHABAMBA                    (BARUERI             )
@@ -3826,7 +3739,6 @@
  3739  4031 EVERTON BARRETO DA SILVA       (65) 688 M3034 1:14:35  4.58 ASCANI                        (SAO PAULO           )
  3740  6750 GIDELSON GOMES DE SOUZA        (66) 689 M3034 1:14:35  4.58                               (SAO PAULO           )
  3741  9871 PAULO CESAR RAIMUNDO           (66) 690 M3034 1:14:35  4.58 GUARDA CIVIL                  (FRANCA              )
-
  3742  4833 RENATO CRODANI                 (70) 673 M2529 1:14:35  4.58 BURENAS                       (                    )
  3743 10337 JOSE BENICIO PINHEIRO          (52) 255 M4549 1:14:36  4.58 CUCA GRABER                   (CAMPINAS            )
  3744  1861 RICARDO DE ANDRADE SENDULSKY   (77) 573 M2024 1:14:37  4.58                               (SAO PAULO           )
@@ -3870,7 +3782,6 @@
  3782  9630 MARIO SILAS ARRUDA             (69) 698 M3034 1:14:47  4.59 AJA SER DE JAU                (JAU                 )
  3783  8870 WELLIGNTON SILVA REIS          (82) 241 M1519 1:14:48  4.59 ACADEMIA TIGRE HAPKIDO        (SAO PAULO           )
  3784  5563 GABRIEL OLIVEIRA PAZ           (73) 677 M2529 1:14:48  4.59                               (SAO PAULO           )
-
  3785   651 RENATO CERQUEIRA CAMPOS        (63) 599 M3539 1:14:48  4.59 EEF PM                        (                    )
  3786 10121 CARLITO SOUZA FERREIRA         (58) 368 M4044 1:14:48  4.59                               (GUARAPUAVA          )
  3787 10879 EMERSON MORAES DA SILVA        (78) 576 M2024 1:14:48  4.59                               (                    )
@@ -3914,7 +3825,6 @@
  3825  5914 DIOGO LOURENCO                 (52) 261 M4549 1:14:56  5.00 ASS ATL BANCO DO BRASIL       (SP                  )
  3826  4613 ELADIO ALVES DOS SANTOS        (64) 608 M3539 1:14:56  5.00                               (S PAULO             )
  3827  8155 REGINALDO JOSE DOS SANTOS      (72) 685 M2529 1:14:56  5.00                               (CAMPINAS            )
-
  3828  9515 CARLOS GOMES                   (53) 262 M4549 1:14:56  5.00 REGATAS RIB PRETO             (RIBEIRAO PRETO      )
  3829  7777 LUIZ ANTONIO OLIVEIRA          (60) 609 M3539 1:14:56  5.00 SAO PAULO FC                  (MAUA                )
  3830  7122 JOAO CELSO ESTACIO             (57) 373 M4044 1:14:57  5.00 EQUIPE ADVALDO                (SP                  )
@@ -3958,7 +3868,6 @@
  3868  1338 RUBRIO COUTO DOS ANJOS         (80) 248 M1519 1:15:04  5.00                               (SAO PAULO           )
  3869  2923 JOSE LOPES VENANCIO            (54) 265 M4549 1:15:05  5.00 ADI SANTA IZABEL              (SANTA IZABEL        )
  3870  9039 FERNANDO GONZALEZ GIL          (66) 706 M3034 1:15:05  5.00 RIO DE JANEIRO                (RIO DE JANEIRO      )
-
  3871  9889 MARCO FABIO CILENTO            (59) 378 M4044 1:15:05  5.00                               (SAO PAULO           )
  3872  8823 WILSON P ROLDAO                (79) 591 M2024 1:15:05  5.00 BDMUN                         (ENG PAULO DEFRONTIM )
  3873  4687 JOSE PIRES DA COSTA            (49) 124 M5054 1:15:05  5.00                               (S PAULO             )
@@ -4002,7 +3911,6 @@
  3911  5987 RAIMUNDO FERREIRA DE SOUZA     (67) 712 M3034 1:15:12  5.01 BANCO BNL DO BRASIL           (SAO PAULO           )
  3912  1571 MARCOS ROGERIO PEDOR           (63) 623 M3539 1:15:12  5.01                               (SAO PAULO           )
  3913 10706 PETRONIO COSTA SANTOS          (54) 270 M4549 1:15:13  5.01                               (                    )
-
  3914  3016 MANOEL MESSIAS HERMINIO        (73) 693 M2529 1:15:13  5.01                               (SAO PAULO           )
  3915  9165 MARCOS ABREU                   (39)  15 M6064 1:15:13  5.01 CORJA                         (RIO E JANEIRO       )
  3916 10907 ANTONIO FERNANDES DA SILVA     (59) 382 M4044 1:15:13  5.01                               (                    )
@@ -4046,7 +3954,6 @@
  3954  1130 ROGERIO EDUARDO CANDIDO        (68) 718 M3034 1:15:20  5.01                               (SAO PAULO           )
  3955  1013 ORLANDO SILVA                  (46) 129 M5054 1:15:21  5.01                               (SAO PAULO           )
  3956  4651 GEORGE LOVIZOS                 (70) 702 M2529 1:15:21  5.01 MONSTER TRUCK                 (S PAULO             )
-
  3957  9163 JOSE DIRCEU BORGES             (49) 130 M5054 1:15:22  5.01 ACADEMIA EKI                  (JAU                 )
  3958 12130 JOSE SERAFIM SANTANA NETO      (71) 703 M2529 1:15:22  5.01 TV METROPOLITANA              (                    )
  3959 12114 LUIS FELIPE GRANATO DE ARAUJO  (83) 254 M1519 1:15:22  5.01                               (                    )
@@ -4090,7 +3997,6 @@
  3997  7238 JOSE ANTONIO ALVES DOS SANTOS  (55) 391 M4044 1:15:31  5.02                               (SP                  )
  3998 12115 ROBERTO CARLOS DE OLIVEIRA     (99)  24 M0014 1:15:31  5.02                               (                    )
  3999 11400 GILBERTO PEREIRA CAMPOS        (61) 637 M3539 1:15:31  5.02                               (                    )
-
  4000  8705 MARCO ANTONIO DE LIMA          (62) 638 M3539 1:15:31  5.02 GILBERTO COSTA                (S CAETANO DO SUL    )
  4001 11421 REINER WEBER                   (49) 134 M5054 1:15:31  5.02 ACM LAPA                      (                    )
  4002   766 ARY LOPES CARDOSO              (45) 135 M5054 1:15:31  5.02 E C PINHEIROS                 (                    )
@@ -4134,7 +4040,6 @@
  4040  2764 VALDEMAR DANTAS DE SOUZA       (42)  65 M5559 1:15:37  5.02                               (                    )
  4041  5782 SILVANEI RODRIGUES PEREIRA     (82) 259 M1519 1:15:38  5.03 CORUJA                        (JUNDIAI             )
  4042  1536 AMERICO DA SILVA REGO          (58) 399 M4044 1:15:38  5.03 PARQUE SANTO DIAS             (SAO PAULO           )
-
  4043  8262 IVANOR JOSE BUSARELO           (57) 400 M4044 1:15:38  5.03 ACRI                          (ITAJAI              )
  4044   712 DELIO DE SOUZA                 (34)   8 M6569 1:15:39  5.03                               (                    )
  4045  9493 ERICO GOMES NEGRAO             (79) 609 M2024 1:15:39  5.03 CORBAMA                       (VOLTA REDONDA       )
@@ -4178,7 +4083,6 @@
  4083 11305 ALEXANDRE XIMENES DE ALENCAR   (67) 734 M3034 1:15:48  5.03                               (                    )
  4084 12583                                ( 0) 115       1:15:48  5.03                               (                    )
  4085  1574 ALEXANRE APARECIDO ANTUNES     (77) 612 M2024 1:15:48  5.03                               (SAO PAULO           )
-
  4086  9148 MAXWEL BENTO JULIATTI          (71) 716 M2529 1:15:48  5.03                               (VITORIA             )
  4087  1932 MARCELO HIDEKI ISHIKAWA        (77) 613 M2024 1:15:48  5.03                               (SAO PAULO           )
  4088 10893 ALMIR LUCCHIARI                (60) 653 M3539 1:15:49  5.03 ASSCAPSTATEREZAD'VILA         (                    )
@@ -4222,7 +4126,6 @@
  4126  3098 MARCOS DE ARAUJO SIMOES        ( 0)  15 F7099 1:16:00  5.04                               (SAO PAULO           )
  4127  7879 LUIZ BEZERRA DE SOUZA          (37)  21 M6064 1:16:00  5.04 CENTRO ESPORTIVO GISELA       (SAO C DO SUL        )
  4128  2689 VALADNEI CERQUEIRA AMARAL      (67) 741 M3034 1:16:01  5.04                               (SAO PAULO           )
-
  4129  6963 PEDRO LUIS VICENTINO FOLTRAN   (64) 660 M3539 1:16:01  5.04                               (TIETE               )
  4130  9104 CARLOS EDUARDO ROJAS           (69) 742 M3034 1:16:01  5.04                               (BRAGANCA PAULISTA   )
  4131  3014 MARCIO DE CASTRO MACIEL        (47) 141 M5054 1:16:01  5.04 LOJAS CARDOSO                 (SAO PAULO           )
@@ -4266,7 +4169,6 @@
  4169 12084                                ( 0) 117       1:16:10  5.05                               (                    )
  4170  8248 GENILDO FELIX DE SOUZA         (79) 620 M2024 1:16:10  5.05                               (SAO PAULO           )
  4171  2976 MAURICIO RENATO TRINDADE       (72) 727 M2529 1:16:11  5.05 ATLETA DE CRISTO              (PIRACICABA          )
-
  4172  9207 JORGE RAIMUNDO M OLIVEIRA      (60) 666 M3539 1:16:11  5.05                               (IRECE               )
  4173  5734 JOSE ALBENES DASILVA           (58) 420 M4044 1:16:11  5.05 CORUJA                        (JUNDIAI             )
  4174  3039 JOSE AMARO DA SILVA            (52) 299 M4549 1:16:12  5.05                               (MAUA                )
@@ -4310,7 +4212,6 @@
  4212 12289 SILVIO ALVES PEREIRA           (49) 146 M5054 1:16:23  5.06 BRASILIA ESP CLUBE            (                    )
  4213  8357 MARIO BARBOSA CARDOSO          (54) 304 M4549 1:16:23  5.06                               (SP                  )
  4214  4401 FERNANDO DE DEUS OLIVEIRA      (70) 732 M2529 1:16:24  5.06                               (SAO PAULO           )
-
  4215  7992 IVAN BISPO COSTA               (54) 305 M4549 1:16:24  5.06                               (SAO PAULO           )
  4216  9272 SIMON PATRICK DE BLOCK         (65) 754 M3034 1:16:24  5.06 HOLAMBRA                      (HOLAMBRA            )
  4217  7659 TADEU EDUARDO DE ARAUJO        (76) 625 M2024 1:16:24  5.06                               (                    )
@@ -4354,7 +4255,6 @@
  4255  4287 LINO GUEDES DE MOURA           (56) 432 M4044 1:16:33  5.06                               (VARGEM GRANDE PAULIS)
  4256  5229 PEDRO PAULO PACHECO            (52) 310 M4549 1:16:34  5.06 SAO JOAO DA BARRA             (                    )
  4257  6771 EVANDRO MONTEIRO DA SILVA      (64) 680 M3539 1:16:34  5.06 MASX POWER                    (SAO PAULO           )
-
  4258  5581 DANIEL ALVES CAVAGNOLLI        (80) 269 M1519 1:16:34  5.06 E CLUBE COMERCIAL             (ESPIRITO STO PINHAL )
  4259  7192 JOAO E BALSANTES               (70) 738 M2529 1:16:34  5.06 BALSANTE DECORACOES           (CAMPOS DO JORDAO    )
  4260  5331 FABIO SOUSA TORRES             (73) 739 M2529 1:16:35  5.06                               (S PAULO             )
@@ -4398,7 +4298,6 @@
  4298  5975 ANTONIO FRANCISCO CASTRO ALVES (75) 632 M2024 1:16:44  5.07                               (GUARULHOS           )
  4299 10250 LEONARDO CASTRO DE OLIVEIRA    (78) 633 M2024 1:16:44  5.07 STA RITA ESPORTE CLUBE        (STA RITA ARAGUAIA   )
  4300  5308 PEDRO MARQUES PEREIRA          (60) 686 M3539 1:16:44  5.07                               (CARAPICUIBA         )
-
  4301  7832 EDSON MONTEIRO DA SILVA        (80) 271 M1519 1:16:44  5.07                               (SAO PAULO           )
  4302  5150 JOSE BRAS DA SILVA             (64) 687 M3539 1:16:44  5.07 ASS DE CAPOEIRA UNIDOS        (                    )
  4303  1738 CLAUDENILSON DE SOUSA BARBOSA  (66) 773 M3034 1:16:44  5.07                               (SAO PAULO           )
@@ -4442,7 +4341,6 @@
  4341 10258 PAULO AUGUSTO PINTO            (58) 444 M4044 1:16:55  5.08 ESPORTE CLUB AVA              (AVANHANDAVA         )
  4342  7244 OSVALDO XAVIER MORENO          (50) 321 M4549 1:16:55  5.08 CANIL POLICIA MILITAR         (SP                  )
  4343 12632 ALEXANDRE GERMANO              (81) 272 M1519 1:16:56  5.08 ASCORV                        (VARGINHA            )
-
  4344  3005 ELINTON DE PINHO PREVIATO      (59) 445 M4044 1:16:56  5.08                               (SAO PAULO           )
  4345  6322 JONATHAN VITORIO DE OLIVEIRA   (77) 641 M2024 1:16:56  5.08 PLAZA SUL                     (SAO PAULO           )
  4346  2406 MARCOS CRISTOVAO DA PAIXAO     (65) 777 M3034 1:16:57  5.08 PAO DE ACUCAR CLUB            (SAO PAULO           )
@@ -4486,7 +4384,6 @@
  4384  4268 LUCIANO SANTOS DUTRA           (82) 275 M1519 1:17:07  5.08 ARMINDA ROSA BOTICA           (SAO PAULO           )
  4385 12100 ALBERTO JULIO PEREIRA          (65) 783 M3034 1:17:09  5.09                               (                    )
  4386  4201 NELSON NUNES DOS SANTOS        (71) 753 M2529 1:17:09  5.09                               (SANTO ANDRE         )
-
  4387  6251 MARCELO DE ALMEIDA PRADO       (54) 327 M4549 1:17:09  5.09                               (SANTANA DO PARNAIBA )
  4388 11949                                ( 0) 120       1:17:10  5.09                               (                    )
  4389  7215 FANAEL APARECIDO PORTO         (71) 754 M2529 1:17:10  5.09                               (SP                  )
@@ -4530,7 +4427,6 @@
  4427 11170 ABDIAS GARCIA DO NASCIMENTO    (73) 763 M2529 1:17:18  5.09                               (SP                  )
  4428  4296 WAGNER MARINAO                 (81) 278 M1519 1:17:18  5.09 ASS CAPOEIRA UNIDOS REGIONAL  (FRANCO DA ROCHA     )
  4429  3012 PEDRO AUREO CASSARO CARDOSO    (64) 698 M3539 1:17:19  5.09 LOJAS CARDOSO                 (SAO PAULO           )
-
  4430  9901 LUIZ CARLOS DO AMARAL          (57) 460 M4044 1:17:19  5.09 JA CONTABILIDADE              (BARBACENA           )
  4431  6351 PEDRO FERNANDO VALLIM          (58) 461 M4044 1:17:20  5.09                               (SAO JOSE DOS CAMPOS )
  4432  1326 MANOEL ADRIANO DA SILVEIRA     (74) 764 M2529 1:17:20  5.09                               (SAO PAULO           )
@@ -4574,7 +4470,6 @@
  4470  8245 LUIS MARCIO D ARANHA FILHO     (73) 768 M2529 1:17:30  5.10                               (SAO PAULO           )
  4471  8071 SEBASTIAO PAULA DE LIMA        (53) 338 M4549 1:17:30  5.10 DERLA SUMARE SP               (SUMARE              )
  4472  5347 LEVINO PEREIRA DA SILVA        (47) 160 M5054 1:17:30  5.10 CORVAP                        (VARZEA PAULISTA     )
-
  4473  9305 NIVALDO CORDEIRO DE VASCONCELO (64) 706 M3539 1:17:30  5.10 PLANALTO CARPINA              (CARPINA             )
  4474  6291 PAULO MARCELO TDE OLIVEIRA     (81) 280 M1519 1:17:30  5.10                               (SAO B DO CAMPO      )
  4475  2903 ANTONIO DA SILVA GOMES         (60) 707 M3539 1:17:31  5.10                               (SAO PAULO           )
@@ -4618,7 +4513,6 @@
  4513  4199                                ( 0) 129       1:17:39  5.11                               (S PAULO             )
  4514 10377 PAULO HENRIQUE PRADO           (73) 772 M2529 1:17:39  5.11 AGASP                         (SAO PEDRO           )
  4515  4441 EDUARDO SEREBRANIK             (58) 467 M4044 1:17:39  5.11 PAINEIRAS                     (SAO PAULO           )
-
  4516  5475 OTACIANO DOS REIS SILVA FILHO  (69) 806 M3034 1:17:39  5.11 PUBLICAS IND PAINEIS          (S PAULO             )
  4517  9470 VICENTE BRUNELLI               (49) 164 M5054 1:17:40  5.11 REGATAS                       (RIBEIRAO PRETO      )
  4518  7974 JOSE ISAAC GOMES               (61) 715 M3539 1:17:40  5.11 FILTRON IND E COM LTDA        (EMBU                )
@@ -4662,7 +4556,6 @@
  4556  3582 PIO ESPEDITO DE CASTRO         (41)  74 M5559 1:17:48  5.11 CORRIPIQUERI                  (SAO PAULO           )
  4557  4057 MARCELO CARVALHO DIAS          (67) 811 M3034 1:17:49  5.11 PARKER                        (SAO B DO CAMPO      )
  4558  2409 JEAN CARLOS ROSA DOS SANTOS    (80) 292 M1519 1:17:49  5.11                               (CAMPINAS            )
-
  4559 11849 VITOR ANTONIO DA S LISBOA      (51) 346 M4549 1:17:49  5.11                               (RJ                  )
  4560  5121 ATEVALDO FERREIRA DE SOUZA     (72) 778 M2529 1:17:50  5.11                               (                    )
  4561  8110 PAULO ROBERTO PEREIRA          (64) 723 M3539 1:17:50  5.11 STERLING SOFTWARE             (SAO PAULO           )
@@ -4706,7 +4599,6 @@
  4599  9389 WAGNER ISMAEL DOS REIS         (55) 475 M4044 1:17:57  5.12                               (SANTOS DUMONT       )
  4600  2564 ANTONIO CARLOS GARO            (48) 168 M5054 1:17:57  5.12                               (SAO PAULO           )
  4601  9180 SERGIO CUNHA                   (64) 729 M3539 1:17:57  5.12                               (FLORIANOPOLIS       )
-
  4602  2459                                ( 0) 130       1:17:58  5.12                               (                    )
  4603  6125 WASHINGTON LUIS ADRIANO        (67) 820 M3034 1:17:58  5.12 ACM UNG                       (GUARULHOS           )
  4604  8833 MANOEL BORGES LEITE            (71) 786 M2529 1:17:58  5.12                               (SAO PAULO           )
@@ -4750,7 +4642,6 @@
  4642  6889 GUSTAVO FORONDA                (69) 826 M3034 1:18:07  5.12 INSTITUTO DO CORA��O          (SAO PAULO           )
  4643 12117 FRANCISCO WILSON BELEM         (63) 736 M3539 1:18:08  5.13 POLICIA MILITAR SP            (                    )
  4644  5002 RONIE BRENO VICHI DE ANDRADE   (76) 667 M2024 1:18:08  5.13 BRAVUS GUARULHOS              (                    )
-
  4645 11503 JOAO EVANGELISTA FERREIRA      (54) 357 M4549 1:18:08  5.13                               (UMUARAMA            )
  4646  3336 LUIZ HENRIQUE DE AGUIAR        (61) 737 M3539 1:18:08  5.13                               (SAO PAULO           )
  4647  8231 JOSE DE RIBAMAR SILVA SANTOS   (67) 827 M3034 1:18:08  5.13                               (SAO PAULO           )
@@ -4794,7 +4685,6 @@
  4685  6141 LUCIANO HERNANDES              (69) 830 M3034 1:18:16  5.13                               (SAO PAULO           )
  4686  4757 JESUEL GUEDES DA SILVA         (74) 792 M2529 1:18:16  5.13                               (SAO PAULO           )
  4687  8541 CLAUDIO HONORIO                (57) 491 M4044 1:18:17  5.13                               (CAMPINAS            )
-
  4688 10714 ANDERSON CLAYTON MANOEL RODRIG (78) 674 M2024 1:18:17  5.13 METALTRU                      (                    )
  4689   701 EDUARDO JOSE PENTEADO ELIAS    (70) 793 M2529 1:18:17  5.13                               (                    )
  4690   733 LUIZ FERNANDO HORTA OLEARY     (58) 492 M4044 1:18:17  5.13 MARCOS PAULO REIS ASS         (                    )
@@ -4838,7 +4728,6 @@
  4728  6602 EDWAR BRTELLI JR               (64) 749 M3539 1:18:28  5.14                               (SAO PAULO           )
  4729  9510 BENEDITO JOSE DOS SANTOS       (43)  78 M5559 1:18:29  5.14 AGAVIC GCM                    (SERTAOZINHO         )
  4730  6619 SIDNEY DE PAULA MARSURA        (60) 750 M3539 1:18:29  5.14                               (SAO PAULO           )
-
  4731  7975 WILLY MARIO BOROWCZAK          (42)  79 M5559 1:18:29  5.14 EMBU                          (EMBU                )
  4732 11424 ALEXANDRE ALVES DOS SANTOS     (80) 300 M1519 1:18:30  5.14                               (                    )
  4733  4272 ELCIO LAERCIO DA CUNHA         (72) 801 M2529 1:18:30  5.14 BASE ADM AP/2                 (SAO PAULO           )
@@ -4882,7 +4771,6 @@
  4771  3118 WILLIAM FERREIRA CASSEMIRO     (71) 804 M2529 1:18:44  5.15                               (SAO PAULO           )
  4772  9645 JACIR MANOEL RIBAS             (50) 369 M4549 1:18:45  5.15 UNIMED                        (DOURADOS            )
  4773  9882 JOAO HERBERTO SCHNEIDER        (64) 755 M3539 1:18:45  5.15 FUNDESPORT ARARAQUARA         (ARARAQUARA          )
-
  4774  6204 VALDOMIRO ALVES                (59) 502 M4044 1:18:45  5.15 AVESO SOROCABA                (SOROCABA            )
  4775  3662 RAIMUNDO ALVES DA SILVA        (68) 843 M3034 1:18:45  5.15 EQUIPE LANPARI COTIA          (COTIA               )
  4776  2276 FRANCISCO ASSIS SILVA          (65) 844 M3034 1:18:45  5.15 ADC BOMBRIL                   (SAO B DO CAMPO      )
@@ -4926,7 +4814,6 @@
  4814  3606 LUIS DA SILVA SANTOS           (75) 687 M2024 1:18:56  5.16                               (S PAULO             )
  4815  2318 GENTIL JORGE ALVES             (44)  82 M5559 1:18:56  5.16 LAURA MTBA IN SIGHT           (SAO PAULO           )
  4816  5965 SEBASTIAO NANAN                (68) 855 M3034 1:18:56  5.16                               (SAO PAULO           )
-
  4817  7299 ZACARIAS BEZERRA C FILHO       (60) 765 M3539 1:18:56  5.16                               (SP                  )
  4818  2430 ADAILTON ANTONIO DE OLIVEIRA   (65) 856 M3034 1:18:57  5.16 TRATORIA DO GUAPPO            (SAO PAULO           )
  4819 11397 MOYSES DE ARAUJO               (53) 372 M4549 1:18:57  5.16                               (                    )
@@ -4970,7 +4857,6 @@
  4857  3882 MILTON A DA SILVA JR           (65) 861 M3034 1:19:03  5.16 CLUBE REGATAS RIB PRETO       (RIBEIRAO PRETO      )
  4858 10856 JOSENILDO OLIVEIRA COSTA       (67) 862 M3034 1:19:03  5.16                               (                    )
  4859  5646 PAULO SERGIO DE SOUZA PINTO    (63) 769 M3539 1:19:04  5.16 FURNAS                        (RIO DE JANEIRO      )
-
  4860  7243 AURILO LOPES DE CARVALHO       (56) 516 M4044 1:19:04  5.16 KODAK CLUBE                   (S J DOS CAMPOS      )
  4861  2890 AURERINO JOSE DAMASIO          (58) 517 M4044 1:19:04  5.16 RHODAVIAS                     (JUNDIAI             )
  4862  3299 JOELSON DE JESUS               (69) 863 M3034 1:19:04  5.16                               (GUARULHOS           )
@@ -5014,7 +4900,6 @@
  4900  3639 MIGUEL ARCANJO DA SILVA        (69) 867 M3034 1:19:11  5.17                               (STO ANDRE           )
  4901 11831 MARCIO LUIS ANDRADE            (66) 868 M3034 1:19:11  5.17 CORPO INTEIRO                 (CAMPINAS            )
  4902  7977 NIVALDO DE OLIVEIRA            (61) 775 M3539 1:19:11  5.17                               (SP                  )
-
  4903  7931 JOSE DANIEL SANTOS             (66) 869 M3034 1:19:12  5.17                               (SP                  )
  4904 10328 HOMERO GUSTAVO FERRARI         (75) 698 M2024 1:19:12  5.17                               (LIMEIRA             )
  4905  9681 ALTEMIR PEREIRA DE SOUZA       (75) 699 M2024 1:19:12  5.17 DARDANELLA                    (PARAGUACU PTA       )
@@ -5058,7 +4943,6 @@
  4943  8139 ALOISIO DA SILVA               (63) 785 M3539 1:19:22  5.17                               (BARUERI             )
  4944  5699 WILSON JOSE FERREIRA FARIAS    (82) 314 M1519 1:19:22  5.17                               (SAOPAULO            )
  4945  1141 PAULO FRANKLIN LIMA DOS SANTOS (76) 705 M2024 1:19:22  5.17                               (JUNDIAI             )
-
  4946  5933 EVANDRO CAMPOS ACCORSI         (49) 183 M5054 1:19:22  5.17                               (SP                  )
  4947  7240 PAULINO DE SOUZA               (57) 524 M4044 1:19:23  5.18                               (SP                  )
  4948  1430 ALBERTO FERREIRA MENDES SILVA  (82) 315 M1519 1:19:23  5.18                               (OSASCO              )
@@ -5102,7 +4986,6 @@
  4986  2503 LUIS CARLOS THEODORO DA SILVA  (73) 826 M2529 1:19:34  5.18 SANTISTAS                     (SAO PAULO           )
  4987  9643 JUVENTINO PERES DE ANDRADE     (39)  35 M6064 1:19:34  5.18 IN NATURA                     (JANDAIA DO SUL      )
  4988  8888 MANOEL SOUSA NOVAIS            (66) 880 M3034 1:19:34  5.18                               (OSASCO              )
-
  4989  5693 AVENOR DONIZETTI JUSTINO       (60) 791 M3539 1:19:34  5.18                               (S BERNARDO DO CAMPO )
  4990  8348 JAIRO PIEDREHITA MONTOYA       (56) 532 M4044 1:19:34  5.18                               (MANAUS              )
  4991  9556 CARLOS ANTONIO L DE OLIVEIRA   (64) 792 M3539 1:19:35  5.18 ACAV                          (CAUCAIA             )
@@ -5146,7 +5029,6 @@
  5029  1278 CARLOS FERNANDO DA SILVA       (61) 798 M3539 1:19:45  5.19                               (MAUA                )
  5030  4716 LEANDRO ALBERTO DE SOUZA       (73) 834 M2529 1:19:45  5.19 CIRCULO MILITAR               (CAMPINAS            )
  5031  7998 PAULO HENRIQUE S DE OLIVEIRA   (78) 709 M2024 1:19:45  5.19 SOL NASCENTE                  (SAO APULO           )
-
  5032  6482 FLORIVAL ANTONIO DA SILVA      (66) 886 M3034 1:19:46  5.19 ACORJ                         (JACAREI             )
  5033  8307 SAMUEL CARDOSO DA SILVA        (56) 537 M4044 1:19:46  5.19 CORREDOR DE RUA               (S B DO CAMPO        )
  5034  8481 FABIO DA CUNHA                 (77) 710 M2024 1:19:46  5.19 PORTUGUESA T DA SERRA         (TABOAO DA SERRA     )
@@ -5190,7 +5072,6 @@
  5072  8775 GILVAN DIAS SOARES             (78) 714 M2024 1:19:57  5.20                               (SAOPAULO            )
  5073  4678 WALTER ANDRE CONDOLANI         (80) 324 M1519 1:19:57  5.20                               (S PAULO             )
  5074 12445 LUIZ CARLOS DOS SANTOS ALVES   (48) 191 M5054 1:19:58  5.20 DEPLA FOTOGRAFIA              (RIO DE JANEIRO      )
-
  5075  8929 JOSE SILVESTRE ALVES           (60) 807 M3539 1:19:58  5.20                               (SP                  )
  5076  5357 JOSE ROMILDO SILVA LIMA        (68) 890 M3034 1:19:59  5.20                               (S PAULO             )
  5077  2617 JOSE PERACIO ALVES             (48) 192 M5054 1:19:59  5.20                               (JUIZ DE FORA        )
@@ -5234,7 +5115,6 @@
  5115  8999 RICARDO TADEU POPPER           (50) 406 M4549 1:20:07  5.20 ABB                           (SP                  )
  5116  3156 PAULO OLIVEIRA AMARO           (79) 716 M2024 1:20:07  5.20                               (SAO PAULO           )
  5117  2123 ADALBERTO AMBROSINI            (69) 900 M3034 1:20:08  5.21                               (JUNDIAI             )
-
  5118 12666 SESSYMYEL GONZAG EMIL ZATOPEK  (58) 548 M4044 1:20:08  5.21                               (                    )
  5119  3770 JOSE LUIZ PASTORE MELLO        (68) 901 M3034 1:20:08  5.21                               (SAO PAULO           )
  5120  7661 UBIRATA PEREIRA DE ARAUJO      (74) 846 M2529 1:20:08  5.21                               (                    )
@@ -5278,7 +5158,6 @@
  5158  3018 GUSTAVE BUSCH                  (29)   3 M7074 1:20:17  5.21                               (SAO PAULO           )
  5159  6742 JOSE ELIEL ROCHA DA SILVA      (80) 328 M1519 1:20:17  5.21                               (SAO PAULO           )
  5160  3617 RAMIRO DOS SANTOS FERNANDES JR (64) 818 M3539 1:20:17  5.21                               (S BERNARDO DO CAMPO )
-
  5161  7802 JOSE SIMAO MACHADO MOURAO      (48) 198 M5054 1:20:17  5.21                               (SAO PAULO           )
  5162  6151 OSMAR DOMINGOS DOS SANTOS      (73) 850 M2529 1:20:17  5.21 ACM STO AMARO                 (SAO PAULO           )
  5163  4819 WAGNER JOSE SILVA SANTOS       (82) 329 M1519 1:20:18  5.21 SAO JOSE DA TAPERA            (                    )
@@ -5322,7 +5201,6 @@
  5201 12338 LUCIANO SANTOS LANNES          (60) 823 M3539 1:20:32  5.22                               (                    )
  5202  6634 NILTON FERREIRA SOBRINHO       (79) 723 M2024 1:20:33  5.22 ACCOR BRASIL                  (SAO PAULO           )
  5203 11083 NEHEMIAS LEITE ARAUJO FILHO    (63) 824 M3539 1:20:33  5.22 THE TRI ATTACK TEAM           (SAO PAULO           )
-
  5204  7831 LAUDELINO ASSUNCAO             (25)   4 M7074 1:20:33  5.22 TONICO BRUNEN                 (SAO APULO           )
  5205  7881 ALMIR PINHEIRO FRANCA          (61) 825 M3539 1:20:33  5.22                               (SAO PAULO           )
  5206  6892 JOSE RIBEIRO DE CARVALHO       (55) 558 M4044 1:20:34  5.22 ADC LOBATENSE                 (MONTEIRO LOBATO     )
@@ -5366,7 +5244,6 @@
  5244     7 EMERSON ISER BEM               (73) 864 M2529 1:20:44  5.23 ASICS FUNILENSE               (BRASIL              )
  5245  7047 CLAUDIO BENEDITO               (58) 566 M4044 1:20:44  5.23 MIGUEL SARKIS                 (CARAPICUIBA         )
  5246  4556 MARCIO PERDIZA VILAS BOAS      (49) 204 M5054 1:20:45  5.23 STYROCORTE                    (RIBEIRAO PRETO      )
-
  5247  3569 JOSE CARDOSO DOS SANTOS        (70) 865 M2529 1:20:45  5.23                               (SAO B DO CAMPO      )
  5248  8828 WALTER CLAUDINS ROTHEBURC      (60) 828 M3539 1:20:45  5.23                               (SAO PAULO           )
  5249  7436 JOSE ARAUJO COSTA SOBRINHO     (46) 205 M5054 1:20:45  5.23 INST RELIGIOSA PL             (SAO PAULO           )
@@ -5410,7 +5287,6 @@
  5287  3207 ADEMIR DA SILVA                (67) 920 M3034 1:20:53  5.24                               (FERRAZ DE VASCONCELS)
  5288  5479 LUIZ HENRIQUE PIMENTA FILHO    (80) 334 M1519 1:20:53  5.24 RUNNING                       (S PAULO             )
  5289  9215 JOAQUIM PRATA SANTANA          (46) 206 M5054 1:20:53  5.24                               (BARBACENA           )
-
  5290 11727 EDILSON PASSOS DE ARAUJO       (61) 836 M3539 1:20:53  5.24 CORDF BRASILIA                (BRASILIA            )
  5291  7015 ANTONIO SHIGUEO ISHINI         (52) 424 M4549 1:20:53  5.24                               (SP                  )
  5292  3270 JESUALDO DE JESUS ALVES        (56) 569 M4044 1:20:54  5.24 LAUZANE PAULISTA FC           (SAO PAULO           )
@@ -5454,7 +5330,6 @@
  5330  1002 ALFREDO TIGNANI                (58) 575 M4044 1:21:05  5.24 ESP CLUBE PINHEIROS           (SAO PAULO           )
  5331 10269 VICENTE BENJAMIN DE LIMA       (55) 576 M4044 1:21:05  5.24 MEDLEY IND FARMA              (CAMPINAS            )
  5332  8613 ANTONIO DA SILVA SOUZA         (70) 877 M2529 1:21:05  5.24                               (SBC                 )
-
  5333  5380 JOAO BRAGA FILHO               (54) 428 M4549 1:21:06  5.24                               (OSASCO              )
  5334 11645 LIVIO ANTONIO DE ARAUJO ABREU  (83) 337 M1519 1:21:06  5.24 ACORD DIVINOPOLIS             (DIVINOPOLIS         )
  5335  3616 ANTONIO SABINO FILHO           (71) 878 M2529 1:21:06  5.24                               (GUARULHOS           )
@@ -5498,7 +5373,6 @@
  5373 12056                                ( 0) 159       1:21:15  5.25                               (                    )
  5374 11152 NATANAEL TIMOTEO               (66) 933 M3034 1:21:15  5.25                               (SP                  )
  5375  5506 PAULO GUILHERME AMERISE SOUZA  (72) 885 M2529 1:21:16  5.25 REAL CONVENIENCIA             (SOROCABA            )
-
  5376  4560 BASILIO FONSECA SIQUEIRA       (45) 210 M5054 1:21:16  5.25 ECHAPORA                      (S PAULO             )
  5377  4730 JOAO BENEDITO VICENTE          (76) 745 M2024 1:21:16  5.25                               (EMBU                )
  5378  9773 ALEXANDRE HELVERIO P REZENDE   (64) 849 M3539 1:21:17  5.25 POSTO MANEZAO                 (VARGINHA            )
@@ -5542,7 +5416,6 @@
  5416  2771 JOSE WENCESLAU N NARESSI       (46) 213 M5054 1:21:28  5.26                               (                    )
  5417 10834 ADALBERTO SANTOS OLIVEIRA      (53) 438 M4549 1:21:28  5.26 RUN FUN                       (                    )
  5418  2523 RUI YUDI SATO PEREIRA          (79) 747 M2024 1:21:28  5.26 PORTUGUESA                    (SAO PAULO           )
-
  5419  4590 JOSE ELIZIARIO DA SILVA JR     (75) 748 M2024 1:21:28  5.26 ELIZ RAQUEL                   (S PAULO             )
  5420  3732 EDUARDO FERREIRA               (84) 344 M1519 1:21:28  5.26 EQ NAO PARE                   (MAIRIPORA           )
  5421  8994 JOSE AUGUSTO MOURA             (67) 936 M3034 1:21:28  5.26                               (CAMPINAS            )
@@ -5586,7 +5459,6 @@
  5459  8474 SERGIO HENRY SANT'ANNA         (63) 862 M3539 1:21:35  5.26                               (SP                  )
  5460  3875 ROBERTO JAIME DOS SANTOS       (65) 937 M3034 1:21:35  5.26 AJBAQUARA                     (SAO VICENTE         )
  5461  2959 PERCIO ALVIANO MAZZA           (52) 444 M4549 1:21:35  5.26 CORAJ                         (SAO JOSE DOS CAMPOS )
-
  5462  5532 JONAS DE BARROS PENTEADO       (38)  43 M6064 1:21:35  5.26 CORREBAS SANTOS               (SANTOS              )
  5463  8259 EDMIR LOPES DE CARVALHO        (65) 938 M3034 1:21:35  5.26                               (SAO PAULO           )
  5464  4446 RENATO RODRIGUES               (74) 892 M2529 1:21:36  5.26                               (SAO PAULO           )
@@ -5630,7 +5502,6 @@
  5502 10968 MARCELO MALDONADO SANTANA      (72) 900 M2529 1:21:45  5.27                               (                    )
  5503  2904 ANTONIO EDSON MOURA            (68) 946 M3034 1:21:46  5.27 ARAS VALE DO ARETE            (SAO PAULO           )
  5504  7413 MARCILIO JOSE MARTINS DE SOUZA (71) 901 M2529 1:21:46  5.27                               (SANTA MARIA BRASILIA)
-
  5505 10531 OSWALDO CORREA DA SILVA        (42) 109 M5559 1:21:46  5.27 E C TAVARES                   (SP                  )
  5506  3652 FERNANDO DA SILVA PEREIRA      (68) 947 M3034 1:21:46  5.27                               (FRANCISCO MORATO    )
  5507  1586 CLAUDIO DE PAIVA               (71) 902 M2529 1:21:46  5.27                               (SAO PAULO           )
@@ -5674,7 +5545,6 @@
  5545  6678 BYOUNG SIK CHOE                (67) 955 M3034 1:21:57  5.28                               (SAO PAULO           )
  5546  5614 LEVI DE OLIVEIRA               (45) 219 M5054 1:21:57  5.28                               (COTIA               )
  5547  3567 GEORGE IKEDA                   (63) 872 M3539 1:21:58  5.28                               (JUNDIAI             )
-
  5548  3885 MARIO FERNANDO SANCHEZ         (71) 907 M2529 1:21:58  5.28 MARIO SANCHEZ PERSONAL        (SAO PAULO           )
  5549  5871 MARINALDO LUIZ DA SILVA        (72) 908 M2529 1:21:58  5.28                               (SP                  )
  5550  3884 CLAUDIO PEREIRA DOS SANTOS     (66) 956 M3034 1:21:59  5.28 MARIO SANCHEZ PERSONAL        (SAO PAULO           )
@@ -5718,7 +5588,6 @@
  5588  7690 YUKIO MORITA                   (54) 456 M4549 1:22:11  5.29                               (                    )
  5589  4109 WAGNER MORAIS DA SILVA         (67) 960 M3034 1:22:12  5.29                               (SAO JOSE DOS CAMPOS )
  5590 10368 FRANCISCO CARLOS M DE OLIVEIRA (64) 879 M3539 1:22:12  5.29                               (CURITIBA            )
-
  5591 11918                                ( 0) 167       1:22:12  5.29                               (                    )
  5592  7118 MARIO SERGIO CAMPOS            (52) 457 M4549 1:22:12  5.29 ABA - BTC                     (BAURU               )
  5593  1630 FRANZ RALF SLAVIC              ( 0)  24 F7099 1:22:13  5.29                               (SANTO ANDRE         )
@@ -5762,7 +5631,6 @@
  5631 10343 CARLOS ALBERTO PEREIRA         (65) 965 M3034 1:22:21  5.29 RESTORANTE SAATORE            (BELO HORIZONTE      )
  5632  9255 LEONARDO FERNANDES RODRIGUES   (81) 359 M1519 1:22:21  5.29 UNISUL                        (PALHOCA             )
  5633  6788 ROBSON LOPES LOBO              (56) 620 M4044 1:22:21  5.29 ESPORTE LIFE                  (SAO B DO CAMPOS     )
-
  5634  4543 JOSE ITAMAR FURTADO SIQUEIRA   (77) 772 M2024 1:22:22  5.29                               (S PAULO             )
  5635 11023 GILBERTO PAULO DA SILVA        (58) 621 M4044 1:22:22  5.29 CRUZEIRO ESPORTE CLUBE        (BETIM               )
  5636  2519 RAIMUNDO NONATO R DOS SANTOS   (67) 966 M3034 1:22:23  5.30                               (SAO PAULO           )
@@ -5806,7 +5674,6 @@
  5674 12480 ELIOTERIO FERNANDES GOMES      (55) 625 M4044 1:22:33  5.30 UNIAO DO MORRO                (MAUA                )
  5675  8226 WILSON DA COSTA                (68) 973 M3034 1:22:33  5.30                               (SAO PAULO           )
  5676  1659 JOAO ALBERTO DE OLIVEIRA KUHN  (80) 362 M1519 1:22:33  5.30                               (SOROCABA            )
-
  5677  5603 PAOLO CALLEA                   (58) 626 M4044 1:22:33  5.30 JUVENTUS                      (SAO PAULO           )
  5678  8205 FERNANDO TOMIO SHIZOIWA        (72) 919 M2529 1:22:34  5.30                               (SAO PAULO           )
  5679  1988 ESTEVAN REZENDE DE SANTANA     (71) 920 M2529 1:22:34  5.30                               (SAO PAULO           )
@@ -5850,7 +5717,6 @@
  5717 11931                                ( 0) 171       1:22:43  5.31                               (                    )
  5718  3041 FRANCISCO E FONSECA P S SOUTO  (60) 902 M3539 1:22:43  5.31                               (CAMPINAS            )
  5719 12665 CELSO RUIZ MAGOALENA           (59) 632 M4044 1:22:43  5.31                               (SAO PAULO           )
-
  5720  5916 JOSE APARECIDO FAVA GIMENEZ    (44) 117 M5559 1:22:44  5.31 ASS ATL BANCO DO BRASIL       (SP                  )
  5721  7363 GERMANO NOGUEIRA COSTA         (49) 229 M5054 1:22:44  5.31                               (BRASILIA            )
  5722  3833 LUCIANO ANDRE AVELINO          (76) 778 M2024 1:22:44  5.31                               (SAO PAULO           )
@@ -5894,7 +5760,6 @@
  5760  7510 EDMUNDO FERNANDO PEREIRA       (58) 635 M4044 1:22:54  5.32                               (SAO PAULO           )
  5761  8432 MARCUS TADEU RAMOS             (82) 366 M1519 1:22:55  5.32                               (SP                  )
  5762 11052 ATAIDE SANTOS SILVA            (41) 120 M5559 1:22:55  5.32 CORPORE                       (SAO PAULO           )
-
  5763  8840 ERIVALDO DOMINGOS DOS SANTOS   (04)   2 M8099 1:22:55  5.32                               (EMBU DAS ART4S      )
  5764 12343 CLEONARDO DE ARAUJO PINHEIRO   (75) 780 M2024 1:22:55  5.32                               (                    )
  5765  7618 JAILSON LEITE VIANA            (56) 636 M4044 1:22:56  5.32                               (SAO PAULO           )
@@ -5938,7 +5803,6 @@
  5803  4184 MARIO ROBERTO FIAMENGHI        (70) 938 M2529 1:23:08  5.33                               (S PAULO             )
  5804 10537 WALTER ROSA FONTES             (58) 640 M4044 1:23:08  5.33 E C TAVARES                   (SP                  )
  5805 11359 ROGERIO MIRANDA DE P SANTANA   (78) 786 M2024 1:23:08  5.33                               (                    )
-
  5806  2692 NILTON CESAR MARTINS           (68)1000 M3034 1:23:08  5.33                               (SAO PAULO           )
  5807  6250 ROGERIO LOPES                  (54) 480 M4549 1:23:09  5.33                               (SAO PAULO           )
  5808  6045 MIGUEL LUCIANO                 (33)  18 M6569 1:23:09  5.33 BANCO BNL DO BRASIL           (SAO PAULO           )
@@ -5982,7 +5846,6 @@
  5846  5654 ELSON LUIZ NEVES SILVA         (63) 914 M3539 1:23:19  5.33 FURNAS                        (RIO DE JANEIRO      )
  5847  5746 JOSE LUIZ ZAMUR                (61) 915 M3539 1:23:19  5.33 CORUJA                        (JUNDIAI             )
  5848  8225 IVAN DE JESUS SILVA            (78) 790 M2024 1:23:20  5.33                               (SAO PAULO           )
-
  5849 12300 JOSE DALMO PEREIRA             (70) 945 M2529 1:23:20  5.33 EMA                           (                    )
  5850  3433 JOAO MOREIRA                   (43) 122 M5559 1:23:20  5.33 AMANTES DA NATUREZA           (SAO PAULO           )
  5851  6592 LUCIO MORITA                   (38)  50 M6064 1:23:21  5.33                               (S PAULO             )
@@ -6026,7 +5889,6 @@
  5889 11046 MATHEUS J PARIZ MACHADO        (82) 374 M1519 1:23:34  5.34                               (ATIBAIA             )
  5890  3982 PEDRO MARQUES                  (30)  20 M6569 1:23:34  5.34                               (SAO PAULO           )
  5891  6703 RICARDO AUGUSTO R SANT'ANNA    (76) 795 M2024 1:23:35  5.34                               (SAO PAULO           )
-
  5892  3046 MANOEL CAETANO DE ANDRADE      (48) 235 M5054 1:23:35  5.34                               (SAO PAULO           )
  5893  1599 ALDO DA SILVA TRINDADE         (62) 924 M3539 1:23:35  5.34 PONTE PRETA                   (BARUERI             )
  5894 11696 LEONARDO FERNANDES DOS REIS    (47) 236 M5054 1:23:35  5.34 CORDF BRASILIA                (BRASILIA            )
@@ -6070,7 +5932,6 @@
  5932 10141 VLADIMIR PEREIRA COSTA         (69)1019 M3034 1:23:45  5.35                               (SALVADOR            )
  5933 11560 LUIS BESERRA DA SILVA          (45) 242 M5054 1:23:45  5.35                               (                    )
  5934  3894 CLEI MAURI NATALICIO           (54) 494 M4549 1:23:45  5.35                               (SAO PAULO           )
-
  5935  3508 AROLDO ROVERO                  (57) 653 M4044 1:23:45  5.35 CORPORE                       (SAO PAULO           )
  5936 12348 SAMUEL PEREIRA RIBEIRO         (76) 800 M2024 1:23:45  5.35 BASIC                         (                    )
  5937  9555 ONOFRE RODRIGUES PAIVA         (48) 243 M5054 1:23:45  5.35 COELLE ACAV                   (FORTALEA            )
@@ -6114,7 +5975,6 @@
  5975  6279 OSVALDO DA SILVA MOREIRA JR    (79) 804 M2024 1:23:55  5.36                               (SAO JOSE DOS CAMPOS )
  5976  9045 ANDRE SERETA ZANFERDINI        (61) 937 M3539 1:23:55  5.36                               (RIBEIRAO PRETO      )
  5977 11080 ADBALDO ALVES DE SANTANA       (60) 938 M3539 1:23:56  5.36                               (SAO PAULO           )
-
  5978  5648 WILLIAN VIDAL GONCALVES        (55) 659 M4044 1:23:56  5.36 FURNAS                        (RIO DE JANEIRO      )
  5979  6362 EPAMINONDAS LUIZ BORGES FILHO  (72) 961 M2529 1:23:56  5.36                               (CAMPINAS            )
  5980  5889 ECKHARD E WUPFER               (42) 126 M5559 1:23:56  5.36 FORMULA                       (SP                  )
@@ -6158,7 +6018,6 @@
  6018  6981 LAERCIO FERREIRA DA CUNHA      (61) 944 M3539 1:24:05  5.36                               (SP                  )
  6019  2485 RICARDO ANGELINI               (56) 668 M4044 1:24:05  5.36                               (SAO PAULO           )
  6020  4564 GENARIO DE MELO MOURA          (72) 968 M2529 1:24:05  5.36                               (S PAULO             )
-
  6021 11269 JOSE LUIS OPORTO               (59) 669 M4044 1:24:05  5.36                               (SP                  )
  6022  3171 JOSE PIGOLA NETO               (62) 945 M3539 1:24:05  5.36                               (SAO PAULO           )
  6023  1162 JOSE ALEXANDRE DE OLIVEIRA     (50) 504 M4549 1:24:06  5.36                               (PONTA GROSSA        )
@@ -6202,7 +6061,6 @@
  6061  1708 ATHAYDE TONHASCA JR            (59) 676 M4044 1:24:17  5.37                               (COTIA               )
  6062  7179 FLORISVALDO ALVES              (71) 975 M2529 1:24:17  5.37                               (CAMPINAS            )
  6063 10326 ANTONIO LUCHESI FILHO          (41) 129 M5559 1:24:17  5.37 SOCICAM                       (AMERICANA           )
-
  6064  3142 JONATAN TERUO YAMAZAKI         (80) 379 M1519 1:24:18  5.37 CEPE SMS                      (SAO JOSE DOS CAMPOS )
  6065 12649 RENATO D SOUZA FONSECA         (76) 810 M2024 1:24:18  5.37                               (MACAE               )
  6066  3491 RICARDO RIBEIRO DA SILVA       (83) 380 M1519 1:24:19  5.37                               (SAO PAULO           )
@@ -6246,7 +6104,6 @@
  6104  6261 JOSE CARLOS ANSELMO SALES      (65)1048 M3034 1:24:27  5.38 CRIS BOMBONIERE               (SAO PAULO           )
  6105 10954 FERNANDO AUGUSTO BRAGAGLIA     (77) 814 M2024 1:24:27  5.38 IPE CLUBE                     (                    )
  6106  9249 ELIAS E DOS SANTOS SOBRINHO    (51) 512 M4549 1:24:27  5.38                               (SAO JOAO DO MERITI  )
-
  6107  6739 DNGO LIPKAU                    (59) 685 M4044 1:24:28  5.38 ADC BAYER                     (SAO PAULO           )
  6108  4650 ALESSANDRO ANTONIO STEFANUTTO  (71) 979 M2529 1:24:28  5.38 MONSTER TRUCK                 (S PAULO             )
  6109  4369 NILTON DE JESUS                (62) 956 M3539 1:24:28  5.38 RIO CLARO                     (SAO PAULO           )
@@ -6290,7 +6147,6 @@
  6147  4630 BRENO PERSONA MACHADO GOMES    (72) 984 M2529 1:24:38  5.39                               (S PAULO             )
  6148  3960 JOSE CARMO DE PAULA            (54) 515 M4549 1:24:38  5.39                               (CARAPICUIBA         )
  6149  4336 GUILLERMO MOANE                (70) 985 M2529 1:24:38  5.39 CLINICA PAULISTA              (SAO PAULO           )
-
  6150  7605 FRANK ANDERSON MOURA DE SOUZA  (78) 820 M2024 1:24:39  5.39                               (SAO PAULO           )
  6151  1175 GENILSON CARDOSO DE BRITO      (56) 695 M4044 1:24:39  5.39                               (SAO PAULO           )
  6152  8028 EDSON ANTONIO ROSA             (59) 696 M4044 1:24:39  5.39                               (AMERICANA           )
@@ -6334,7 +6190,6 @@
  6190  4939 RICARDO MACHADO                (68)1057 M3034 1:24:50  5.39 ITAPIRA                       (                    )
  6191  9977 DENIS CARLOS SANTOS DE JESUS   (79) 823 M2024 1:24:51  5.39                               (SOCORRO             )
  6192 10691 PAULO ROBERTO SANTOS TABOSSI   (58) 702 M4044 1:24:51  5.39 BANCO BRASIL                  (                    )
-
  6193  5414 CARLOS ALBERTO MASSUDA         (60) 969 M3539 1:24:51  5.39                               (RIBEIRAO PRETO      )
  6194  4363 JORGE EDUARDO ASSEF            (59) 703 M4044 1:24:52  5.39                               (SAO PAULO           )
  6195 11588 JOSE SANCHES FILHO             (52) 519 M4549 1:24:52  5.39 RIBEIRAO PIRES FC             (RIBEIRAO PIRES      )
@@ -6378,7 +6233,6 @@
  6233  2819 SERGIO TADEU MACIEL            (73) 995 M2529 1:25:01  5.40 CUECA'S                       (SAO PAULO           )
  6234  7959 EDUARDO PAULO SANTANA          (78) 829 M2024 1:25:01  5.40                               (SP                  )
  6235  6435 JOAO NERES DA SILVA            (69)1063 M3034 1:25:02  5.40                               (SAO PAULO           )
-
  6236 12656 JOAO BATISTA DE SOUZA FILHO    (58) 713 M4044 1:25:02  5.40 HOSPITAL SOCOR                (BELO HORIZONTE      )
  6237 10333 RICARDO STECKELBERG JWASHIMA   (72) 996 M2529 1:25:02  5.40 CUCA GRABER                   (CAMPINAS            )
  6238  8290 ADILSON CAPPUCCI JR            (71) 997 M2529 1:25:03  5.40                               (SAO PAULO           )
@@ -6422,7 +6276,6 @@
  6276  1943 LAUDIR SARTO                   (44) 138 M5559 1:25:13  5.41 CUP CORRI PIRACICABA          (PIRACICABA          )
  6277  5673 JONAS NOGUEIRA DASILVA         (45) 258 M5054 1:25:13  5.41                               (COTIA               )
  6278  1635 EDSON DE OLIVEIRA LEITE        (80) 388 M1519 1:25:13  5.41                               (SAO PAULO           )
-
  6279  3861 ALVARO FEDERICO                (57) 718 M4044 1:25:13  5.41 AMADOR                        (SAO PAULO           )
  6280  8646 ALFREDO PEREIRA DE ARAUJO      (36)  61 M6064 1:25:13  5.41 LITO                          (SP                  )
  6281  6953 PEDRO ROSARIO CURVELO          (50) 526 M4549 1:25:14  5.41 CANAL 5 SANTOS                (SAO VICENTE         )
@@ -6466,7 +6319,6 @@
  6319  3157 REGINALDO CAVALCENTI DA SILVA  (75) 841 M2024 1:25:27  5.42                               (SAO PAULO           )
  6320  4249 MAURI DA CUNHA PEREIRA         (60) 992 M3539 1:25:27  5.42                               (DIADEMA             )
  6321  3395 JABES MORAES                   (61) 993 M3539 1:25:28  5.42                               (SAO PAULO           )
-
  6322  2374 CARLOS ALBERTO SOARES DA SILVA (68)1072 M3034 1:25:28  5.42 P A CLUBE                     (SP                  )
  6323  6277 MICHAEL DA SILVA PEDRO         (74)1004 M2529 1:25:28  5.42                               (JACAREI             )
  6324 11984 ALBERTO ADONIAS DOS S SILVA    (54) 530 M4549 1:25:28  5.42 LEMBUKAM                      (                    )
@@ -6510,7 +6362,6 @@
  6362  9284 RODOLFO CARLOS RIBEIRO SILVA   (67)1079 M3034 1:25:37  5.42                               (LIMEIRA             )
  6363  5245 LEANDRO DE PAULA               (75) 848 M2024 1:25:37  5.42 MARCORRER                     (                    )
  6364  3137 ANTONIO CANDIDO                (48) 264 M5054 1:25:37  5.42 ESTADAO                       (PERUS               )
-
  6365  1476 GABRIEL INACIO DA SILVA        (63) 998 M3539 1:25:37  5.42 BOMBAGUA                      (SAO PAULO           )
  6366  7330 AUGUSTO FRANCISCO DA SILVA     (35)  63 M6064 1:25:37  5.42 CIAVE                         (SAO PAULO           )
  6367  6797 ADRIANO RODRIGUES DE LIMA      (75) 849 M2024 1:25:38  5.43                               (ITAQUA              )
@@ -6554,7 +6405,6 @@
  6405  8458 EVANDRO NOGUEIRA MARQUES       (68)1086 M3034 1:25:48  5.43                               (SP                  )
  6406  4290 ARIOSTO BEZERRA VALE           (67)1087 M3034 1:25:49  5.43 PUMPINGIRON                   (SAO PAULO           )
  6407  3592 PLINIO VARGAS                  (51) 546 M4549 1:25:49  5.43 TURMA DO ARREPIO              (FERRAZ DE VASCONELOS)
-
  6408 12317 JUSCELINO MATOS DE OLIVEIRS    (60)1005 M3539 1:25:49  5.43                               (                    )
  6409  5754 JULIAO AJAMIL                  (42) 146 M5559 1:25:49  5.43 CORUJA                        (JUNDIAI             )
  6410  5609 RENATO JOSE GOMES              (69)1088 M3034 1:25:49  5.43                               (SAO PAUL]O          )
@@ -6598,7 +6448,6 @@
  6448  5351 FLAVIO ARAUJO DO NASCIMNETO    (67)1091 M3034 1:26:00  5.44 YAKUL S/A IND E COM           (S PAULO             )
  6449  5847 BENEDITO SOARES                (49) 267 M5054 1:26:00  5.44                               (SP                  )
  6450  2590 EDUARDO MAURICIO NSIMBA        (63)1019 M3539 1:26:00  5.44                               (SAO PAULO           )
-
  6451  8142 ISRAEL MONTEIRO ROBIELO        (68)1092 M3034 1:26:01  5.44                               (SAO B DO CAMPO      )
  6452  4404 EDSON KIYOSHI OKOCHI           (66)1093 M3034 1:26:01  5.44 ADC OTICA BOA VISTA           (JUNDIAI             )
  6453 12123 JOSE DE RIBAMAR MARINHO ROCHA  (54) 551 M4549 1:26:01  5.44                               (                    )
@@ -6642,7 +6491,6 @@
  6491  1441 ANTONIO GERALDO MAJELLA        (52) 555 M4549 1:26:12  5.45                               (SAO PAULO           )
  6492  8208 CLAUDIO MARCIO DOS SANTOS      (72)1022 M2529 1:26:13  5.45                               (SAO B DO CAMPO      )
  6493  8543 SERGIO ROBERTO AUGUSTO         (59) 737 M4044 1:26:14  5.45 BRAVUS                        (GUARULHOS           )
-
  6494 10550 EMERSON MELLI DE LIMA          (76) 858 M2024 1:26:15  5.45 INTOCAVEIS RACE TEAM          (SP                  )
  6495  5859 CLAUDENOR DELMONDES ALVES      (70)1023 M2529 1:26:15  5.45                               (SP                  )
  6496  7033 RICARDO RIOJI FUSEL DE JE      (75) 859 M2024 1:26:16  5.45                               (SP                  )
@@ -6686,7 +6534,6 @@
  6534  8877 AILTON SCHIAVETTO MARQUES      (66)1107 M3034 1:26:25  5.46                               (SAO PAULO           )
  6535  1102 RODRIGO PEREIRA DOS SANTOS     (77) 862 M2024 1:26:26  5.46                               (SAO PAULO           )
  6536  5246 MILTON SILVERIO DOURADO        (69)1108 M3034 1:26:26  5.46                               (                    )
-
  6537  7359 LUIZ CLAUDIO DE ANDRADE        (59) 745 M4044 1:26:27  5.46                               (SAO PAULO           )
  6538  4006 ARMANDO LOPES                  (44) 153 M5559 1:26:27  5.46                               (RIBEIRAO PIRES      )
  6539 11039 CLOVIS HISEAKI IKEDA           (63)1029 M3539 1:26:27  5.46 RUN FUN LIFE                  (SAO PAULO           )
@@ -6730,7 +6577,6 @@
  6577  3767 CARLOS LEONARDO B GIUNCO       (71)1031 M2529 1:26:35  5.46 VINHEDO                       (VINHEDO             )
  6578  6572 ANTONIO CAMPOS FILHO           (47) 279 M5054 1:26:35  5.46                               (S PAULO             )
  6579  8002 OTAVIO MEIRELLES GRECCO        (66)1115 M3034 1:26:36  5.46                               (CAMPINAS            )
-
  6580  2755 RENIVALDO MARTINS DE OLIVEIRA  (53) 561 M4549 1:26:36  5.46 CUBATAO                       (                    )
  6581  8431 LUIZ GUSTAVO BUENO LOPES       (73)1032 M2529 1:26:36  5.46                               (SP                  )
  6582 10962 SILVIO CAMPOS NETO             (76) 866 M2024 1:26:37  5.46 AAAVC FEA - USP               (                    )
@@ -6774,7 +6620,6 @@
  6620  4140 JAILTON FRAGA DA SILVA         (62)1038 M3539 1:26:46  5.47 FUNDACAO PROSANGUE            (S PAULO             )
  6621 12143 FERNANDO LUIZ NETO             (57) 756 M4044 1:26:46  5.47 CORDF                         (                    )
  6622  3716 JOAO PAULO MENDES DO NASCIMENT (81) 399 M1519 1:26:46  5.47                               (SAO PAULO           )
-
  6623  5716 CAIO MARIANO PERES             (80) 400 M1519 1:26:46  5.47 CORUJA                        (S JOSE DO RIO PRETO )
  6624  2047 MANOEL FERNANDO DIAS DE BRITO  (72)1039 M2529 1:26:47  5.47                               (PIRITUBA            )
  6625  1652 FRANCISCO DE PAULA TEIXEIRA    (47) 284 M5054 1:26:47  5.47                               (SAO PAULO           )
@@ -6818,7 +6663,6 @@
  6663  8754 JOSE LAVOUSIER OLIVEIRA J'ALES (55) 762 M4044 1:26:57  5.48 CORREIO CE                    (FORTALEZA           )
  6664   516 HECTOR GUERRA                  ( 0)  31 M0014 1:26:58  5.48 ASS ATLET SENIORS RM          (                    )
  6665 12196 VIVALDO FERREIRA DOS SANTOS    (64)1045 M3539 1:27:00  5.48                               (                    )
-
  6666  3879 KENNEDY RODRIGUES DE OLIVEIRA  (73)1045 M2529 1:27:00  5.48                               (SAO PAULO           )
  6667 12230 JOSE FERREIRA DE SOUZA         (32)  28 M6569 1:27:00  5.48                               (                    )
  6668  1301 ALEXANDRE SILVA DA COSTA       (73)1046 M2529 1:27:00  5.48                               (SAO PAULO           )
@@ -6862,7 +6706,6 @@
  6706  6111 SERGIO ARAKI YASSUDA           (62)1051 M3539 1:27:05  5.48 ACM LAPA                      (SAO PAULO           )
  6707  2326 NILSON SORIANO RIBEIRO         (63)1052 M3539 1:27:06  5.48 P A CLUBE                     (SP                  )
  6708  2364 JOSE CARDOSO DA S MALTEZ       (58) 768 M4044 1:27:06  5.48 P A CLUBE                     (SP                  )
-
  6709 11757 ANTONIO JOSE GONSALES          (66)1132 M3034 1:27:06  5.48 CIRO STUDIO FITNESS           (SAO JOSE R PRETO    )
  6710  7517 FABIO PANDO                    (65)1133 M3034 1:27:06  5.48 PAO DE ACUCAR CLUB            (SAO PAULO           )
  6711   813 SERGIO ROBERTO QUIO            (64)1053 M3539 1:27:06  5.48 PAO DE ACUCAR                 (                    )
@@ -6906,7 +6749,6 @@
  6749  1602 RICARDO ULISSES MAGGI          (60)1064 M3539 1:27:12  5.49                               (SAO PAULO           )
  6750  4617 MARIO AP CASTILHO              (51) 576 M4549 1:27:12  5.49                               (S BERNARDO DO CAMPO )
  6751  8606 ARMANDO DOS SANTOS             (56) 770 M4044 1:27:12  5.49                               (BRAGANCA PAULISTA   )
-
  6752  2343 NELSON DA SILVA RAMOS FILHO    (61)1065 M3539 1:27:12  5.49 P A CLUBE                     (SP                  )
  6753  7670 ALEXANDRE FRANCISCO DE LOURENC (62)1066 M3539 1:27:12  5.49 ESPORTE CLUBE PINHEIROS       (                    )
  6754 10857 EDSON CASTILHO                 (51) 577 M4549 1:27:13  5.49                               (                    )
@@ -6950,7 +6792,6 @@
  6792  5928 RICARDO FRIAS BELLANI          (77) 887 M2024 1:27:20  5.49                               (SP                  )
  6793  8436 CARLOS ALBERTO MELO MONTEIRO   (53) 579 M4549 1:27:20  5.49                               (BARUERI             )
  6794 12140 ANTONE HANNA EL OTTRA          (49) 297 M5054 1:27:21  5.49 LABTEC                        (                    )
-
  6795  8879 LUCIANO ALVES DA ROCHA         (76) 888 M2024 1:27:21  5.49 FLOT OPERADORA                (SAOPAULO            )
  6796  6228 ROBERTO FLEURY A CAMARGO       (70)1061 M2529 1:27:22  5.49 MIGUEL SARKIS                 (SAO PAULO           )
  6797  3365 DANIEL TERUYA                  (62)1078 M3539 1:27:22  5.49 V MANCHESTER                  (SAO PAULO           )
@@ -6994,7 +6835,6 @@
  6835  5607 ENELITO PEREIRA DA CRUZ JUNIOR (75) 890 M2024 1:27:30  5.50                               (OSASCO              )
  6836  8335 PEDRO ALBERTO M CORREA LEITE   (78) 891 M2024 1:27:30  5.50                               (SP                  )
  6837  1789 IRAMILSON DA SILVA MATOS       (69)1150 M3034 1:27:30  5.50                               (SAO PAULO           )
-
  6838  4383 JOSE ANTONIO FELIX             (34)  31 M6569 1:27:31  5.50                               (SANTO ANDRE         )
  6839 11054 EDIVALDO LUIZ DOS SANTOS       (62)1088 M3539 1:27:31  5.50                               (SAO PAULO           )
  6840  1703 FABIO HENRIQUE R DE CASTRO     (83) 411 M1519 1:27:31  5.50                               (SAO PAULO           )
@@ -7038,7 +6878,6 @@
  6878  1707 ALEX SANDRO ROCHA MACEDO       (76) 896 M2024 1:27:42  5.51                               (SAO PAULO           )
  6879  2926 JORGE ERNESTO P PROGLHOF       (65)1161 M3034 1:27:43  5.51 RUNNING TEAM                  (SAO PAULO           )
  6880 11548 CYRO CARLOS DIAS COELHO        (57) 782 M4044 1:27:43  5.51 MARINHA                       (RIO DE JANEIRO      )
-
  6881  7432 CESAR AUGUSTO LOPES PINHO      (70)1068 M2529 1:27:43  5.51                               (SAO JOSE DOS CAMPOS )
  6882  3864 CLAY SANTOS                    (74)1069 M2529 1:27:44  5.51                               (TABOAO DA SERRA     )
  6883  4203 JOSE RODRIGUES COELHO NETO     (63)1095 M3539 1:27:44  5.51                               (SAO PAULO           )
@@ -7082,7 +6921,6 @@
  6921  4303 MOISES MARQUES DA SILVA        (62)1104 M3539 1:27:55  5.52                               (SAO PAULO           )
  6922  6071 DELSUITO DA SILVA AGUIAR       (63)1105 M3539 1:27:55  5.52                               (SAO PAULO           )
  6923  7951 MARCOS ANTONIO DE ARAUJO       (70)1074 M2529 1:27:56  5.52                               (SP                  )
-
  6924  7030 PAULO EGIDIO PEREIRA DE ARAUJO (57) 786 M4044 1:27:56  5.52                               (SP                  )
  6925  1763 MIGUEL SEBASTIAO DA SILVA      (76) 900 M2024 1:27:56  5.52                               (SAO PAULO           )
  6926  8512 JOSE ROBERTO ISABELLA          (53) 595 M4549 1:27:57  5.52 SAO PAULO                     (COTIA               )
@@ -7126,7 +6964,6 @@
  6964  2820 DONATO PASCHOA AMEZAGA         (68)1175 M3034 1:28:08  5.53 FHC2000@UOL.COM.BR            (SAO PAULO           )
  6965  3291 SAUL RIBEIRO FILHO             (61)1113 M3539 1:28:08  5.53 ACR LESTE                     (SAIO PAULO          )
  6966 11306 JOAO DOS SANTOS                (69)1176 M3034 1:28:08  5.53                               (                    )
-
  6967  2232 EDILSON POLETTI                (69)1177 M3034 1:28:09  5.53                               (SANTO ANDRE         )
  6968  2023 ROBERTO CESAR TRINDADE LIMA    (56) 793 M4044 1:28:09  5.53 VENENO DO PARQUE              (SAO PAULO           )
  6969 11204 ROBERTO PONTIERI               (70)1082 M2529 1:28:09  5.53 PINHEIROS                     (SP                  )
@@ -7170,7 +7007,6 @@
  7007  5155 NIZAN APARECIDO FERREIRA       (49) 309 M5054 1:28:16  5.53                               (                    )
  7008  1427 CARLOS ROBERTO CAVALCANTE      (64)1122 M3539 1:28:16  5.53                               (SAO PAULO           )
  7009  1103 VICENTE AMADEO SFEIR           (80) 417 M1519 1:28:16  5.53                               (SAO PAULO           )
-
  7010  8057 MARCOS PAULO DE BARROS         (76) 907 M2024 1:28:17  5.53 CONSTRUTORA TAKAOKA           (SAO PAULO           )
  7011  7412 MANOEL LOPES DOS SANTOS FILHO  (91)  32 M0014 1:28:17  5.53                               (SAO PAULO           )
  7012  3218 VANDERLEI TALLACH              (63)1123 M3539 1:28:17  5.53                               (SAO PAULO           )
@@ -7214,7 +7050,6 @@
  7050  3071 ANTONIO MARCOS DOS SANTOS      (55) 805 M4044 1:28:30  5.54                               (SAO PAULO           )
  7051  6119 ANTONIO THIAMER COSTA          (41) 168 M5559 1:28:30  5.54                               (SAO PAULO           )
  7052  4080 JOSE LUCIMAR DE SOUZA          (62)1132 M3539 1:28:30  5.54 TECIKOR                       (RIO GRANDE  DA SERRA)
-
  7053  5072 MARCO ANTONIO FIADI            (58) 806 M4044 1:28:31  5.54 CPM                           (                    )
  7054 10984 LUCIANO ANTONIO DA LUZ PEREIRA (82) 419 M1519 1:28:31  5.54                               (                    )
  7055  2766 ANTONIO CARLOS DE CARVALHO     (55) 807 M4044 1:28:31  5.54 CORREIOS                      (                    )
@@ -7258,7 +7093,6 @@
  7093  8960 FRANCISCO LAUDEMAR DA SILVA    (56) 815 M4044 1:28:42  5.55                               (SP                  )
  7094 12187 JOSE GOMES DO VALE MARANHAO    (66)1195 M3034 1:28:42  5.55 O DIARIOI OSASCO              (                    )
  7095  5929 MARCELO FRIAS ROCHA            (69)1196 M3034 1:28:42  5.55                               (SP                  )
-
  7096  3772 CARLOS EDUARDO FERREIRA        (65)1197 M3034 1:28:43  5.55                               (SAO PAULO           )
  7097 11482 JONAS RODRIGUES ALVES          (69)1198 M3034 1:28:43  5.55                               (                    )
  7098  1381 EDUARDO DE LANGE               (58) 816 M4044 1:28:43  5.55                               (SAO PAULO           )
@@ -7302,7 +7136,6 @@
  7136  4373 BELMIRO PINTO SAMPAIO          (55) 820 M4044 1:28:51  5.55                               (SAO PAULO           )
  7137  1432 ORLANDO DA SILVA               (56) 821 M4044 1:28:51  5.55 PALMEIRAS                     (SAO PAULO           )
  7138  9469 JONAS FLAVIO DA SILVA          (58) 822 M4044 1:28:51  5.55                               (COLATINA            )
-
  7139 11300 RENNE FLUO BUENO               (74)1100 M2529 1:28:52  5.55                               (                    )
  7140  2147 ROBERTO GONCALVES DA SILVA     (65)1206 M3034 1:28:52  5.55                               (BARRETOS            )
  7141  2144 CLAUDEMIR ALBERTO DE LIMA      (67)1207 M3034 1:28:52  5.55                               (SANTO ANDRE         )
@@ -7346,7 +7179,6 @@
  7179  8303 FELIPE AUGUSTO DE SOUZA ROSSI  (82) 427 M1519 1:29:00  5.56                               (S B DO CAMPO        )
  7180  3076 GILSON FERREIRA SOUZA          (75) 928 M2024 1:29:01  5.56                               (MOGI DAS CRUZES     )
  7181  4023 SERGIO MITSUO KAGUE            (64)1155 M3539 1:29:01  5.56                               (SAO PAULO           )
-
  7182  4001 WALTER LEMMI                   (59) 827 M4044 1:29:01  5.56 PINHEIROS                     (SAO PAULO           )
  7183  4052 JAIRO RODRIGO LOPES            (79) 929 M2024 1:29:01  5.56                               (SAO PAULO           )
  7184  8787 FABRICIO FERREIRA RODRIGUES    (82) 428 M1519 1:29:02  5.56                               (DIADEMA             )
@@ -7390,7 +7222,6 @@
  7222  6603 ALEXANDRE RODRIGUES DA SILVA   (76) 936 M2024 1:29:08  5.57 SESC                          (SAO PAULO           )
  7223  8238 FLAVIO BARROSO BRAGA           (56) 833 M4044 1:29:09  5.57 4� DP GUARULHOS               (SAO PAULO           )
  7224  3944 JOSE MANUEL NEVES AGUIAR       (57) 834 M4044 1:29:09  5.57                               (SAO PAULO           )
-
  7225  3798 JOSE ADILSON DOS SANTOS        (69)1217 M3034 1:29:09  5.57 VINHEDO                       (VINHEDO             )
  7226  6171 GENIVAL DE SOUZA FREITAS       (69)1218 M3034 1:29:09  5.57                               (SAO PAULO           )
  7227  6966 MARCOS JOSE ROBLES             (64)1161 M3539 1:29:09  5.57                               (SP                  )
@@ -7434,7 +7265,6 @@
  7265  4603 FLAVIO CAPITAN                 (64)1168 M3539 1:29:21  5.57                               (S PAULO             )
  7266 11622 PEDRO JORGE VETACHI            (47) 325 M5054 1:29:21  5.57 CUCA GRABER                   (CAMPINAS            )
  7267 10682 IZANDRO REGIS DE BRITO SANTOS  (66)1221 M3034 1:29:21  5.57                               (                    )
-
  7268  3859 DAVI ALVES RODRIGUES           (76) 941 M2024 1:29:21  5.57 UNICSUL                       (SAO PAULO           )
  7269  2130 WAGNER FLAVIO FONSECA          (65)1222 M3034 1:29:21  5.57                               (SAO PAULO           )
  7270  1416 MARCO ANTONIO DO AMARAL        (75) 942 M2024 1:29:22  5.57                               (SAO PAULO           )
@@ -7478,7 +7308,6 @@
  7308  4898 ALESSANDRO MARTINI ZANETTI     (73)1122 M2529 1:29:34  5.58                               (                    )
  7309  2674 JOSE JAYME MORAES JR           (70)1123 M2529 1:29:35  5.58 CLUBE NAVAL CHARITAS          (NITEROI             )
  7310 12087                                ( 0) 220       1:29:35  5.58                               (                    )
-
  7311  3358 ANDRE PAULLI RONDELLO          (65)1225 M3034 1:29:35  5.58                               (SAO PAULO           )
  7312 12129 AMAURY SOARES VIEIRA JR        (54) 625 M4549 1:29:35  5.58                               (                    )
  7313  1653 MARCELO JOSE DE LIMA           (69)1226 M3034 1:29:35  5.58                               (SAO PAULO           )
@@ -7522,7 +7351,6 @@
  7351 10684 SERGIO SILVEIRA DOS SANTOS     (47) 330 M5054 1:29:45  5.59 CORDF BRASILIA                (BRASILIA            )
  7352  6254 OSEIAS DO NASCIMENTO TORRES    (77) 952 M2024 1:29:45  5.59                               (CARAPICUIBA         )
  7353  3997 RODOLFO R DE LUCENA            (57) 849 M4044 1:29:45  5.59 EC TAVARES                    (SAO PAULO           )
-
  7354 10683 MAURICIO ANTONIO ORLANDI       (68)1231 M3034 1:29:45  5.59                               (                    )
  7355  7722 GIULIANNO LUIZ CHARETA         (76) 953 M2024 1:29:45  5.59                               (SAO PAULO           )
  7356  8983 MARCOS YUKIO YAMAGUCHI         (72)1129 M2529 1:29:45  5.59                               (SP                  )
@@ -7566,7 +7394,6 @@
  7394  5717 CARLOS MARTINS                 (56) 853 M4044 1:29:53  6.00 CORUJA                        (JUNDIAI             )
  7395  6272 CICERO MARIANO DOS SANTOS      (64)1178 M3539 1:29:54  6.00 CLINICA PAULISTA              (SAO PAULO           )
  7396 12663 JORGE HAROLHO MARTINS          (56) 854 M4044 1:29:54  6.00 GORNF                         (BRASILIA            )
-
  7397  8492 NEWTON MACEDO DINIZ            (56) 855 M4044 1:29:54  6.00                               (SP                  )
  7398 10718 HARUYUKI OTOMO                 (44) 181 M5559 1:29:54  6.00                               (                    )
  7399  1905 AMARO A ALMEIDA NETO           (50) 638 M4549 1:29:55  6.00 APMP CORPORE                  (SAO PAULO           )
@@ -7610,7 +7437,6 @@
  7437  8607 EDISON JOSE GOMES DA SILVA     (60)1184 M3539 1:30:09  6.01                               (BRAGANCA PAULISTA   )
  7438  1704 MICHEL GENICO                  (78) 959 M2024 1:30:09  6.01 PRO SPORT ACADEMIA            (SAO PAULO           )
  7439 11112 ANTONIO FAGUNDES FARIA         (51) 647 M4549 1:30:09  6.01                               (RIBEIRAO PIRES      )
-
  7440 10077 DOMINGOS DE SOUZA NETO         (41) 182 M5559 1:30:09  6.01 EQ FUNC ATLETA                (JUIZ DE FORA        )
  7441  8981 FABIO SHIGUEMITSU HARA         (72)1140 M2529 1:30:09  6.01                               (SP                  )
  7442  1762 IVO MANOEL COLOMBO             (73)1141 M2529 1:30:10  6.01                               (SAO PAULO           )
@@ -7654,7 +7480,6 @@
  7480  7884 CASSIO NICCOLI                 (74)1144 M2529 1:30:23  6.02 PINHEIROS                     (SAO PAULO           )
  7481  4096 MARCO ANTONIO CAMPRINCOLI      (71)1145 M2529 1:30:24  6.02                               (SAO PAULO           )
  7482 11985                                ( 0) 226       1:30:24  6.02                               (                    )
-
  7483  5011 ADRIANO FERNANDO MENDES JR     (80) 440 M1519 1:30:24  6.02                               (                    )
  7484  1667 ROGERIO VIVACQUA FILHO         (62)1191 M3539 1:30:24  6.02                               (SAO PAULO           )
  7485  8853 DAVID KORN                     (75) 964 M2024 1:30:25  6.02 R WHITE                       (SAO PAULO           )
@@ -7698,7 +7523,6 @@
  7523  5900 JOAO BRONCO DE MIRANDA         (33)  38 M6569 1:30:36  6.02 AABANCODO BRASIL              (SAO PAULO           )
  7524  7821 TACIO NAKAZAWA                 (32)  39 M6569 1:30:36  6.02                               (SAO PAULO           )
  7525  1996 ALISSON LUIZ DA CRUZ           (82) 445 M1519 1:30:36  6.02                               (SAO B DO CAMPO      )
-
  7526 10259 ANTONIO DA CONCEICAO OLIVEIRA  (51) 653 M4549 1:30:37  6.02                               (BELFORD ROXO        )
  7527 11276 ALEXANDRE GONCALVES            (60)1197 M3539 1:30:37  6.02                               (CAMPINAS            )
  7528  6908 RONALDO DA SILVA P E OLIVEIRA  (63)1198 M3539 1:30:37  6.02                               (SP                  )
@@ -7742,7 +7566,6 @@
  7566  1872 CASSIOMAR GARCIA SILVA         (66)1262 M3034 1:30:49  6.03                               (SAO PAULO           )
  7567  8150 RENATO MARI NETO               (57) 874 M4044 1:30:49  6.03                               (SAO PAULO           )
  7568  6092 GIL BRENE                      (34)  40 M6569 1:30:49  6.03 PAPA LEGUAS ABC               (SAO B DO CAMPO      )
-
  7569  2422 MAURO KIOSSI                   (75) 972 M2024 1:30:50  6.03 DELBODE                       (SAO PAULO           )
  7570 12561 PETRUS POZZOLINI               (62)1205 M3539 1:30:50  6.03 ACORD                         (                    )
  7571  6323 SERGIO LUIS DA SILVA           (71)1153 M2529 1:30:50  6.03 PLAZA SUL                     (SAO PAULO           )
@@ -7786,7 +7609,6 @@
  7609  9458 LUIZ AUGUSTO CAPILE            (62)1211 M3539 1:31:01  6.04                               (CAMPO GRANDE        )
  7610  8611 ROBERIO PEREIRA PIRES          (76) 979 M2024 1:31:01  6.04                               (SP                  )
  7611  8025 REINALDO MASTROGIUSEPHE        (59) 879 M4044 1:31:01  6.04                               (SAO ROQUE           )
-
  7612  6735 MANOEL MARTINS ALMEIDA         (55) 880 M4044 1:31:01  6.04 CLUBE BAYER                   (SAO PAULO           )
  7613 11141 JOEL BOLGAR                    (48) 343 M5054 1:31:02  6.04                               (SP                  )
  7614  4313 OCTAVIO LUIZ MOREIRA LAND      (43) 190 M5559 1:31:02  6.04                               (SAO PAULO           )
@@ -7830,7 +7652,6 @@
  7652   754 WALTER ROMANO                  (64)1216 M3539 1:31:11  6.05 PM SP                         (                    )
  7653  2760 FABIO J VILLELA PEDRAS FILHO   (60)1217 M3539 1:31:11  6.05                               (                    )
  7654  4894 ADRIANO FIDELES DE AMORIM      (73)1162 M2529 1:31:12  6.05 SAUDE NOTA 10                 (                    )
-
  7655  8985 ANTONIO SERGIO DA SILVA        (63)1218 M3539 1:31:12  6.05                               (SP                  )
  7656  7496 RENATO FARIA TEIXEIRA          (78) 982 M2024 1:31:12  6.05                               (SAO PAULO           )
  7657  7824 RONALDO VILELA                 (60)1219 M3539 1:31:12  6.05 INST BELEZA LUCIA             (SOROCABA            )
@@ -7874,7 +7695,6 @@
  7695 11296 GILAMR DE ALMEIDA FURLAN       (55) 891 M4044 1:31:21  6.05                               (SP                  )
  7696  2857 LAIRTON O G LEONARDI           (56) 892 M4044 1:31:21  6.05                               (SANTANA PARNAIBA    )
  7697 11227 PAULO SERCUNDES DA SILVA       (72)1168 M2529 1:31:21  6.05 KORUJA                        (SP                  )
-
  7698  1396 ISAO TANABE                    (45) 353 M5054 1:31:22  6.05 RUNNER CLUB                   (SAO PAULO           )
  7699 10914 EDVALDO FRANCISCO DOS SANTOS   (42) 192 M5559 1:31:22  6.05                               (                    )
  7700  2919 FRANCISCO CARLOS FARIA RAMOS   (43) 193 M5559 1:31:22  6.05 ARGENTUM                      (SAO PAULO           )
@@ -7918,7 +7738,6 @@
  7738  4596 VITOR TUMAS                    (67)1289 M3034 1:31:27  6.06                               (S PAULO             )
  7739  1023 BERNARDO FRAU                  (58) 897 M4044 1:31:27  6.06                               (SAO PAULO           )
  7740  4573 JOSE ARMANDO ANDRADE GUARITA   (46) 356 M5054 1:31:28  6.06 PAULISTANO                    (S PAULO             )
-
  7741  8526 ANTONIO FERREIRA GONCALVES JR  (59) 898 M4044 1:31:28  6.06 C OFICIAIS P MILITAR          (SP                  )
  7742  2419 CELIO PRADO MARTINS            (60)1227 M3539 1:31:28  6.06                               (SAO PAULO           )
  7743  9715 LUIZ CARLOS ZUCHETTO           (45) 357 M5054 1:31:28  6.06 REGATAS RIB PRETO             (RIBEIRAO PRETO      )
@@ -7962,7 +7781,6 @@
  7781  5800 SILVIO PINHEIRO DE FARIA       (40) 200 M5559 1:31:38  6.07 CSM TEL PM                    (S PAULO             )
  7782  2424 HENRIQUE CASSELLI CARRANCA     (75) 997 M2024 1:31:39  6.07 CLUBE FOP PIRACICABA          (RIO CLARO           )
  7783  2982 CARLOS EDUARDO DE OLIVEIRA     (82) 456 M1519 1:31:39  6.07 MAMAE ASSOC ASSIST            (SAO PAULO           )
-
  7784  1554 EDUARDO GONCALVES DE OLIVEIRA  (80) 457 M1519 1:31:40  6.07                               (MAUA                )
  7785  6781 RENAN BANOS RODEGUER           (79) 998 M2024 1:31:40  6.07                               (SAO PAULO           )
  7786  4620 MAURICIO VALDES ESTEVEZ        (79) 999 M2024 1:31:41  6.07 BOROROS                       (S PAULO             )
@@ -8006,7 +7824,6 @@
  7824  4655 ROGERIO TAKAO TABUCHI          (65)1301 M3034 1:31:51  6.07                               (TABOAO DA SERRA     )
  7825 12730 CHRISTIAN LUKAS                (63)1242 M3539 1:31:51  6.07                               (STUTTGART           )
  7826  6760 LUCIO PAULO PEREIRA            (68)1302 M3034 1:31:53  6.08                               (SAO PAULO           )
-
  7827  8850 FABIO M GORCHTTI               (71)1180 M2529 1:31:53  6.08 R WHITE                       (SAO PAULO           )
  7828  2884 JOAO BATISTA LAMBIAZZI         (64)1243 M3539 1:31:53  6.08 DISCOGOTI                     (SAO ROQUE           )
  7829  5179 LUCIANO BITTENCOURT M COBRA    (69)1303 M3034 1:31:53  6.08                               (                    )
@@ -8050,7 +7867,6 @@
  7867  1053 ERIC LEANDRO VALERIO           (74)1186 M2529 1:32:12  6.09                               (SAO CAETANO DO SUL  )
  7868  4565 ANTONIO MANZANO                (54) 697 M4549 1:32:12  6.09 STYROCORTE                    (RIB PRETO           )
  7869  5953 ARTHUR IVAN PEREIRA C DA SILVA (77)1009 M2024 1:32:13  6.09                               (SAO PAULO           )
-
  7870 12456 BRENO ANASTACIA                (83) 464 M1519 1:32:14  6.09 ACORNE                        (NOVA ERA            )
  7871  4690 ADEMAR DE JESUS                (65)1311 M3034 1:32:14  6.09 ACM CENTRO                    (S PAULO             )
  7872  5616 DJALMA SILVA E SOUSA           (54) 698 M4549 1:32:15  6.09                               (SAO PAULO           )
@@ -8094,7 +7910,6 @@
  7910 10870 ALVARO SALVADOR FREITAS ZETUN  (52) 702 M4549 1:32:27  6.10                               (                    )
  7911  8619 JOEL MOREIRA DE MELO           (49) 366 M5054 1:32:28  6.10                               (SP                  )
  7912  4582 DARCY PEREIRA PINTO            (31)  41 M6569 1:32:29  6.10 VETERANOS ITAPETININGA        (ITAPETININGA        )
-
  7913  5366 JORGE GERALDO LUCIO            (56) 916 M4044 1:32:29  6.10                               (S PAULO             )
  7914 10886 SUZANA PAMPONET                (69)1319 M3034 1:32:29  6.10                               (                    )
  7915 12052                                ( 0) 238       1:32:29  6.10                               (                    )
@@ -8138,7 +7953,6 @@
  7953  4198 CICERO APARECIDO DE LIMA       (68)1324 M3034 1:32:48  6.11 CRANDAL TELECOM               (S PAULO             )
  7954  7880 VLATER LUIS GOMES DE AGUIAR    (57) 923 M4044 1:32:49  6.11                               (SAO PAULO           )
  7955  4977 FERNANDO LUIZ SANTIAGO SILVA   (69)1325 M3034 1:32:49  6.11                               (                    )
-
  7956  4492 SIDNEI PEREIRA DA SILVA        (71)1192 M2529 1:32:50  6.11                               (SAO PAULO           )
  7957  2006 DRAUSIO LOPES JR               (72)1193 M2529 1:32:50  6.11                               (GUARULHOS           )
  7958  2030 MARIO ANTONIO LORETO           (46) 368 M5054 1:32:50  6.11                               (SAO PAULO           )
@@ -8182,7 +7996,6 @@
  7996  2602 JORGE HIDEMI OHASHI            (63)1279 M3539 1:33:02  6.12 OMNISYS                       (MOGI DAS CRUZES     )
  7997  7280 EDUARDO BOANERGES S BARBOSA    (46) 371 M5054 1:33:02  6.12 CORPO DE BOMBEIROS            (STO ANDRE           )
  7998  9601 EDINO DE LAMEIDA MARTINS       (62)1280 M3539 1:33:02  6.12                               (LONDRINA            )
-
  7999 11268 ANTONIO ROCHA DE OLIVEIRA      (57) 929 M4044 1:33:02  6.12                               (SP                  )
  8000  6946 JOSE SIMAO FERREIRA DE ALMEIDA (57) 930 M4044 1:33:03  6.12                               (CAMPINAS            )
  8001  2812 JOSE GABRIEL O NASCIMENTO      (75)1017 M2024 1:33:03  6.12 S O S ITAGUARE                (SAO PAULO           )
@@ -8226,7 +8039,6 @@
  8039  7264 ARTUR BENEDITO FARIA           (55) 935 M4044 1:33:13  6.13                               (S J DOS CAMPOS      )
  8040 12339 ANTONIO GIRAO                  (36)  97 M6064 1:33:14  6.13                               (                    )
  8041   735 PEDRO PAULA LEITE DE BARROS F  (58) 936 M4044 1:33:14  6.13 MARCOS PAULO REIS             (                    )
-
  8042 10298 MANOEL BARBOSA                 (49) 373 M5054 1:33:14  6.13 CORR INDEP BARAO GERALDO      (CAMPINAS            )
  8043 12127 JOSE CARLOS AGOSTINHO DOS SANT (54) 721 M4549 1:33:14  6.13                               (                    )
  8044  7552 HENRIQUE SPINA BORLENGHI       (61)1286 M3539 1:33:14  6.13 AMC                           (SAO PAULO           )
@@ -8270,7 +8082,6 @@
  8082  1515 ROBERTO RAGONETTI              (36)  99 M6064 1:33:30  6.14 ARAMACAN                      (SANTO ANDRE         )
  8083  6093 EWERTON LUIZ VARGA             (78)1031 M2024 1:33:30  6.14 PAPA LEGUA ABC                (SAO B DO CAMPO      )
  8084  7297 MARCIO ELIAS KATUDJIAN         (68)1333 M3034 1:33:30  6.14                               (SP                  )
-
  8085  3105 ADRIANO R DE MAGALHAES FILHO   (62)1291 M3539 1:33:30  6.14 FORCA TATICA 2 BTL            (SAO PAULO           )
  8086  5367 ANTONIO MAYA LUCVIX            (53) 729 M4549 1:33:31  6.14                               (S PAULO             )
  8087  5527 EWALDO MARIO RUSSO             (49) 376 M5054 1:33:31  6.14 LABORATORIO FLEURY            (SAO PAULO           )
@@ -8314,7 +8125,6 @@
  8125  1711 ADRIANO ALVES DE SOUZA         (74)1207 M2529 1:33:44  6.15                               (SANTO ANDRE         )
  8126  1608 CARLOS ALEXANDRE LENCASTRE     (66)1338 M3034 1:33:44  6.15                               (SAO PAULO           )
  8127  4914 EVANGELISTA FRANCISCO PIRES    (60)1303 M3539 1:33:44  6.15                               (                    )
-
  8128  4134 APARECIDO UILSON PEREIRA       (53) 732 M4549 1:33:44  6.15                               (S PAULO             )
  8129  5279 MARCELO CORREA DE BARROS       (64)1304 M3539 1:33:45  6.15                               (                    )
  8130  4175 ISIDORO LO-RE JR.              (56) 948 M4044 1:33:45  6.15                               (S PAULO             )
@@ -8358,7 +8168,6 @@
  8168  5094 MARCOS HENRIQUE DE CARVALHO    (73)1215 M2529 1:33:55  6.16                               (                    )
  8169 10210 MARCIO DOS REIS DA SILVEIRA    (80) 476 M1519 1:33:55  6.16 POLISEPORTIVO                 (GUAXUPE             )
  8170  7316 FERNANDO SANCHES               (72)1216 M2529 1:33:56  6.16                               (MAUA                )
-
  8171  1696 DANILO GARCIA DE ALMEIDA       (49) 380 M5054 1:33:56  6.16                               (BRASILIA            )
  8172  8095 FABIO GIL LOPES                (76)1037 M2024 1:33:56  6.16                               (SAO PAULO           )
  8173  2596 HUMBERTO GUIMARAES             (41) 215 M5559 1:33:56  6.16 FREQUENCIA MAXIMA             (RESENDE             )
@@ -8402,7 +8211,6 @@
  8211  4997 ANDRELINO GOMES DA SILVA       (45) 386 M5054 1:34:06  6.16                               (                    )
  8212 10655 SEIZEM MEKARU                  (45) 387 M5054 1:34:07  6.16                               (                    )
  8213  3598 FLAVIO ABRAMOVICI              (58) 959 M4044 1:34:07  6.16 APAMAGIS                      (COTIA               )
-
  8214  7622 GABRIEL FRANCA VIEIRA DE MORAS (74)1223 M2529 1:34:07  6.16 ESALQ USP                     (SAO PAULO           )
  8215  7592 MANOEL ANTONIO NEVES           (52) 743 M4549 1:34:07  6.16                               (SAO PAULO           )
  8216  2188 DENILSON DELGADO DOS SANTOS    (71)1224 M2529 1:34:08  6.17                               (SAO PAULO           )
@@ -8446,7 +8254,6 @@
  8254  8976 PAULO HENRIQUE B DE CARVALHO   (66)1359 M3034 1:34:19  6.17 JAMANTA                       (S C DO SUL          )
  8255  6645 ALDO PAULO KIELING             (62)1317 M3539 1:34:19  6.17                               (SAO PAULO           )
  8256  6683 SERGIO LUIS DOS SANTOS         (67)1360 M3034 1:34:19  6.17                               (SAO PAULO           )
-
  8257 11048 JOSE FRANCISCO MACHADO         (50) 749 M4549 1:34:19  6.17                               (ATIBAIA             )
  8258  6276 MARCOS FALCHETTI MACHADO       (67)1361 M3034 1:34:20  6.17                               (JACAREI             )
  8259  3295 GERSON ROCHA DA SILVA          (54) 750 M4549 1:34:20  6.17 CORRE ABC                     (S CAETANO DO SUL    )
@@ -8490,7 +8297,6 @@
  8297  2533 CLAUDIO JOSE DA COSTA          (47) 391 M5054 1:34:26  6.18                               (SAO PAULO           )
  8298  6984 FERNANDO VITAL FERNANDES       (50) 752 M4549 1:34:27  6.18 CLINICA SERENE ARARAS         (ARARAS              )
  8299 11711 JADIR DE PAULA SILVA           (63)1327 M3539 1:34:27  6.18 CORDF BRASILIA                (BRASILIA            )
-
  8300  2434 FRANCISCO TRINDADE CAMURCA     (53) 753 M4549 1:34:27  6.18                               (CARAPICUIBA         )
  8301  3520 LUIZ FERNANDO DEGANI           (54) 754 M4549 1:34:27  6.18 MPR                           (SAO PAULO           )
  8302  2371 JOSE RICARDO MIRANDA MAIA      (79)1043 M2024 1:34:27  6.18 P A CLUBE                     (SP                  )
@@ -8534,7 +8340,6 @@
  8340 10490                                ( 0) 249       1:34:37  6.18                               (                    )
  8341  3489 PAUL ROBERT LOUTSCJ BOUFFIS    (72)1240 M2529 1:34:37  6.18                               (SAO PAULO           )
  8342  1506 PEDRO PAULO DE OLIVEIRA        (58) 979 M4044 1:34:38  6.19 SOROCABA                      (SOROCABA            )
-
  8343  2931 NILTON CESAR GONCALVES         (70)1241 M2529 1:34:38  6.19                               (OSASCO              )
  8344  5442 PAULO SILVA DE OLIVEIRA        (61)1334 M3539 1:34:38  6.19                               (S PAULO             )
  8345 11105 JOSE ALBERTO BARMAK            (71)1242 M2529 1:34:38  6.19 A HEBRAICA                    (SP                  )
@@ -8578,7 +8383,6 @@
  8383  2294 MARCO JULIO PELLEGRINI         (58) 988 M4044 1:34:49  6.19                               (SAO PAULO           )
  8384  8862 JOSE APARECIDO SALMASO         (57) 989 M4044 1:34:49  6.19 TRACK MARKFIELD               (SAO PAULO           )
  8385  5940 LUIZ CARLOS FANTOSSI           (46) 398 M5054 1:34:49  6.19                               (SAO PAULO           )
-
  8386  2342 ROBERTO RAYMUNDO MOREIRA       (65)1374 M3034 1:34:50  6.19 P A CLUBE                     (SP                  )
  8387  2164 GERSON BARBATO CASTILHO        (67)1375 M3034 1:34:50  6.19                               (SAO PAULO           )
  8388  3037 JOSE CARLOS MARTINS PEREIRA    (56) 990 M4044 1:34:50  6.19                               (MAUA                )
@@ -8622,7 +8426,6 @@
  8426  1956 DOUGLAS HADDAD FILHO           (61)1344 M3539 1:35:02  6.20 MONTE LIBANO                  (SAO PAULO           )
  8427  5512 JOSE LUIZ PEREIRA DE SOUZA     (64)1345 M3539 1:35:03  6.20 PARAISO DO CARRO CA           (SAO PAULO           )
  8428 12015                                ( 0) 254       1:35:03  6.20                               (                    )
-
  8429  3959 JOEL PEREZ NUNES               (55) 995 M4044 1:35:04  6.20                               (SAO PAULO           )
  8430 11935                                ( 0) 255       1:35:04  6.20                               (                    )
  8431  2054 ADELSON OLIVEIRA FILHO         (51) 762 M4549 1:35:04  6.20                               (SAO PAULO           )
@@ -8666,7 +8469,6 @@
  8469  8523 VERCELI SANTOS DOS SANTOS      (61)1350 M3539 1:35:16  6.21 EQUIPINICO                    (SP                  )
  8470  5507 FRANCISCO ALVES DA SILVA       (65)1389 M3034 1:35:17  6.21                               (SAO PAULO           )
  8471 10576 EULER DE SANTANA SOUZA         (78)1057 M2024 1:35:17  6.21                               (STO ANDRE           )
-
  8472  1654 PAULO ROBERTO DE C CASTILHO    (66)1390 M3034 1:35:17  6.21                               (MOGI DAS CRUZES     )
  8473  1076 GERD BRUGGEMANN                (49) 406 M5054 1:35:17  6.21                               (SAO PAULO           )
  8474 10771 DANIEL NEWMAN                  (63)1351 M3539 1:35:18  6.21 HEBRAICA                      (                    )
@@ -8710,7 +8512,6 @@
  8512  1606 DANIEL SUNG NAM LEE            (68)1396 M3034 1:35:34  6.22                               (SAO PAULO           )
  8513 10082 EDWAN FERNANDES FIORAVANTE     (65)1397 M3034 1:35:34  6.22                               (BELO HORIZONTE      )
  8514  5601 GERSON JOSE BONIFACIO          (67)1398 M3034 1:35:35  6.22                               (SAO PAULO           )
-
  8515  8843 MOACYR SOARES DE JESUS         (38) 113 M6064 1:35:36  6.22                               (RIBEIRAO PIRES      )
  8516  2243 MANOEL MASAO TAKINAMI          (54) 771 M4549 1:35:36  6.22                               (SAO PAULO           )
  8517 12070                                ( 0) 260       1:35:36  6.22                               (                    )
@@ -8754,7 +8555,6 @@
  8555  6434 DECIO LUIZ MENDES              (70)1265 M2529 1:35:48  6.23 ASS DESPORTIVA DA PM          (GUARULHOS           )
  8556  5542 JANSEN RODRIGUES MARCUENDE     (73)1266 M2529 1:35:48  6.23                               (SAO PAULO           )
  8557  5392 LUIS ZOLLI                     (45) 411 M5054 1:35:49  6.23 SINTEL                        (S PAULO             )
-
  8558  1560 AFONSO NUNES DA SILVA          (56)1012 M4044 1:35:49  6.23                               (GUARULHOS           )
  8559  3429 MARCOS CESAR LOPES BARROS      (62)1361 M3539 1:35:49  6.23                               (SAO PAULO           )
  8560  5543 LUIS OTAVIO CAVALCANTE         (73)1267 M2529 1:35:49  6.23                               (SAO PAULO           )
@@ -8798,7 +8598,6 @@
  8598  9761 ROGE OLIVEIRA                  (64)1367 M3539 1:36:02  6.24                               (RIO DE JANEIRO      )
  8599  2413 ROGERIO LUIS DA SILVA ABREU    (67)1414 M3034 1:36:03  6.24 PAO DE ACUCAR                 (SAO PAULO           )
  8600  8420 ANTONIO GARUANA EMILIO         (59)1015 M4044 1:36:04  6.24                               (SP                  )
-
  8601  4622 MAURICIO BERTONCINI BUENO DE M (77)1069 M2024 1:36:04  6.24                               (S PAULO             )
  8602  4094 FREERIK GUSTAAF HOOGENDYK      (62)1368 M3539 1:36:04  6.24                               (COTIA               )
  8603 10918 ANTONIO SOARES SILVA           (35) 114 M6064 1:36:04  6.24                               (                    )
@@ -8842,7 +8641,6 @@
  8641  5547 PAULO ROBERTO DE C MESQUITA    (52) 781 M4549 1:36:21  6.25 UNIBANCO                      (SAO PAULO           )
  8642  8417 WAGNER PEDROSO DE MORAES       (55)1023 M4044 1:36:22  6.25 D+ LANCHES                    (BRAGANCA PAULISTA   )
  8643  4928 JOAO CARLOS NUENS DE ALMEIDA   (55)1024 M4044 1:36:22  6.25                               (                    )
-
  8644  1423 ALVARO LUIZ LOPEZ              (65)1421 M3034 1:36:23  6.26                               (SAO PAULO           )
  8645  6857 OSVALDO GIMENEZ JUNIOR         (70)1278 M2529 1:36:23  6.26 SPRINT ACADEMIA               (SAO PAULO           )
  8646  7416 DEMETRIO KOSSELDRO             (37) 116 M6064 1:36:24  6.26                               (SANTO ANDRE         )
@@ -8886,7 +8684,6 @@
  8684  5447 JOSE ANTONIO GRAGNANI          (62)1379 M3539 1:36:41  6.27                               (S PAULO             )
  8685  1927 CARLOS ALBERTO P GOULART       (70)1284 M2529 1:36:42  6.27                               (SAO PAULO           )
  8686  2690 VICTOR CAON PEREIRA            (79)1078 M2024 1:36:42  6.27                               (SAO PAULO           )
-
  8687  6334 ELIAS CARDOSO DE MORAIS        (51) 788 M4549 1:36:42  6.27 ASS PTA MIN PUBLICO           (SAO PAULO           )
  8688  8149 JOSE MAURICIO CORENO           (45) 423 M5054 1:36:42  6.27                               (SAO PAULO           )
  8689  5611 ADRIANO POLESI                 (70)1285 M2529 1:36:43  6.27 SOXYL                         (S CAETANO DO SUL    )
@@ -8930,7 +8727,6 @@
  8727 10742 MIGUEL CONRADO PINERO VALLE    (58)1035 M4044 1:36:59  6.28 AFRESP                        (                    )
  8728  8642 ALFREDO JOSE DOS SANTOS        (49) 426 M5054 1:37:00  6.28                               (DIADEMA             )
  8729  2915 ALEXANDRE DA CONCEICAO         (74)1293 M2529 1:37:00  6.28 TAVICCO                       (SAO PAULO           )
-
  8730  3458 JULIANO DE MIRANDA E PAULA     (74)1294 M2529 1:37:01  6.28 AA INDEPENDENCIA              (SAO JOSE DOS CAMPOS )
  8731  4314 CLAUDIO CANDIDO D SILVA        (58)1036 M4044 1:37:02  6.28                               (SAO PAULO           )
  8732  3452 FRANCISCO MARCIO MOREIRA       (66)1434 M3034 1:37:02  6.28 MOREIRAS SPORT                (SAO JOSE DOS CAMPOS )
@@ -8974,7 +8770,6 @@
  8770  3160 CARLOS KIMIO SAITO             (60)1388 M3539 1:37:18  6.29 BANESPA                       (SAO PAULO           )
  8771 10699 VICTOR EDUARDO SKRABE          (77)1084 M2024 1:37:19  6.29                               (                    )
  8772 10080 MAURICIO CRUZ GONTIJO          (75)1085 M2024 1:37:19  6.29 HIPICA DE CAMPINAS            (CAMPINAS            )
-
  8773 11619 KALIL JOSE ZAIDAN              (44) 244 M5559 1:37:19  6.29 CUCA GRABER                   (CAMPINAS            )
  8774  7253 CARLOS ALBERTO MOREIRA FILHO   (68)1446 M3034 1:37:20  6.29                               (                    )
  8775  8617 GUSTAVO PASSOS PEREIRA SILVA   (78)1086 M2024 1:37:20  6.29                               (OSASCO              )
@@ -9018,7 +8813,6 @@
  8813   737 PAULO DE ALENCAR BURTI         (59)1044 M4044 1:37:34  6.30 MARCOS PAULO REIS             (                    )
  8814  7031 FABIANO GONCALVES DA SILVA     (80) 501 M1519 1:37:34  6.30                               (SP                  )
  8815  1850 FRANCILIO ANTONIO DOS SANTOS   (45) 428 M5054 1:37:34  6.30                               (ARACATUBA           )
-
  8816  5497 CARLOS AUGUSTO TOLEDO MARTINS  (71)1299 M2529 1:37:34  6.30                               (CURITIBA            )
  8817 11087 VALTER DE OLIVEIRA NASCIMENTO  (74)1300 M2529 1:37:35  6.30 6� BIL                        (ACACAPAVA           )
  8818  5438 HELIO DE FARIA                 (34)  50 M6569 1:37:35  6.30 CORPORE                       (S PAULO             )
@@ -9062,7 +8856,6 @@
  8856  5302 GETULIO SHIGUEMITSU TANOUE     (50) 806 M4549 1:37:53  6.32                               (S PAULO             )
  8857 11714 GERALDO MARTINS FERREIRA       (58)1049 M4044 1:37:54  6.32 CORDF BRASILIA                (BRASILIA            )
  8858  7334 LUIZ CARTAXO ROLIM NETO        (59)1050 M4044 1:37:54  6.32                               (FORTALEZA           )
-
  8859  8578 CARLOS ALBERTO PASSINI         (50) 807 M4549 1:37:54  6.32                               (SP                  )
  8860  1888 CLAUDEMIR JOSE BATISTA         (77)1093 M2024 1:37:55  6.32                               (SAO PAULO           )
  8861  7040 DANIEL PEREIRA BERNARDES       (76)1094 M2024 1:37:55  6.32                               (SP                  )
@@ -9106,7 +8899,6 @@
  8899  1369 ROBERTO GUERREIRO RODRIGUES    (56)1056 M4044 1:38:14  6.33                               (SAO B DO CAMPO      )
  8900  2740 JORGE CORREIA BRITO            (63)1409 M3539 1:38:14  6.33                               (                    )
  8901  2548 CELSO FABIO BATISTA ALVAES FO  (82) 507 M1519 1:38:14  6.33 CORINTHIANS                   (SAO PAULO           )
-
  8902 12345 ANDRE LEONARDO DA SILVA NESSI  (68)1471 M3034 1:38:16  6.33 FAMILIA NESSI                 (                    )
  8903  2549 CELSO FABIO BATISTA ALVES      (57)1057 M4044 1:38:16  6.33 CORINTHIANS                   (SAO PAULO           )
  8904 11510 RIBAMAR PAIVA ARAUJO           (70)1310 M2529 1:38:16  6.33                               (SAO PAULO           )
@@ -9150,7 +8942,6 @@
  8942 11597 DENNIS D AGUANNO LIMA          (79)1097 M2024 1:38:35  6.34 PIRITIBA FC                   (SAO PAULO           )
  8943  3611 WANEWMAN ANDRADE               (62)1416 M3539 1:38:36  6.34                               (S PAULO             )
  8944  8954 JONAS DE OIVEIRA BARBOSA       (54) 813 M4549 1:38:36  6.34                               (SP                  )
-
  8945 10383 MURILO CARLOS CALDO            (82) 511 M1519 1:38:36  6.34 PIRITUBA FC                   (SAO PAULO           )
  8946  7860 PEDRO LUIZ CORREA GARCIA       (54) 814 M4549 1:38:36  6.34 PETROBRAS REVAP               (SAO JOSE DOS CAMPOS )
  8947  7692 PAULO ROBERTO SERRANO          (59)1063 M4044 1:38:37  6.34                               (                    )
@@ -9194,7 +8985,6 @@
  8985  3503 AMARO ADOLFO DO CARMO          (53) 819 M4549 1:39:07  6.36                               (SAO PAULO           )
  8986 10311 MOACIR MESQUITA                (52) 820 M4549 1:39:07  6.36                               (FORTALEZA           )
  8987  1581 ANTONIO CARLOS KIRSTEN BONIZI  (57)1071 M4044 1:39:07  6.36                               (ARAUJA              )
-
  8988  4453 ERICK SCORALICK                (61)1420 M3539 1:39:09  6.37                               (SAO PAULO           )
  8989 11924                                ( 0) 270       1:39:10  6.37                               (                    )
  8990 10422 ALEXANDRE SANTOS SIROLLI       (79)1100 M2024 1:39:10  6.37                               (                    )
@@ -9238,7 +9028,6 @@
  9028  7638 GILVAN ELIAS LACERDA           (66)1490 M3034 1:39:27  6.38                               (                    )
  9029  2286 IVAN ROGERIO MENDES            (75)1103 M2024 1:39:27  6.38                               (SANTO ANDRE         )
  9030  4921 RODRIGO CAVALIERI              (73)1327 M2529 1:39:28  6.38                               (                    )
-
  9031  5641 VICTOR QUILHERME DOS SANTOS    (73)1328 M2529 1:39:28  6.38 FURNAS                        (RIO DE JANEIRO      )
  9032  1609 LEANDRO PPAYAO                 (78)1104 M2024 1:39:28  6.38                               (SAO PAULO           )
  9033  4053 JOSE CARLOS IGNACIO            (61)1430 M3539 1:39:28  6.38                               (SAO PAULO           )
@@ -9282,7 +9071,6 @@
  9071  5270 DECIO CARDOSO DE LIRA          (55)1080 M4044 1:39:45  6.39                               (                    )
  9072  6806 EDSON MAIA RODRIGUES PIRES     (70)1333 M2529 1:39:47  6.39 BILI CLUBE                    (MOGI DAS CRUZES     )
  9073  6653 ANTONIO GALVAO COSTA           (54) 827 M4549 1:39:49  6.39                               (CAMPINAS            )
-
  9074  3708 ERIC HIROSHI TABATA            (80) 518 M1519 1:39:51  6.39                               (SAO PAULO           )
  9075  4333 LUIZ AUGUSTO SANTOS TAQUEDA    (77)1108 M2024 1:39:53  6.40                               (CARAPICUIBA         )
  9076  3252 JOSE RISLDO BARBOSA DA SILVA   (52) 828 M4549 1:39:53  6.40                               (SAO PAULO           )
@@ -9326,7 +9114,6 @@
  9114  4400 JUDAS TADEU GUILHERME          (68)1504 M3034 1:40:11  6.41                               (MOGI DAS CRUZES     )
  9115  5185 MOACIR DOS SANTOS              (47) 447 M5054 1:40:12  6.41                               (                    )
  9116 11206 REINALDO JOSE DE PAULA         (63)1441 M3539 1:40:15  6.41 CUCIPA                        (SP                  )
-
  9117  1666 JOSE JOAQUIM FERNANDES         (44) 253 M5559 1:40:15  6.41                               (SAO PAULO           )
  9118  7939 RONALDO DOS SANTOS LUIZ        (67)1505 M3034 1:40:17  6.41                               (MOGI DAS CRUZES     )
  9119  8369 MILTON CARDINUTO               (57)1089 M4044 1:40:17  6.41                               (SP                  )
@@ -9370,7 +9157,6 @@
  9157  7791 MAURO W VAISBERO               (53) 832 M4549 1:40:40  6.43                               (SAO PAULO           )
  9158  8698 EDISON FRANCISCO BUONTEMPO     (64)1449 M3539 1:40:40  6.43                               (SP                  )
  9159  5663 DANIEL VON DACH                (59)1091 M4044 1:40:41  6.43                               (SAO PAULO           )
-
  9160  7354 ALFREDO JOSE MANSUR            (52) 833 M4549 1:40:41  6.43                               (SAO PAULO           )
  9161  1125 CELSO PACCIONE DE SOUZA        (61)1450 M3539 1:40:41  6.43 CORPORE                       (SAO PAULO           )
  9162  6705 RAIMUNDO BERTINHO MAGALHAES    (65)1510 M3034 1:40:41  6.43                               (SAO PAULO           )
@@ -9414,7 +9200,6 @@
  9200  6405 VALBERTO G DE OLIVEIRA         (74)1352 M2529 1:41:03  6.44                               (SAO PAULO           )
  9201  3129 EDUARDO BERNARDO               (66)1519 M3034 1:41:04  6.44                               (SANTO ANDRE         )
  9202  1210 LUCAS GOMES DE LIMA            (72)1353 M2529 1:41:06  6.44                               (SAO PAULO           )
-
  9203  6262 DOURIVAL SANTOS PRATES         (50) 834 M4549 1:41:06  6.44 CAC LUZ                       (SAO PAULO           )
  9204  8735 MARCIO CLARO                   (67)1520 M3034 1:41:06  6.44 EC PINHEIROS                  (SAO PAULO           )
  9205  2921 JOSE ANTONIO BOHEMIO DE ALMEID (72)1354 M2529 1:41:07  6.44 OS BRAVOS                     (SAO PAULO           )
@@ -9458,7 +9243,6 @@
  9243  2775 JOSE GILSON ALEXANDRE DA SILVA (52) 838 M4549 1:41:35  6.46                               (                    )
  9244  7891 GERALDO JOSE SANZNEZI          (61)1459 M3539 1:41:35  6.46 CLUBE ALPINO PAULISTA         (SAO PAULO           )
  9245 11369 AGEU ALVES FILHO               (52) 839 M4549 1:41:36  6.46                               (                    )
-
  9246  2697 RENATO SOLLITTO V RODRIGUES    (81) 530 M1519 1:41:36  6.46                               (SAO PAULO           )
  9247 10853 CASSIMIRO VITORINO DA SILVA    (51) 840 M4549 1:41:36  6.46                               (                    )
  9248  4842 DILSON TAKESHI SAKAMOTO        (65)1526 M3034 1:41:37  6.46 NIPPON COUNTRY CLUB           (                    )
@@ -9502,7 +9286,6 @@
  9286 12481 AYRTON ROSA DE BONFIM          (33)  57 M6569 1:41:49  6.47 ADEGA                         (POA                 )
  9287  7894 JOSE CLAUDIO M SOLEMEO         (73)1367 M2529 1:41:50  6.47                               (SAO PAULO           )
  9288  2873 GERALDO PEDRO DA SILVA         (38) 137 M6064 1:41:50  6.47                               (S PAULO             )
-
  9289 10466                                ( 0) 280       1:41:51  6.47                               (                    )
  9290  6950 FERNANDO VINICIUS DE MORAES    (81) 531 M1519 1:41:52  6.47                               (S C DO SUL          )
  9291  8370 ROMEU CARDINUTO FILHO          (60)1468 M3539 1:41:52  6.47                               (SP                  )
@@ -9546,7 +9329,6 @@
  9329  4485 SEBASTIAO MILAGRE DA COSTA     (48) 462 M5054 1:42:12  6.49 RONALDO 2000                  (SANTANA DO PARNAIBA )
  9330  7449 MARCIO PINTO DA SILVA          (64)1477 M3539 1:42:12  6.49 JOSE PINTO CLUB               (SAO PAULO           )
  9331  6174 ALBERTO LINHARES               (51) 852 M4549 1:42:12  6.49                               (SAO PAULO           )
-
  9332 10826 JOAO BATISTA BENTO             (44) 264 M5559 1:42:12  6.49 EQUIPE KWIKASAIR              (                    )
  9333  8258 LUIZ CARLOS DE SOUZA AURICCHIO (78)1126 M2024 1:42:12  6.49 CAAP                          (SAO PAULO           )
  9334   659                                ( 0) 282       1:42:13  6.49                               (                    )
@@ -9590,7 +9372,6 @@
  9372  2287 ALESSANDRO MARTINS             (79)1134 M2024 1:42:33  6.50                               (SANTO ANDRE         )
  9373  3123 OSVALDO KONDA                  (48) 464 M5054 1:42:33  6.50 SIND METALURGICO              (SANTOS              )
  9374  7193 MARCO AURELIO ABITANTE         (71)1379 M2529 1:42:34  6.50 BALSANTES DECORACOES          (CAMPOS DO JORDAO    )
-
  9375  6032 ELY DOS SANTOS LEME            (59)1110 M4044 1:42:34  6.50 BANCO BNL DO BRASIL           (SAO PAULO           )
  9376  5006 ALMERIS ARMILIATO              (62)1483 M3539 1:42:35  6.50 BIO RITMO                     (                    )
  9377  1734 ADEMILSON SQUIZZATO            (65)1542 M3034 1:42:35  6.50                               (SAO PAULO           )
@@ -9634,7 +9415,6 @@
  9415  1618 DARCIO DE MORAES               (43) 269 M5559 1:42:53  6.52                               (SAO PAULO           )
  9416  7415 ONOFRE ALBERTO JR              (54) 863 M4549 1:42:53  6.52                               (SAO PAULO           )
  9417  6226 MIGUEL SARKIS                  (57)1115 M4044 1:42:53  6.52 MIGUEL SARKIS                 (SAO PAULO           )
-
  9418  7962 SAULO STATONATO                (70)1385 M2529 1:42:54  6.52                               (SP                  )
  9419  1616 ALEXANDRE BERTI JR             (67)1552 M3034 1:42:54  6.52                               (SAO PAULO           )
  9420  7241 CHAYSTIAM PREVIATO DEMINOVIC   (73)1386 M2529 1:42:57  6.52                               (S C DO SUL          )
@@ -9678,7 +9458,6 @@
  9458  4658 CELSO MARCOLINO DA SILVA JR    (73)1390 M2529 1:43:15  6.53                               (CAMPINAS            )
  9459 12252 VALDERI BATISTA VIEIRA         (60)1490 M3539 1:43:15  6.53 A R FORD                      (                    )
  9460  4350 GUILHERME ANTONIO SANTOS NETO  (51) 868 M4549 1:43:15  6.53                               (SAO PAULO           )
-
  9461 11189 LAU YUEN TANG                  (23)   8 M7579 1:43:16  6.53                               (SP                  )
  9462  2492 ROGERIO RIBEIRO DA SILVA       (71)1391 M2529 1:43:16  6.53 TIETE                         (SAO PAULO           )
  9463  2445 SERGIO MARCIO DIAS             (68)1559 M3034 1:43:17  6.53                               (SANTO ANDRE         )
@@ -9722,7 +9501,6 @@
  9501  3471 CELSO LUIZ SANTOS              (65)1565 M3034 1:43:41  6.55                               (SAO PAULO           )
  9502  5948 MARCELO GIOSA SASSO            (60)1497 M3539 1:43:41  6.55                               (SAO PAULO           )
  9503  4139 SERGIO ROBERTO DA COSTA        (64)1498 M3539 1:43:41  6.55 HEMOCENTRO-SP                 (S PAULO             )
-
  9504  5463 GUILHERME BENEDITO ROMAGNOLLI  (46) 474 M5054 1:43:41  6.55 LOGICTEL                      (S PAULO             )
  9505  1390 JOSE CARMOS MOREIRA            (47) 475 M5054 1:43:42  6.55                               (TABOAOA DA SERRA    )
  9506  3481 MAURO LUIZ BECHARA POLETTI     (63)1499 M3539 1:43:42  6.55                               (SAO PAULO           )
@@ -9766,7 +9544,6 @@
  9544  4160 NIVALDO DOS SANTOS             (57)1131 M4044 1:44:06  6.56 SCANIA CLUBE                  (S PAULO             )
  9545  4984 PEDRO PAULO TIBAES             (68)1573 M3034 1:44:06  6.56 INDIVIDUAL                    (                    )
  9546  7985 JOAO MENDES DA SILVA           (60)1505 M3539 1:44:06  6.56                               (SP                  )
-
  9547  4985 JOSE CARLOS LEITE JR           (83) 542 M1519 1:44:07  6.56                               (                    )
  9548  5588 JOSE COSTA                     (42) 277 M5559 1:44:08  6.57                               (                    )
  9549  7607 LAURINDO MARQUES DE ASSUNCAO   (58)1132 M4044 1:44:09  6.57                               (SAO PAULO           )
@@ -9810,7 +9587,6 @@
  9587  5289 GUILHERME DE ALMEIDA FILHO     (65)1581 M3034 1:44:27  6.58                               (                    )
  9588  1968 RAIMUNDO TOLEDO LEME           (57)1135 M4044 1:44:27  6.58 ALBATROZ                      (BRAGANCA PAULISTA   )
  9589  9059 JOSE LUZ SPOTTI                (48) 482 M5054 1:44:28  6.58                               (SAO JOSE DO R PRETO )
-
  9590 11108 LUCIANA GEGLIE                 (74)1407 M2529 1:44:29  6.58 BIO RITMO                     (SP                  )
  9591  1970 JULIO THEMISTOCLES IZZO        (73)1408 M2529 1:44:30  6.58 ALBATROZ                      (BRAGANCA PAULISTA   )
  9592  6289 EDUARDO LOBO FONSECA           (48) 483 M5054 1:44:31  6.58                               (SAO PAULO           )
@@ -9854,7 +9630,6 @@
  9630  6769 EVARISTO QUINTANILHA NETO      (30)  59 M6569 1:44:50  6.59                               (SAO PAULO           )
  9631  1505 LUIZ FRANCISCO DAMIAN          (38) 140 M6064 1:44:51  6.59 SOROCABA                      (SOROCABA            )
  9632  7429 SERGIO LUIZ SILVEIRA           (63)1515 M3539 1:44:51  6.59 HEBRAICA                      (SAO PAULO           )
-
  9633 11103 RICARDO CORREA DA SILVA        (78)1156 M2024 1:44:51  6.59                               (SP                  )
  9634  9768 CARLOS ALBERTO REINHARDT       (69)1589 M3034 1:44:52  6.59 JUMP ACADEMIA                 (SAO PAULO           )
  9635  1833 LUIZ CARLOS ALMEIDA FRIAS      (58)1143 M4044 1:44:54  7.00                               (BARUERI             )
@@ -9898,7 +9673,6 @@
  9673  3492 ANDREAS ARISTOTELIS LYCOURESSI (74)1421 M2529 1:45:30  7.02                               (SAO PAULO           )
  9674 11499 MARCELO FAZENDA                (70)1422 M2529 1:45:30  7.02 PINHEIROS                     (                    )
  9675  7266 MAURICIO HENRIQUE BENEDETTI    (69)1597 M3034 1:45:31  7.02                               (SP                  )
-
  9676  3324 EDILSON DE JESUS SANTOS        (67)1598 M3034 1:45:31  7.02                               (SAO PAULO           )
  9677  1027 FRANCELINO RODRIGUES DE MELONT (43) 282 M5559 1:45:32  7.02 SPEED SPORT                   (SAO PAULO           )
  9678  7308 WAGNER TERZARIOL               (81) 550 M1519 1:45:32  7.02                               (SAO PAULO           )
@@ -9942,7 +9716,6 @@
  9716  5274 CLOVIS LUIZ BOATO              (73)1429 M2529 1:45:59  7.04                               (                    )
  9717  2058 CARLOS AUGUSTO SALDANHA        (73)1430 M2529 1:45:59  7.04                               (SAO PAULO           )
  9718  2922 ADRIANO WOLFMAN SANTOS SILVA   (81) 556 M1519 1:46:00  7.04 OS BRAVOS                     (SAO PAULO           )
-
  9719  7252 DARIO JOSE DEL CARLO ROMANI    (58)1149 M4044 1:46:00  7.04                               (SP                  )
  9720  6641 JORGE ALEXANDRE CORREA         (68)1605 M3034 1:46:00  7.04                               (SAO JOSE DOS CAMPOS )
  9721  2240 NATALE DE LUCA NETO            (62)1524 M3539 1:46:00  7.04                               (SOROCABA            )
@@ -9986,7 +9759,6 @@
  9759  7704 RODRIGO LOURETO DE REZENDE     (81) 561 M1519 1:46:25  7.06                               (SAO PAULO           )
  9760  7954 FLAVIO ZUCCHI                  (50) 895 M4549 1:46:25  7.06                               (SP                  )
  9761 11921                                ( 0) 301       1:46:27  7.06                               (                    )
-
  9762  1693 EDNALDO ALVES DE ALMEIDA       (75)1165 M2024 1:46:29  7.06                               (GUARULHOS           )
  9763 11589 SERGIO RICARDO CHRISTOFOLETTI  (69)1608 M3034 1:46:29  7.06                               (RIO CLARO           )
  9764  6146 JAKON GRAJEW                   (50) 896 M4549 1:46:30  7.06                               (SAO PAULO           )
@@ -10030,7 +9802,6 @@
  9802 10112 PAULO ROBERTO SAKAI            (62)1536 M3539 1:46:59  7.08                               (SAO JOSE DOS CAMPOS )
  9803  7464 VLADIMIR FRANCISCO DE MIRANDA  (52) 902 M4549 1:47:01  7.08                               (SAO PAULO           )
  9804  3179 JOSE CARLOS GARCIA             (53) 903 M4549 1:47:01  7.08                               (GUARULHOS           )
-
  9805  4986 PAULO ROGERIO LINHARES         (66)1611 M3034 1:47:02  7.08                               (                    )
  9806  2788 JANDRO MERIDA DOMINGUES        (73)1443 M2529 1:47:03  7.08 PARTICULAR                    (                    )
  9807 11474 JULIO CESAR OLIVEIRA           (79)1172 M2024 1:47:03  7.08 RACA FUTEBOL                  (                    )
@@ -10074,7 +9845,6 @@
  9845  5779 ROGERIO BUENO DE OLIVEIRA      (65)1618 M3034 1:47:35  7.10 CORUJA                        (JUNDIAI             )
  9846  8597 LUIZ SERGIO M MORENI           (60)1544 M3539 1:47:35  7.10 ADC G BASF                    (SBC                 )
  9847  2115 SERGIO BREJON                  (67)1619 M3034 1:47:37  7.10 METROPOLITAN TEEAN            (BARUERI             )
-
  9848 10640 ALFREDO C WERNECK              (63)1545 M3539 1:47:37  7.10 ADC BASF                      (                    )
  9849  7968 ANTONIO LUIZ FELIPE            (35) 148 M6064 1:47:38  7.11                               (SP                  )
  9850  4393 IVAN G BENTO GARCIA SOBRINHO   (57)1163 M4044 1:47:38  7.11                               (SAO PAULO           )
@@ -10118,7 +9888,6 @@
  9888 11989                                ( 0) 307       1:48:10  7.13                               (                    )
  9889  2633 JOSE BUNEMER NETTO             (40) 290 M5559 1:48:11  7.13 GUSTAVO CLUBE                 (SAO PAULO           )
  9890  3467 MARCIO CESAR CESPEDE           (71)1450 M2529 1:48:12  7.13                               (SAO PAULO           )
-
  9891  5204 LUIZ GILBERTO ZANETTI          (65)1625 M3034 1:48:12  7.13                               (                    )
  9892  4638 PAULO FERNANDO TUCCI           (51) 913 M4549 1:48:13  7.13                               (S PAULO             )
  9893  8738 MARCOS PEDOTE                  (68)1626 M3034 1:48:13  7.13                               (SAO PAULO           )
@@ -10162,7 +9931,6 @@
  9931  7124 ANDRE YUKIO OGATA              (78)1187 M2024 1:48:44  7.15                               (SP                  )
  9932  5866 LUIZ GONZAGA DE AZEVEDO        (43) 292 M5559 1:48:47  7.15 JARAGUA                       (SP                  )
  9933  4156 PEDRO JOAO BARBOSA             (51) 917 M4549 1:48:49  7.15                               (CAMPINAS            )
-
  9934 12030                                ( 0) 309       1:48:49  7.15                               (                    )
  9935  2429 FRANCISCO MARCONDES L OLIVEIRA (74)1458 M2529 1:48:51  7.15                               (SAO PAULO           )
  9936  4762 SHICHIEI SHIDA                 (44) 293 M5559 1:48:52  7.15 MASSAGISTA                    (SAO PAULO           )
@@ -10206,7 +9974,6 @@
  9974  4331 ROBERTO NASSER JR              (50) 920 M4549 1:49:18  7.17                               (SAO PAULO           )
  9975  5154 ALEXANDRE PEREIRA AGENA        (70)1465 M2529 1:49:18  7.17                               (                    )
  9976  7750 JOSE HELIO DO NASCIMENTO       (40) 294 M5559 1:49:20  7.17                               (TAUBATE             )
-
  9977  7895 JOAO CARLOS M SOLEMEO          (72)1466 M2529 1:49:21  7.17                               (SAO PAULO           )
  9978  4460 WALTER FERNANDES               (46) 503 M5054 1:49:21  7.17                               (SAO PAULO           )
  9979  2543 JOAQUIM GERONIMO LOURENCO      (58)1177 M4044 1:49:23  7.18 EQUIPE M7                     (SAO PAULO           )
@@ -10230,22 +9997,4 @@
  9997  5168 ADRIANO CALABRIA               (76)1191 M2024 1:49:38  7.19                               (                    )
  9998  9975 RONALDO DE SOUZA ANDRADE       (66)1641 M3034 1:49:39  7.19 ZATOPEK                       (AARACAJU            )
  9999  2055 JORGE TADEU DA SILVA           (70)1469 M2529 1:49:39  7.19                               (SAO PAULO           )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Noticias sobre esporte: http://www.totalsport.com.br                  

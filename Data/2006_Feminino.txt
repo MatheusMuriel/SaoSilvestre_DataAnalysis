@@ -1325,9 +1325,7 @@
   1325   16322 NILZA APARECIDA VILELEA OLIVEIRA               F   44   F4044         219        02:30:48   02:30:05          N/D
   1326   16832 CLAUDIA REGINA DO ESPIRITO SANTO               F   34   F3034         217        02:32:05   02:30:45          SAMCIL
   1327   14306 ANA MARIA DOS SANTOS                           F   54   F5054          -         02:33:44   02:32:02     T    N/D
-
   
-
          15447 ROSA MARIA MORAES PEREIRA DA SILVA             F   54   F5054                    00:44:52   00:44:52          N/D                                                         Correram no pelot�o masculino
          16322 NILZA APARECIDA VILELEA OLIVEIRA               F   44   F4044                    00:45:46   00:45:46          N/D                                                         Correram no pelot�o masculino
          15296 ROSANE GOMES DOS SANTOS                        F   30   F3034                    00:45:47   00:45:47          N/D                                                         Correram no pelot�o masculino

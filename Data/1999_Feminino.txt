@@ -1,4 +1,3 @@
-
     1     3 LYDIA CHEROMEI                 (77)     F2024 0:51:29         QUENIA                        (                    )
     2     7 DELILLAH ASIAGO                (77)     F2024 0:52:45         QUENIA                        (                    )
     3     8 ESTHER KIPLAGAT                (66)     F3034 0:52:46         QUENIA                        (                    )
@@ -42,7 +41,6 @@
    41   133 ALESSANDRA ALMEIDA DE ANDRADE  (71)   2 F2529 1:03:50         POLICIA MILITAR RIO DE JANEIRO(                    )
    42   137 LUCIA  ALVES DA SILVA GOMES    (73)   3 F2529 1:03:59         ESCOLA INTERATIVO             (                    )
    43    67 ELIZABETH MONZANI              (63)   4 F3539 1:04:01         TRANSBRASIL                   (                    )
-
    44    85 ODETE CONCEICAO DOS SANTOS     (61)   5 F3539 1:04:04         EC TAVARES                    (                    )
    45    73 MARIA MARGARIDA DA S ANGELO    (57)   1 F4044 1:04:11         WR                            (                    )
    46   108 JOCINALVA DOS S VALENTIM       (78)   1 F2024 1:04:24         ESPORT BUENO                  (                    )
@@ -86,7 +84,6 @@
    84    76 SUSY MONICA ACOSTA DE QUINONES (69)  13 F3034 1:11:14         PARAGUAI                      (                    )
    85   920 JOSILENE PESSOA DA SILVA       ( 0)   2 F0014 1:11:18                                       (                    )
    86   901 DIRCE DEMATRIO                 (62)  14 F3539 1:11:20         ASS DAS CORREDORAS            (CAMPINA G DO SUL    )
-
    87    14 SOLEDAD COELLO                 (62)  15 F3539 1:11:26         ECUADOR                       (                    )
    88  1094 CLAUDINA PEREIRA DOS SANTOS    (71)   9 F2529 1:11:31         CORREIOS                      (SAO PAULO           )
    89   513 VERA LUCIA DE S FERREIRA       (71)  10 F2529 1:11:43         BANCO BNL DO BRASIL           (SAO PAULO           )
@@ -130,7 +127,6 @@
   127   747 SOLANGE BHERING                (61)  22 F3539 1:14:54         PAO DE ACUCAR CLUB            (SAO PAULO           )
   128  1068 MARIA CELESTE D DE OLIVEIRA    (51)   3 F4549 1:14:55                                       (SALVADOR BA         )
   129   264 MONICA CINTRA DE PINHEIRO      (69)  20 F3034 1:14:59                                       (SAO PAULO           )
-
   130   643 LUCIANA RODRIGUES DE MELO      (62)  23 F3539 1:15:01                                       (RIO DE JANEIRO      )
   131   495 ELAINE CRISTINA DE SOUZA       (70)  21 F2529 1:15:03         CANAL 5 SANTOS                (SAO VICENTE         )
   132    98 ADELUCI MORAES                 (73)  22 F2529 1:15:07         INDENTECH                     (                    )
@@ -174,7 +170,6 @@
   170   141 ROSANA DIAS                    (61)  29 F3539 1:17:59                                       (                    )
   171   449 LAZARA STIELER                 (51)   5 F4549 1:18:01                                       (SAO PAULO           )
   172   124 MARIA ROSANGELA M NASCIMENTO   (60)  30 F3539 1:18:10         GAE  ES                       (                    )
-
   173   298 SONIA DE FREITAS GOMES         (61)  31 F3539 1:18:21                                       (COTIA               )
   174    71 VERA LUCIA RODRIGUES MACIEL    (58)  20 F4044 1:18:22         CORREIOS                      (SAO PAULO           )
   175   928 MARILDA DE FREITAS ALVES       (72)  27 F2529 1:18:24         CLUBE DE REGATAS              (RIBEIRAO PRETO      )
@@ -218,7 +213,6 @@
   213   798 ADRIANA NICOLAI                (69)  39 F3034 1:21:25         DECET                         (ITAPIRA             )
   214  1044 ELENITA APARECIDA DOS SANTOS   (66)  40 F3034 1:21:27         AVANHANDAVA                   (AVANHANDAVA         )
   215   951 DAYANE OLIVEIRA                (85)   3 F0014 1:21:35         CRESS                         (SAO SIMAO           )
-
   216  1010 JOELMA OLIVEIRA CONCEICAO      (72)  33 F2529 1:21:40                                       (SALVADOR            )
   217   523 ZELITA M DE JESUS A RAFAEL     (44)   2 F5559 1:21:45         TIETE                         (GUARULHOS           )
   218  1201 SIMONE ALVES DA SILVA          (84)  14 F1519 1:21:46         AFAC UEFS                     (                    )
@@ -262,7 +256,6 @@
   256   362 VALERIA DE LIMA MENEZES        (63)  48 F3539 1:24:15         FLAVIO FREIRE                 (SAO PAULO           )
   257   602 LUCIANA SCHUMANN RADO          (56)  34 F4044 1:24:16         ADC G BASF                    (SAO B DO CAMPO      )
   258  1067 APARECIDA P DE OLIVEIRA KANASI (68)  43 F3034 1:24:28         SAN MARINO                    (JABOTICABAL         )
-
   259   434 REGIANE DE CASSIA GUERINI      (74)  38 F2529 1:24:31         E CLUBE COMERCIAL             (ESPIRITO STO PINHAL )
   260   962 MARIA DE LOURDES VENTURINI     ( 0)   5 F0014 1:24:34         ASCOCA                        (VILA VELHA          )
   261   388 ELISABETE MARIA DE FREITAS     (65)  44 F3034 1:24:38         FLAVIO FREIRE                 (SAO PAULO           )
@@ -306,7 +299,6 @@
   299   689 NEUZA AMARAL DOS SANTOS MINAMI (56)  45 F4044 1:26:18         SAO PAULO                     (SAO PAULO           )
   300   617 HIRIS CLINCHSPOOR              (55)  46 F4044 1:26:23                                       (SAO PAULO           )
   301   340 JANETE FANTASIA DAS FLORES     (50)  16 F4549 1:26:24         ACORPAN MA                    (CAMPO GRANDE        )
-
   302   607 DANIELA S FRANCO               (69)  49 F3034 1:26:24         EC PINHEIROS                  (SAO PAULO           )
   303   794 MARIA DO SOCORRO D M CAMARGO   (59)  47 F4044 1:26:30                                       (SALVADOR            )
   304   337 MARIA DIVINA DA SILVA ROCHA    (62)  57 F3539 1:26:30         CAC CURITIBA                  (CURITIBA            )
@@ -350,7 +342,6 @@
   342   219 DANIELA AP MARQUES FONSECA     (70)  45 F2529 1:29:02                                       (SAO PAULO           )
   343   717 MICHELLE SCIGNIER              (77)  25 F2024 1:29:06                                       (SAO PAULO           )
   344   593 DOMINIQUE MISSIMILLY           (67)  52 F3034 1:29:09         CORPORE                       (SAO PAULO           )
-
   345   937 MARIA DE FATIMA DE OLIVEIRA    (57)  55 F4044 1:29:10         ITATIAIA                      (RIO DE JANEIRO      )
   346   113 EUNICE DOS SANTOS IAIZZO       (41)   4 F5559 1:29:11         PIRATININGA                   (                    )
   347   301 CECILIA HELENA DO VALLE        (52)  24 F4549 1:29:20                                       (SAO PAULO           )
@@ -394,7 +385,6 @@
   385   477 LUCIANA O DOMINGOS BARBUSCI    (71)  50 F2529 1:31:13                                       (SAO PAULO           )
   386   992 MARIA DO SOCORRO DE CASTRO     (55)  59 F4044 1:31:14         CORDF BRASILIA                (BRASILIS            )
   387   697 MARTA SANGIRARDI LIMA          (71)  51 F2529 1:31:16         PAULISTANO                    (SAO PAULO           )
-
   388   211 MARIANA DE O SANTOS FRANCO     (71)  52 F2529 1:31:17         M&M                           (SAO PAULO           )
   389   444 MARIA APDA RODRIGUES MARIANO   (55)  60 F4044 1:31:19         CORUJA                        (JUNDIAI             )
   390   885 MARIA AIDE DE CARVALHO         (55)  61 F4044 1:31:20                                       (SAO PAULO           )
@@ -438,7 +428,6 @@
   428   878 SUELI PACHECO DA S MININEL     (63)  78 F3539 1:33:27                                       (SAO PAULO           )
   429   454 BENICIA TEIXEIRA DE SANTANA    (74)  57 F2529 1:33:30                                       (PERUIBE             )
   430   370 MONICA SIMOES DA SILVA         (71)  58 F2529 1:33:32                                       (SAO PAULO           )
-
   431   632 IVANIR SANTOS RANGEL           (57)  68 F4044 1:33:34         EC TAVARES                    (SAO PAULO           )
   432   660 MARLEIS DOS SANTOS MATIAS      (56)  69 F4044 1:33:42         VASCO                         (RIO DE JANEIRO      )
   433   413 SANDRA A CARRARO DE OLIVEIRA   (60)  79 F3539 1:33:42         MASTERUSP                     (SAO PAULO           )
@@ -482,7 +471,6 @@
   471   930 FATIMA APDA S DOMINGOS         (54)  41 F4549 1:36:07         CLUBE DE REGATAS              (RBEIRAO PRETO       )
   472   341 ODETE MORAIS MARTINS           (60)  86 F3539 1:36:19                                       (SAO PAULO           )
   473  1096 MARIA ROSARIO M MIRANDA        (53)  42 F4549 1:36:22                                       (ITAQUA              )
-
   474   693 NEIDE CAPDEVILA GRYGA          (53)  43 F4549 1:36:22         ANHEMBI TENIS CLUBE           (SAO PAULO           )
   475   814 ANA CELIA ARAUJO SILVA         (68)  76 F3034 1:36:24                                       (ITAQUA              )
   476   927 MARIA JOSE ROSA GOMES          (57)  75 F4044 1:36:30         REGATAS RIB PRETO             (RIBEIRAO PRETO      )
@@ -526,7 +514,6 @@
   514   410 CHRISTINA GENNEL               (78)  41 F2024 1:38:13         STOCKHOLM RRS                 (                    )
   515   993 MARIA DE FATIMA VITAL RANGEL   (53)  51 F4549 1:38:15         CORDF BRASILIA                (BRASILIA            )
   516   653 ADRIANA CORREA                 ( 0)  42 F2024 1:38:18                                       (SANTOS              )
-
   517  1047 NAMIR JULIO DO AMARAL          (68)  85 F3034 1:38:19         ACORD DIVINOPOLIS             (DIVINOPOLIS         )
   518   959 ALMIRA CASTILHOS DE LIMA       (38)   5 F6064 1:38:20         COMETA VIDROS                 (CURITIBA            )
   519   255 ODETE ROANDO                   (48)  26 F5054 1:38:22         MARCORRER CORP SP             (SAO PAULO           )
@@ -570,7 +557,6 @@
   557   465 SILENE O SILVA COUTO           (57)  83 F4044 1:40:58         PLANI                         (SAO JOSE DOS CAMPOS )
   558   398 RENATA BLANCO OSORIO           (64) 100 F3539 1:40:59         LANCHONETE NEWS               (SAO PAULO           )
   559   669 ANGELA MARIA CALABRIA          (51)  57 F4549 1:41:00         CE PENHA                      (SAO PAULO           )
-
   560   363 GISELDA TERRON LAGUNA          (70)  72 F2529 1:41:06                                       (SAO PAULO           )
   561  1058 DIRCE CELINA TOTA              (64) 101 F3539 1:41:08         PANATHLON CLUBE               (JABOTICABAL         )
   562   854 LARISA FABIANI                 (70)  73 F2529 1:41:09         PT                            (SAO PAULO           )
@@ -614,7 +600,6 @@
   600   768 ELZA PEREIRA DE ARAUJO TEIXEIA (48)  32 F5054 1:43:33         RUN E FUN                     (SAO PAULO           )
   601   994 VANIA MARIA DE O SODEIRO       (48)  33 F5054 1:43:39         CORDF BRASILIA                (BRASILIA            )
   602   357 ELIZETE ANUNTES ROSA           (59)  89 F4044 1:43:45         LYKIS                         (SAO PAULO           )
-
   603   417 VERA LUCIA DE OLIVEIRA R VIDAL (63) 110 F3539 1:43:46                                       (SAO PAULO           )
   604   629 CARMEM BEATRIZ MOLLER          (52)  60 F4549 1:43:47         EC TAVARES                    (SAO PAULO           )
   605   403 ROSELI AMANCIO BOZZO           (65) 101 F3034 1:43:51         BAILARINO                     (B L DOS PERDOES     )
@@ -658,7 +643,6 @@
   643   709 TEREZINHA DE JESUS S NASCIMENT (57)  97 F4044 1:46:07                                       (SAO PAULO           )
   644   849 KATHIA CRISTHINA SONODA        (74)  84 F2529 1:46:13                                       (SAO PAULO           )
   645  1048 MARILEIA SILVA                 (67) 105 F3034 1:46:18                                       (                    )
-
   646   825 EDILTRUDYS TORRADO MARTINEZ    (42)  12 F5559 1:46:18         CORRUSP                       (SAO PAULO           )
   647   911 ANA REBECA DE O ALBUQUERQUE    (84)  39 F1519 1:46:20         ACAV                          (FORTALEZA           )
   648   532 LILIAN KAMIKAWA                (67) 106 F3034 1:46:21         GAROTOS DO PARQUE             (SANTO ANDRE         )
@@ -702,7 +686,6 @@
   686   722 JOSEFA MARLI DE SOUZA          (72)  90 F2529 1:49:43                                       (SAO PAULO           )
   687   128 TOYOKO HIGA                    (50)  67 F4549 1:49:55         JBS CORACAO                   (                    )
   688   740 KEIKO MARIA SAMPEI             (61) 124 F3539 1:49:56         PAO DE ACUCAR CLUBE           (SAO PAULO           )
-
   689   710 RAQUEL CHILVARQUES             (58) 107 F4044 1:49:58                                       (SAO PAULO           )
   690   540 LIDIA LOPES DA SILVA PEREIRA   (41)  15 F5559 1:50:06         IMAGEM TEQUILA                (JUNDIAI             )
   691   541 MARIA DE LOURDES MOLAR NETO    (69) 116 F3034 1:50:07         IMAGEM TEQUILA                (JUNDIAI             )
@@ -746,7 +729,6 @@
   729   266 ELZA VALQUIRIA STOIANOFF       (68) 126 F3034 1:54:47         AMANTES DA NATUREZA           (SAO PAULO           )
   730   579 MARISA ALVES SIQUEIRA          (63) 135 F3539 1:54:50                                       (SAO PAULO           )
   731   856 MARLENE APARECIDA P A MOVICI   (56) 114 F4044 1:54:51                                       (COTIA               )
-
   732   741 LEANDRA FERNANDES DA CRUZ      (71)  96 F2529 1:55:04         PAO DE ACUCAR CLUB            (SAO PAULO           )
   733   369 FATIMA HELENA GENTIL           (66) 127 F3034 1:55:16                                       (SAO B DO CAMPO      )
   734   983 CAROLINE LIMA MARTINS          (83)  40 F1519 1:55:17         HAPPY FITNESS                 (VARGINHA            )
@@ -790,7 +772,6 @@
   772   904 AUREA FERREIRA BARROS SILVA    (48)  40 F5054 2:01:59                                       (IMPERATRIZ          )
   773   668 ADELAIDE MEDONCA DIAS COELHO   (27)   1 F7099 2:02:27                                       (RIO DE JANEIRO      )
   774   518 DANIELA STOROLI                (75)  54 F2024 2:02:32         BANCO BNL DO BRASIL           (SAO PAULO           )
-
   775   253 TOMICO MORE SAITO              (26)   2 F7099 2:02:41         ANASP                         (SAO PAULO           )
   776   420 JANETE ROCHA PIETA             (46)  41 F5054 2:02:42         BRAVUS GUARULHOS              (GUARULHOS           )
   777   841 EDJANE MESSIAS DE JESUS        (74) 101 F2529 2:03:20                                       (ESTANCIA            )
