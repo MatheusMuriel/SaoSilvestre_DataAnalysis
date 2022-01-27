@@ -1,0 +1,1157 @@
+
+
+
+
+
+
+
+
+
+
+                                                                   78A. S�O SILVESTRE - 2002
+        1        20010   MARIZETE DE PAULA REZENDE                28   F2529       -    F   E                    CTA ARARAQUARA           00:54:02
+        2        20003   ADRIANA DE SOUZA                         29   F2529       -    F   E                    A.A.M MIZUNO             00:54:29
+        3        20001   MARIA ZEFERINA R BALDAIA                 30   F3034       -    F   E                    STA ELISA/MIZUNO         00:54:38
+        4        20015   BERTHA OLIVA SANCHEZ RIVERA              24   F2024       -    F   E                                             00:54:47
+        5        20005   EDNALVA LAURIANO DA SILVA                26   F2529       -    F   E                    MIZUNO/ MEXE CAMPINA     00:54:56
+        6        20014   GLADYS ASIBA KWAMBOKA                    25   F2529       -    F   E                    KENYA                    00:55:29
+        7        20134   MARLY DOS SANTOS                         24   F2024       -    F   E                    FED BAHIA                00:55:36
+        8        20006   DULCE MARIA RODRIGUES                    30   F3034       -    F   E                                             00:55:39
+        9        20013   ILDA ALVES DO SANTOS                     30   F3034       -    F   E                    MIZUNO NOVA STA BARBARA  00:56:23
+        10       20084   MARIA DO CARMO A GUIMARAES               31   F3034       -    F   E                    AFA                      00:56:38
+        11       20009   MARLENE TEIXEIRA DOS S FURTADO           32   F3034       -    F   E                                             00:56:48
+        12       20146   LEONE JUSTINO SILVA                      30   F3034       -    F   E                    BRASIL FC MEMORIAL       00:57:00
+        13       20094   MARIZETE MOREIRA DOS SANTOS              27   F2529       -    F   E                    FED BRASILIENSE          00:57:14
+        14       20143   LUCELIA DE OLIVEIRA PERES                21   F2024       -    F   E                    FED DIST FEDERAL         00:57:21
+        15       20137   ADRIANA APARECIDA DA SILVA               21   F2024       -    F   E                    AA PAPA LEGUAS           00:57:43
+        16       20108   LIDIA KARWOWSKI                          32   F3034       -    F   E                    UNIMED - CURITIBA        00:58:43
+        17       20116   ELIZABETH ESTEVES DE SOUZA               28   F2529       -    F   E                    SPFC                     00:59:48
+        18       20035   MARIA DE FATIMA DE J MESQUITA            26   F2529       -    F   E                    CR VASCO DA GAMA         00:59:58
+        19       20036   MARLENE MOREIRA DA SILVA                 34   F3034       -    F   E                    MIZUNO SP TENSOR         01:01:20
+        20       21551   ALICE CORDEIRO MATOS                     42   F4044       -    F                                                 01:01:32
+        21       20107   ALINA KARWOWSKI                          32   F3034       -    F   E                    UNIMED - CURITIBA        01:01:37
+        22       20139   EDINALVA DA SILVA NUNES                  39   F3539       -    F   E                    AMANTES DA NATUREZA      01:01:38
+        23       20099   SHIRLEIDE OLIVEIRA DA SILVA              23   F2024       -    F   E                    VO2-BELGO                01:01:44
+        24       20011   MARIA SANDRA PEREIRA SILVA               30   F3034       -    F   E                    CASO                     01:02:10
+        25       20144   ELCY RODRIGUES DOS SANTOS                38   F3539       -    F   E                    EXPRESSO ACAILANDIA      01:02:16
+        26       20128   CLAUDETE MARIA DE S SILVA                33   F3034       -    F   E                    UNIMED CURVELO           01:02:26
+        27       20086   ELOISA FERREIRA DOS SANTOS               24   F2024       -    F   E                    SPFC                     01:02:56
+        28       21684   MARIA DE FATIMA G. DA SILVA              29   F2529       -    F                        RUN&FUN                  01:03:00
+        29       20083   MARIA HELENA DE JESUS                    29   F2529       -    F   E                    AFA                      01:03:06
+        30       20093   LUCIENE ANTONIA DE JESUS                 31   F3034       -    F   E                    FED BRASILIENSE          01:03:19
+        31       20117   ROSIRENE FERREIRA DA SILVA              29   F2529       -    F   E                    SPFC                     01:03:45
+        32       20111   IVANI GOMES DOS SANTOS                  41   F4044       -    F   E                    UNIMED BRASIL            01:03:55
+        33       20112   MARINA DO ROCCIO F DE GANG              42   F4044       -    F   E                    FED STA CATARINA         01:04:09
+        34       21652   MARILSA LUCIA PRATA DA SILVA            26   F2529       1    F                                                 01:04:33
+        35       20008   NEMIA COCA YAMPARA                      33   F3034       -    F   E                    BOLIVIA                  01:04:53
+        36       21688   ODETE CONCEICAO DOS SANTOS              41   F4044       1    F                        RUN&FUN                  01:05:00
+        37       20089   ROSE LANE A ZAVIANI                     37   F3539       -    F   E                    FED ACRE                 01:05:08
+        38       20126   LUCIA ALVES DA SILVA GOMES              29   F2529       -    F   E                    PREFEITURA MUNICIPAL DE  01:05:26
+        39       20060   ANDRILEIA DO CARMO DE SOUZA             34   F3034       -    F   E                    PETROPOLIS/PE DE VENTO   01:05:38
+        40       20074   GRACILENE SOUSA DA COSTA                30   F3034       -    F   E                                             01:06:04
+        41       20070   MARLI CUNHA MATIAS                      38   F3539       -    F   E                    UNIMED PELOTAS           01:06:06
+        42       20068   CAMILA ROSA                             20   F2024       -    F   E                    LONDRICASA               01:06:12
+        43       22511   SIMONE ALVES DA SILVA                   19   F1619       1    F                        FAC/UEFES                01:06:20
+        44       21376   ADRIANA DE CASSIA MELO                  25   F2529       2    F                                                 01:06:21
+        45       20328   MARIA APARECIDA PINTO B MELO            48   F4549       1    F                                                 01:06:32
+        46       22411   FERNANDA NOBREGA DOS SANTOS             18   F1619       2    F                                                 01:06:41
+        47       20053   VALKIRIA SANCHES PRIETO                 21   F2024       -    F   E                    SHIZEN                   01:06:43
+        48       22336   CRISTINE DA SILVA OLIVEIRA              17   F1619       3    F                                                 01:07:16
+        49       20092   SIBELIA MARIA DE VASCONCELOS            37   F3539       -    F   E                                             01:07:19
+        50       21647   MARIA JOSE DIAS PEREIRA                 37   F3539       1    F                        AMANTES DA               01:07:28
+        51       22233   ANGELINA DAS GRACAS RAFAEL              21   F2024       1    F                        EQUIPE 100               01:07:41
+        52       20113   STELA YAEL SHALEM                       30   F3034       -    F   E                    BIO RITMO ACADEMIA       01:07:47
+        53       21458   RENILZA SILVA EVANGELISTA               41   F4044       2    F                        SANVAL/ADVALDO           01:07:52
+        54       20142   IRENE GONCALVES ARANHA                  33   F3034       -    F   E                    FES AMAZONAS             01:07:56
+        55       20132   ELISA APARECIDA COELHO                  33   F3034       -    F   E                                             01:08:03
+        56       21364   MARIA BERNADETE QUEIROS                 37   F3539       2    F                        UNICEUB                  01:08:08
+        57       20330   AUXILIADORA APARECIDA SILVA             36   F3539       -    F   E                                             01:08:11
+        58       21818   ELIENE SOUZA SOARES SANTOS              35   F3539       3    F                        AIA ITABUNA              01:08:11
+        59       22196   ANA MARIA FERREIRA DUARTE               33   F3034       1    F                        PROD. VET. OURO FINO     01:08:45
+        60       20054   VALERIA SANCHES PRIETO                  21   F2024       -    F   E                    SHIZEN                   01:08:57
+        61       22254   SUELI ANDERSON BRAZ                     31   F3034       2    F                        BUTENAS                  01:09:14
+        62       22363   KATIA REGINA FERNANDES                  18   F1619       4    F                        MWM MOTORES DIESE        01:09:18
+        63       20076   SONIA MARIA RODRIGUES DA SILVA          40   F4044       -    F   E                    URCA                     01:09:22
+        64       20055   NERCY FREITAS DA COSTA                  40   F4044       -    F   E                                             01:09:24
+        65       20122   RIZIA DE ALMEIDA M SILVA                40   F4044       -    F   E                    CORREIOS                 01:09:25
+        66       20078   MARIA DA CONCEICAO                      28   F2529       -    F   E                    AMANTES CASAS MOMO       01:09:28
+        67       22508   MARIA SILVA DE LIMA                     27   F2529       3    F                        CORPORE / SANO           01:09:33
+        68       22503   MARIA DE FATIMA DIONISIO                33   F3034       3    F                        CORPORE / SANO           01:09:42
+        69       21666   IRACEMA PEREIRA DA COSTA                50   F5054       1    F                        E C TAVARES              01:09:55
+        70       21709   VANESSA DE FIGUEIREDO PROTASIO          49   F4549       2    F                        CASA VITAL BRAZIL        01:09:56
+        71       20088   JOELMA DIAS ROCHA                       32   F3034       -    F   E                    FED ESPIRITO SANTO       01:10:10
+        72       22524   MARILENA PENA MATHEWS                   36   F3539       4    F                                                 01:10:13
+        73       21452   FERNANDA DA CRUZ CARVALHO               32   F3034       4    F                        CAMACARI                 01:10:17
+        74       20017   ROSMERY QUISPE GUARACHI                 19   F1619       -    F   E                    BOLIVIA                  01:10:24
+        75       20140   MARIA MARGARIDA DA S ANGELO             45   F4549       -    F   E                    PARELHAS RN              01:10:33
+        76       20075   ELIZABETH MONZANI                       39   F3539       -    F   E                    AMANTES CASAS MOMO       01:10:38
+        77       22487   CLEONICE CONCEICAO DE SOUZA             47   F4549       3    F                        AVAB                     01:10:54
+        78       20077   DULCILENE DA SILVA CARDOSO              20   F2024       -    F   E                                             01:10:57
+        79       20149   CASSIA RIBEIRO SANTANA                  29   F2529       -    F   E                    MARCORRER                01:11:02
+        80       20123   ADRIANI CRISTINA ALVES                  29   F2529       -    F   E                    CORREIOS                 01:11:08
+        81       20071   TERESINHA DE FATIMA HETTERNHAU          0    M0015       -    F   E                    JUMACO/ USS              01:11:10
+        82       20319   ANDREZA DE OLIVEIRA                     22   F2024       -    F   E                                             01:11:12
+        83       21160   HOSANA LUCENA DO N PEREIRA              39   F3539       5    F                        SE WHEATON               01:11:13
+        84       20061   CECILIA RIUZ DIAZ                       33   F3034       -    F   E                    PARAGUAY                 01:11:14
+        85       20120   CLEIDE MARIA DE SOUZA KUHL              29   F2529       -    F   E                    CORREIOS                 01:11:15
+        86       22507   MARIA DA CONCEICAO M NERY               39   F3539       6    F                                                 01:11:17
+        87       21446   MARLI MARIA DOS SANTOS LIBORIO          33   F3034       5    F                        SER PAULINIA             01:11:23
+        88       21057   JULIANA TAKEISHI                        16   F1619       5    F                                                 01:11:34
+        89       20141   VERA HELENA SANTOS NUNES                41   F4044       -    F   E                    REGATAS TECON            01:11:55
+        90       21526   TEREZA BENITTES LOPES                   34   F3034       6    F                                                 01:12:04
+        91       20135   NADJA MARIA S DE JESUS                  32   F3034       -    F   E                    FED SERGIPE              01:12:05
+        92       21299   LOUZIANE ALVES FERREIRA                 25   F2529       4    F                        TOTAL SEGUROS            01:12:08
+        93       22489   ELIANE GRACI PEREIRA                    25   F2529       5    F                        SEDEL                    01:12:25
+        94       20145   ERICA DA SILVA CAMARGO                  20   F2024       -    F   E                    MEMORIAL                 01:12:32
+        95       21594   MARIA DEMETRIO MARQUES                  42   F4044       3    F                                                 01:12:42
+        96       20318   ZIRLENE ADRIANA DOS SANTOS              35   F3539       -    F   E                    CURSO YES                01:12:54
+        97       20133   LIGERIA CASTRO FARIAS                   24   F2024       -    F   E                    FED RORAIMA              01:12:55
+        98       21151   ROSA APARECIDA CORREA                   44   F4044       4    F                        ACADEMIA FORMULA         01:12:59
+        99       21999   RENATA SCHMIDT MACHADO                  25   F2529       6    F                        WIZARD _ RIO CLARO       01:13:03
+        100      22337   IRIS RIBEIRO NASCIMENTO                 17   F1619       6    F                                                 01:13:08
+        101      22529   JOSEILDA CACHEADO                       24   F2024       2    F                        EQUIPE RODAR             01:13:09
+        102      21882   LUCIANA DOS SANTOS                      33   F3034       7    F                        ACORG=GUARUJA            01:13:10
+        103      21311   LEONILDA MONTAGNINI DA SILVA            22   F2024       3    F                        ACADEMIA LIRIA DOURADA   01:13:11
+        104      21830   DEBORAH SANTOS BORGES                   27   F2529       7    F                        BALAROTTI                01:13:11
+        105      21058   MARIANA TAKEISHI                        16   F1619       7    F                                                 01:13:12
+        106      20065   OLGA GILL                               37   F3539       -    F   E                    PARAGUAY                 01:13:14
+        107      21819   JUSSIANE DOS SANTOS OLIVEIRA            30   F3034       8    F                        APCEF/SE                 01:13:17
+        108      22282   ANATALIA GOUVEIA ALVES PRIMO            35   F3539       7    F                                                 01:13:29
+        109      22308   VANIA MARIA DE AZEVEDO SANTANA          42   F4044       5    F                                                 01:13:48
+        110      21932   MARIA LUIZA GUIMARpES                   41   F4044       6    F                        COPERE                   01:13:49
+        111      21280   EUZA MARIA DIAS GOMES                   41   F4044       7    F                        GLOBAL PACK QUIMICOS SP  01:13:52
+        112      21793   DALVA RODRIGUES DA SILVA                38   F3539       8    F                        PREMO ENGEARIA           01:14:04
+        113      20064   ANA SANDOVAL                            37   F3539       -    F   E                    PARAGUAY                 01:14:06
+        114      20063   EDITH BENITEZ                           26   F2529       -    F   E                    PARAGUAY                 01:14:10
+        115      22505   MARIA GILVANIA ALVES SANTIAGO           28   F2529       8    F                        FRAFT FOODS BMSIL LUIZ   01:14:11
+        116      21159   ELENIL MARTINS XAVIER                   48   F4549       4    F                        SE WHEATON               01:14:18
+        117      21703   ROSANGELA MARIA                         37   F3539       9    F                        VALINHOS                 01:14:31
+        118      21352   ANDREA KEILLA GALVAI LEMES              28   F2529       9    F                                                 01:14:41
+        119      20098   GERALDA DE OLIVEIRA LUMA                27   F2529       -    F   E                    FED PARAENSEE            01:14:56
+        120      21947   MARIA JOSE DE SOUZA                     42   F4044       8    F                        CIRCULO MILITAR          01:15:06
+        121      21198   MARIA JOSETE B BRITO                    40   F4044       9    F                        SEWETON                  01:15:08
+        122      20136   ALESSANDRA DOS S LIMA                   22   F2024       -    F   E                    FED SERGIPE              01:15:12
+        123      20305   DENISE ALVES DA COSTA PIRES             43   F4044       -    F   E                                             01:15:12
+        124      22504   LAIZA SANTOS COSTA                      22   F2024       4    F                        CORPORE / SANO           01:15:14
+        125      22453   ANA ROSA BORGES                         33   F3034       9    F                                                 01:15:21
+        126      20118   MARIA DE LURDES DO NASCIMENTO           40   F4044       -    F   E                                             01:15:23
+        127      21789   VAIDENIA MIRANDA DE SOUSA               17   F1619       8    F                        CEUC SOBERL PME          01:15:28
+        128      20059   CELINA COSTA SANTOS                     33   F3034       -    F   E                    VO2                      01:15:31
+        129      21269   ENI APARECIDA CARVALHO SOARES           46   F4549       5    F                        BANCO BNL BRASIL         01:15:40
+        130      22364   ROSERLENE SIQUEIRA DA SILVA             24   F2024       5    F                                                 01:15:43
+        131      20331   DANIELA ANTONIO DA SILVA                0    M0015       -    F   E                    ASE                      01:15:44
+        132      21779   ELIZABET GONZALEZ T RODRIGUEZ           37   F3539      10    F                                                 01:15:45
+        133      21398   CLARICE FERREIRA LIMA                   30   F3034      10    F                        BELGO VOZ                01:15:49
+        134      21607   RENATA JOSELAINE DO NASCIMENTO          21   F2024       6    F                                                 01:15:54
+        135      20325   KARINA GUEDES LADEIRA ARAUJO            20   F2024       -    F   E                    BANCO BNL BRASIL         01:16:15
+        136      22073   MARIA YOSHARA CATACORA SALAS            18   F1619       9    F                        GREMIO FBPA              01:16:18
+        137      20124   NEUSA NUNES DA SILVA                    40   F4044       -    F   E                    CORREIOS                 01:16:23
+        138      22471   CRISTINA NOGUEIRA                       42   F4044      10    F                        SEL BRASIL DE TEC        01:16:24
+        139      21296   GISELE PEREIRA DOS PASSOS               23   F2024       7    F                        C M E TREMEMBE           01:16:32
+        140      22307   JOELMA OLIVEIRA CONCEICAO               30   F3034      11    F                        HERCULES                 01:16:33
+        141      20130   LUZIA ALUISIO DA SILVA                  38   F3539       -    F   E                    EMBALAGEM SAO JORGE      01:16:34
+        142      22357   REGINA MARTA KNAPP                      44   F4044      11    F                                                 01:16:39
+        143      21161   FLAVIA REGINA PIRES SILVERIO            40   F4044      12    F                        SE WHEATON               01:16:42
+        144      21900   EDNALVA DOS SANTOS LIMA                 28   F2529      10    F                        PAULINHO ALFAIATE        01:16:43
+        145      22435   MARIA EDILENE LIMA                      25   F2529      11    F                                                 01:16:43
+        146      21417   JANIUZA SOARES DA SILVA CARVAL          40   F4044      13    F                                                 01:16:44
+        147      22275   MARLENE ANDRE LIMA                      48   F4549       6    F                                                 01:16:44
+        148      22403   MARIA CRISTINA MENDES ARAUJO            34   F3034      12    F                        ROCINHA                  01:16:46
+        149      22490   MIRIAM SANTANA DE MATOS                 19   F1619      10    F                        FED BAHIA                01:16:47
+        150      21613   MARIA DO CEU LEMOS NASCIMENTO           44   F4044      14    F                        FLAVIO FREIRE            01:16:48
+        151      21143   LAURITA MARIA S CLEMENTE                51   F5054       2    F                                                 01:16:49
+        152      22546   MARLENE DE FATIMA MEDEIROS              31   F3034      13    F                        BARRA BONITA             01:16:50
+        153      21832   ELIETE GONCALVES MALTA DE NICO          29   F2529      12    F                        CRSRECREATIVO SUMARE     01:16:58
+        154      20332   CORINNA KURTZ                           17   F1619       -    F   E                    NOR STOP METRA           01:16:59
+        155      22139   VALERIA VIEIRA DOS SANTOS               27   F2529      13    F                                                 01:17:04
+        156      21617   LILIANE APARECIDA FERREIRA              18   F1619      11    F                                                 01:17:08
+        157      21907   SILVIA REGINA DOS SANTOS                39   F3539      11    F                        ADC-INPE                 01:17:11
+        158      21447   CAROLINE PORTUGAL DOS SANTOS            15   F0015       1    F                        ASSOCIACAO SABESP        01:17:13
+        159      21263   ILZA MADALENA BORBOSA FERREIRA          31   F3034      14    F                                                 01:17:19
+        160      21069   MARIA INEZ COSTA DA SILVA               51   F5054       3    F                                                 01:17:24
+        161      21863   ELAINE CRISTINA DE SOUZA                32   F3034      15    F                        COPIADORA BEM BOM        01:17:27
+        162      21713   SELMA NAKAKUBO                          31   F3034      16    F                        BRANCA FITNESS           01:17:29
+        163      22194   MARIA DA PENHA PAIVA DORIGO             51   F5054       4    F                                                 01:17:29
+        164      21114   LIZIANE PINHEIRO DE SOUZA               25   F2529      14    F                                                 01:17:37
+        165      21262   JOANA JOSE ALVES                        36   F3539      12    F                        BANCO BNL BRASIL         01:17:39
+        166      20129   ANA MARCIA BORGES GOMES                 33   F3034       -    F   E                                             01:17:41
+        167      21261   ROSILDA TRINDADE DE JESUS SILV          29   F2529      15    F                        BANCO BNL BRASIL         01:17:43
+        168      22267   BRUNA S.M.B. MELLO                      18   F1619      12    F                        FACULDADE INTEGRACAO     01:17:47
+        169      20081   ELIUDE ALINE FRANCELINO                 21   F2024       -    F   E                    SESPOLSESIVOTORANTIM     01:17:50
+        170      20306   ELIANE O NEVES BUSSOLOTI                45   F4549       -    F   E                    ALEX B MARIOS TEAM       01:17:57
+        171      20087   ZILDA HASKO KAWASAKI                    47   F4549       -    F   E                    SPFC                     01:18:01
+        172      21733   DENISE ABREU MARGINET GINER             39   F3539      13    F                        PERSONAL RUNNER          01:18:04
+        173      22024   MARLENE INES DAROS                      46   F4549       7    F                        GREMIO F.B.P.A           01:18:05
+        174      22488   MARIA DA NATIVIDADE ROSA                37   F3539      14    F                        CORPO INTEIRO            01:18:07
+        175      22356   MARIA DO SOCORRO R FILHO                41   F4044      15    F                                                 01:18:11
+        176      21061   PATRICIA ALVES DE OLIVEIRA              26   F2529      16    F                        RODAR ACLIMACAO          01:18:14
+        177      21090   EDILEUZA SOARES SANTOS                  32   F3034      17    F                        BUARQUE                  01:18:19
+        178      21239   RITA DE CASSIA HEGERCEL                 21   F2024       8    F                        XV DE NOVEMBRO           01:18:22
+        179      22176   REGIANE APARECIDA DE OLIVEIRA           20   F2024       9    F                        SOUZA IMOVEIS LTDA       01:18:28
+        180      21712   MARCIA GARCIA CAVALHEIRO                35   F3539      15    F                        MOVEIS GAUDENCIO         01:18:32
+        181      22249   FABIANA DA GRACA NASCIMENTO             27   F2529      17    F                                                 01:18:35
+        182      22256   ADRIANA S. MOTTA                        16   F1619      13    F                        UNICRUZ                  01:18:39
+        183      20315   MONICA BUENO GUIMARAES                  32   F3034       -    F   E                    BRASIL TELECON LAUTER    01:18:43
+        184      21256   GRAZIELLE FRANCELINO PEDROSO            17   F1619      14    F                        BANCO BNL BRASIL         01:18:44
+        185      21477   IRACEMA CONCEICAO MOREIRA               29   F2529      18    F                        AEA AS EMO. ACO MINAS    01:18:47
+        186      21564   SIMONE MACHADO                          30   F3034      18    F                        PA CLUB                  01:18:47
+        187      22499   CLAUDIA REGINA T DOS SANTOS             23   F2024      10    F                        RIO FELICIDADE           01:18:47
+        188      21824   SILVANIA AUGUSTA GOMES                  27   F2529      19    F                                                 01:18:53
+        189      22339   SUELEM FREIRE DA CONCEICAO              19   F1619      15    F                                                 01:18:55
+        190      20322   ROSINHA CONCEICAO                       24   F2024       -    F   E                    IGREJA PRESBITERIANA     01:18:56
+        191      21008   JOANA BARAUNA DA SILVA                  55   F5559       1    F                        AVULSO                   01:18:57
+        192      21492   SUELI ESPIGARES SANCHES                 32   F3034      19    F                                                 01:18:59
+        193      22426   DALVA PRAZERES DE ALMEIDA               47   F4549       8    F                        COPAGAS                  01:18:59
+        194      21972   LENILDA SOARES GOMES                    32   F3034      20    F                        MULTSPORT                01:19:00
+        195      22343   FERNANDA MOURA                          28   F2529      20    F                        CJ DAMASIO DE            01:19:07
+        196      20106   RAILDA MARIA SOUZA                      25   F2529       -    F   E                                             01:19:14
+        197      21164   MARIA ONICE FUNCHAL VIEIRA              36   F3539      16    F                        ACTION WAY               01:19:20
+        198      21951   JULIANE ALMEIDA CAMPOS                  25   F2529      21    F                                                 01:19:21
+        199      22386   ELIANA DE FATIMA MALENGRE               19   F1619      16    F                                                 01:19:25
+        200      21726   ZULAMAR MELLO DE SOUZA                  36   F3539      17    F                                                 01:19:32
+        201      22525   SUELI AVELINA DA BOAVENTURA             28   F2529      22    F                        ACRI                     01:19:32
+        202      20320   ANGELA MARIA DE LOURDES CAIXEI          48   F4549       -    F   E                                             01:19:35
+        203      22231   ANDRELINA CARDOSO                       40   F4044      16    F                                                 01:19:49
+        204      21859   PATRICIA CAVALCANTI DE ALBUQUE          34   F3034      21    F                        Z-TRACK CLfNICA PAUL     01:19:51
+        205      22436   GRACA M BRANDAO                         34   F3034      22    F                        MPR                      01:19:53
+        206      22119   MARIA ESTELA DE LIMA SILVA              33   F3034      23    F                        TECONDI S/A              01:19:55
+        207      20324   ELLEN GUEDES LADEIRA DE ARAUJO          20   F2024       -    F   E                    BANCO BNL BRASIL         01:20:23
+        208      21708   JOELMA DE JESUS                         25   F2529      23    F                                                 01:20:23
+        209      21959   EDILENE GUEDES DE LIMA                  19   F1619      17    F                        CAMPINA GRANDE           01:20:23
+        210      21078   REGINA UEMURA TELLES                    40   F4044      17    F                        RUNNER                   01:20:26
+        211      22545   ELIS CRISTINA DE SOUZA                  18   F1619      18    F                        BARRA BONITA             01:20:28
+        212      21357   ANA BARBARA MOREIRA                     30   F3034      24    F                        CORGAMA                  01:20:33
+        213      21423   FLORACI ROCHA DOMINGOS                  48   F4549       9    F                                                 01:20:35
+        214      22484   JULIANA GOMES PEREIRA                   23   F2024      11    F                                                 01:20:36
+        215      21289   CLARICE MARIA DE O SILVA                50   F5054       5    F                        UNASP A E B              01:20:42
+        216      21721   SIMONI GUAZELLI SILVA LEONARDO          18   F1619      19    F                        SESPOLSESIVOTORANTIM     01:20:42
+        217      21926   NEIDE ROSA DE SOUZA                     23   F2024      12    F                        MANDI ESPORTIVO          01:20:45
+        218      21116   NADIR APARECIDA GOMES CAMACHO           47   F4549      10    F                        LABEX - UNICAMP          01:20:47
+        219      21313   LUANA ANDREA MANDRIAZA MUNOZ            30   F3034      25    F                                                 01:20:47
+        220      21918   ROSILENE CONCEICAO FDOS SANTOS          27   F2529      24    F                        ESCOLA PROJECAO/MULT     01:20:52
+        221      20326   ZILDA CANDIDA DA SILVA                  42   F4044       -    F   E                    CET                      01:21:00
+        222      22081   SUZANA CHRISTINA G GUERRELHAS           36   F3539      18    F                                                 01:21:08
+        223      20321   TANIA MONREAL                           37   F3539       -    F   E                    DARC REIMA MAGAZINE      01:21:09
+        224      22418   CARLA DURAN MELLI                       39   F3539      19    F                                                 01:21:09
+        225      20037   MARIANA GISELA SENSI                    30   F3034       -    F   E                    ARGENTINA                01:21:16
+        226      21283   SIMONI AP FERREIRA                      24   F2024      13    F                                                 01:21:25
+        227      21634   NEUSA CARVALHO ATOJI                    46   F4549      11    F                        TRILOPEZ                 01:21:28
+        228      21958   ROSANGELA BENTO MARQUES                 41   F4044      18    F                        EPAS PRAIA GRANDE        01:21:30
+        229      21908   SORAIA AMORIM DE MELLO                  34   F3034      26    F                        PETROBRAS                01:21:37
+        230      22438   VANDIRA FERREIRA BRANDAO                40   F4044      19    F                                                 01:21:47
+        231      21033   MARCIA CRISTINA ARRUDA                  30   F3034      27    F                                                 01:22:03
+        232      22355   ELIZABETE ALVARES ROCHA SOARES          37   F3539      20    F                                                 01:22:03
+        233      21720   SANDRA MARIA PENTEADO FERREIRA          44   F4044      20    F                                                 01:22:05
+        234      22022   MARIA APARECIDA FERREIRA AMARO          33   F3034      28    F                        GREMIO F.B.P.A           01:22:13
+        235      22396   TATIANE BUENO DA SILVA                  19   F1619      20    F                        VIDA ALIMENTO            01:22:17
+        236      20333   VALERIA THEODORO DOS SANTOS             30   F3034       -    F   E                    PA CLUBE                 01:22:22
+        237      20103   ERICA LETICIA B RODRIGUES               16   F1619       -    F   E                    FED AMAPA                01:22:24
+        238      21941   DILMA DIAS DE LIMA                      31   F3034      29    F                                                 01:22:30
+        239      22284   PATRICIA QUARESMA RAGONE                40   F4044      21    F                        MINAS TENIS CLUBE        01:22:30
+        240      21799   SUELY NASCIMENTO DE SOUSA               23   F2024      14    F                        ACAV-ASS. ST� AMARO      01:22:31
+        241      22547   LUCIA DE OLIVEIRA PAES                  40   F4044      22    F                        ACORBA                   01:22:31
+        242      21298   DALVA MARIA DE OLIVEIRA ROCHA           43   F4044      23    F                        ACM                      01:22:37
+        243      21128   MARIA MARCIA DOS SANTOS                 28   F2529      25    F                                                 01:22:41
+        244      22290   SUELI COLUCCI                           29   F2529      26    F                                                 01:22:42
+        245      21212   MONICA DE SOUZA FARIA SILVA             34   F3034      30    F                        RUNNER PERFORMANCE       01:22:49
+        246      22407   RAQUEL DE SOUZA DO NASCIMENTO           26   F2529      27    F                                                 01:22:55
+        247      22099   CLEUSA CREMONESE SEIBEL                 48   F4549      12    F                        DR. JORGE BRAGA          01:23:08
+        248      21387   ANA SHIRLON DA SILVA SANTOS             35   F3539      21    F                        PATROCINIO TCA NATACOES  01:23:11
+        249      21076   ROSANGELA PEREIRA DE SOUSA              33   F3034      31    F                        EQUIPE CEM               01:23:13
+        250      21549   JANICE TAVILE YOUSS EP                  36   F3539      22    F                        MONTELIBANO - NEWS       01:23:15
+        251      21395   CECILIA HELENA DO VALLE                 50   F5054       6    F                                                 01:23:25
+        252      21327   CARMEM SILVA SOUZA DE OLIVEIRA          44   F4044      24    F                        EDUACANDARIO DOS ANJOS   01:23:29
+        253      21502   ANA LUIZA DOS ANJOS GARCEZ              40   F4044      25    F                                                 01:23:29
+        254      22098   MARCIA MARIA DIONIZIO TANGA             39   F3539      23    F                        REGATAS RIB.PRETO        01:23:31
+        255      21525   VERA LUCIA BATISTA                      30   F3034      32    F                        EC TAVARES               01:23:35
+        256      21146   JOSIMARA SOMAQUI DA SILVA KATZ          41   F4044      26    F                        ILS CORRETORES DE        01:23:38
+        257      21258   ANA CELIA ARAUJO SILVA                  34   F3034      33    F                        BANCO BNL BRASIL         01:23:39
+        258      21825   ELENITA APARECIDA DOS SANTOS            36   F3539      24    F                        C.M.E. AVANHANDAVA       01:23:44
+        259      20058   FRANCISCA PEREGRIN TORRES               19   F1619       -    F   E                    PROHESN LOPIAPO          01:23:51
+        260      21749   ELIZABETH BETTENCOURT AUGUSTO           40   F4044      27    F                        ACRUC                    01:23:56
+        261      21901   ALESSANDRA LOPES SANTANA                29   F2529      28    F                        DANCETERIA FLY WAY       01:23:59
+        262      21673   ROSANGELA DA SILVA                      37   F3539      25    F                        SAFRA CLUBE              01:24:00
+        263      20314   HILZA MARIA FREITAS                     43   F4044       -    F   E                    HILZA RIO FELICIDADE     01:24:01
+        264      21967   JACI GREGORIO DE JESUS                  45   F4549      13    F                        M.VAZ EPORTE             01:24:01
+        265      21399   RAQUEL MOREIRA LIMA                     38   F3539      26    F                                                 01:24:19
+        266      22023   HILDA LEON MADELEINE BERTELS            53   F5054       7    F                        GREMIO FBPA              01:24:19
+        267      21285   MARIA CRITINA RODRIGUES                 26   F2529      29    F                        ASCOBRAPA                01:24:21
+        268      21579   ANA MARCIA LODUVICO DO AMARAL           30   F3034      34    F                        PA CLUB                  01:24:24
+        269      21884   LADY HELENA LIMA SAMPAIO UCHOA          46   F4549      14    F                                                 01:24:25
+        270      22065   MARIA HELENA GIOLO                      29   F2529      30    F                                                 01:24:28
+        271      21297   GISELE DA CRUZ FERREIRA                 25   F2529      31    F                        C M E TREMEMBE           01:24:31
+        272      21451   ELIZABETHE VAZ DE ANDRADE               45   F4549      15    F                        ADMINISTRADORA CASA      01:24:35
+        273      21260   CLEIDE MARIA DE OLIVEIRA                32   F3034      35    F                        BANCO BNL BRASIL         01:24:42
+        274      21030   MARLI APARECIDA DE MATTOS               43   F4044      28    F                                                 01:24:49
+        275      20121   JACIARA RODRIGUES ARAUJO                26   F2529       -    F   E                    CORREIOS                 01:24:53
+        276      21662   MARGARIDA DE BRITO                      52   F5054       8    F                                                 01:24:56
+        277      21070   TAMARA KLADT                            22   F2024      15    F                        TRITAK                   01:25:00
+        278      21134   EDIANGELY F PEGORETTI                   32   F3034      36    F                                                 01:25:03
+        279      22482   FRANCISCA FERREIRA DA ROCHA             24   F2024      16    F                                                 01:25:06
+        280      21599   LETICIA GARDEWAL FRANCES                38   F3539      27    F                        NEWS LACHONET            01:25:07
+        281      21756   SUELI BASTONI                           42   F4044      29    F                        CUCA                     01:25:07
+        282      21516   MARIA DE FATIMA N DE SOUZA              47   F4549      16    F                        SIND DA SAUDE            01:25:10
+        283      21622   NEUZA AMARAL DOS SANTOS NINAMI          46   F4549      17    F                        TRILOPEZ                 01:25:11
+        284      21110   CLAUDETE MOURA                          33   F3034      37    F                        TRILOPEZ                 01:25:17
+        285      21062   LUCIANA ALVES DE OLIVEIRA               29   F2529      32    F                        RODAR ACLIMACAO          01:25:22
+        286      21939   LAURA BEATRIZ ZAVANELLA FERRRE          16   F1619      21    F                                                 01:25:22
+        287      21240   JACQUELINE RODRIGUES                    34   F3034      38    F                        XV DE NOVEMBRO           01:25:25
+        288      21264   SHEYLA CRISTINA BORGES DE OLIV          16   F1619      22    F                                                 01:25:30
+        289      22459   MONICA FABI ANA DE SOUZA                22   F2024      17    F                                                 01:25:30
+        290      22338   ELISANGELA C SANTANA                    16   F1619      23    F                        PREFEITURA BELFORD ROXO  01:25:31
+        291      22285   MARGARETH GODOI                         35   F3539      28    F                                                 01:25:38
+        292      21056   VANESSA MENEZES                         26   F2529      33    F                        GUNO                     01:25:39
+        293      21624   ELISABETE ISABEL COSTA DA SILA          32   F3034      39    F                        ACR - LESTE              01:25:39
+        294      21095   ROSANA MARQUE PAULON                    44   F4044      30    F                                                 01:25:44
+        295      22180   LILI LAM                                45   F4549      18    F                        NICORETTE                01:25:44
+        296      22440   LUCIA CERQUEIRA ALVES BARBOSA           38   F3539      29    F                                                 01:25:49
+        297      22018   JOCYRA DE FATIMA MONTEIRO DOS           41   F4044      31    F                        PREFEITO DE LADARIO      01:25:51
+        298      22458   DIONEIA APARECIDA PEDROSO               28   F2529      34    F                        PRE. MUN. CASTRO         01:25:53
+        299      22127   LAUDINA DA SILVA                        53   F5054       9    F                        ACADEMIA GERMANOS        01:25:54
+        300      21522   SUELI DOS SANTOS                        40   F4044      32    F                                                 01:25:56
+        301      21760   MARIA ALICE NASCIMENTO                  42   F4044      33    F                        ASSOCIL                  01:25:57
+        302      22354   BANI MENDONCA DA SILVA                  42   F4044      34    F                                                 01:25:59
+        303      22264   MIRELA JANICE EIDT                      32   F3034      40    F                        EQUIPE SUL               01:26:06
+        304      21864   MARIA HELOINA CORREIA                   43   F4044      35    F                                                 01:26:10
+        305      22309   VALMIRA BATISTA SANTOS                  49   F4549      19    F                        CORREIOS SE              01:26:13
+        306      21544   VIVIAN FRANCO DA SILVA                  27   F2529      35    F                        ATLANTA PAINEIS          01:26:16
+        307      22412   EDMARA RAMALHO CLUBE BARCA              26   F2529      36    F                        LIX                      01:26:17
+        308      22035   DAYANE OLIVEIRA                         17   F1619      24    F                        PREF DE SAO SIMAO        01:26:18
+        309      21771   APARECIDA DE FATIMA S PRADO             44   F4044      36    F                                                 01:26:20
+        310      21893   MARIA ALICE DE PAULA                    57   F5559       2    F                        METALURGICA METUSA       01:26:24
+        311      21317   MARIA ELZA DA SILVA STEFANI             54   F5054      10    F                        DEUS                     01:26:31
+        312      21974   SIONICE ELMO DA SILVA                   36   F3539      30    F                                                 01:26:34
+        313      22313   RITA DE CASTRO PAULINO                  43   F4044      37    F                                                 01:26:40
+        314      21322   GERUZA BARROS LISBOA DE SOUZA           54   F5054      11    F                                                 01:26:41
+        315      21690   PRISCILA GELAIN D ADDIIO                37   F3539      31    F                        RUN&FUN                  01:26:43
+        316      21221   JANAINA PASCHOAL NATALICIO              26   F2529      37    F                        MEGA COMPANY             01:26:45
+        317      21488   ANA MARIA DO NASCIMENTO                 38   F3539      32    F                                                 01:26:49
+        318      22008   MARIA PAULA MACEDO MOTTA CAPPA          28   F2529      38    F                                                 01:26:50
+        319      21377   VALERIA PEREIRA BRAGA                   29   F2529      39    F                        ACRI                     01:27:03
+        320      22281   MARIA DAS GRACAS RAMOS DOS SAN          51   F5054      12    F                        ACORG - GUARUJA          01:27:05
+        321      20038   ROSANGELA RAIMUNDA PEREIRA              27   F2529       -    F   E                    VOU TREINAR              01:27:06
+        322      21205   ELEUZINA GOMES DE SOUZA                 39   F3539      33    F                        EPAS                     01:27:10
+        323      21211   ROSIMARA MACARI MARTINELLI              25   F2529      40    F                        RUNNER PERFORMANCE       01:27:10
+        324      21757   KATIA BARROSO                           58   F5559       3    F                        UNIMED                   01:27:14
+        325      21553   MARCIA CRISTINA CESTARI ANDRIL          40   F4044      38    F                        PAO DE ACUDAR CLUBE      01:27:18
+        326      21018   JULIANA PEDRINHA DA SILVA               63   F6064       1    F                        E.C TAVARES              01:27:26
+        327      21469   CAROLINA NICEDOMINI COELHO              26   F2529      41    F                                                 01:27:26
+        328      21802   MARIA DA APARECIDA ANASTACIO            43   F4044      39    F                        PANIFICADORA CRISTO      01:27:33
+        329      22120   RITA HEITZMANN                          45   F4549      20    F                        TURMA DO HORTO           01:27:33
+        330      21497   MARINEZ ANTONIA DE ARAUJO DIAS          42   F4044      40    F                        TOMAZ MAZONI             01:27:35
+        331      22000   MARIA CLEONICE BARACHO                  36   F3539      34    F                        CORRE                    01:27:36
+        332      22228   NILMA LEITAO MACHADO                    32   F3034      41    F                        VIDATIVA                 01:27:36
+        333      21216   ANA PAULA MONTE BORELLA                 37   F3539      35    F                        ITATIBA                  01:27:58
+        334      22182   VERA LUCIA MOTA                         44   F4044      41    F                        MACAE SPORT              01:27:59
+        335      21157   DORALICE MARQUETTI VANZETTO             51   F5054      13    F                        PODIUM                   01:28:00
+        336      21391   CRISTINA NIEDERAUER DE SOUZA            36   F3539      36    F                                                 01:28:02
+        337      21418   MARIA CELESTE SILVA SANTOS              34   F3034      42    F                                                 01:28:05
+        338      22227   CLARITA CRISTINA BALESTRIN              29   F2529      42    F                        VIDATIVA                 01:28:06
+        339      21911   MARIA CELESTE OLIVEIRA SILVA            37   F3539      37    F                                                 01:28:08
+        340      20313   MARIA LUISA WADRUMRE                    44   F4044       -    F   E                    PANIFICADORA BOULEVARD   01:28:10
+        341      21744   CELIA MARIA SAES                        40   F4044      42    F                                                 01:28:11
+        342      22333   MARIA OLIVIA SILVA ALBERTO              45   F4549      21    F                        E.C. TAVARES             01:28:18
+        343      20329   ANITA CLEMENTE MODESTO                  45   F4549       -    F   E                                             01:28:20
+        344      21330   MARIA DAS MERCES DE S. ASSIS            34   F3034      43    F                                                 01:28:30
+        345      21924   VERA APARECIDA ABREU ARANDI             42   F4044      43    F                        ALA MEDICAL              01:28:34
+        346      21591   FERNANDA NAVARRO COELHO                 30   F3034      44    F                                                 01:28:44
+        347      20110   MARIA APARECIDA NEVES DE SOUZA          42   F4044       -    F   E                                             01:28:47
+        348      21147   TOMIKO EGUCHI                           52   F5054      14    F                                                 01:28:50
+        349      21597   IRIS LOPES SARAVY DA SILVA              39   F3539      38    F                                                 01:28:56
+        350      21481   SANDRA REGINA DE JESUS                  40   F4044      44    F                        CACULA                   01:29:02
+        351      21754   ADRIANA NICOLAI                         33   F3034      45    F                        DECET ITAPIRA            01:29:06
+        352      22241   MARIA APARECIDA MAIA                    51   F5054      15    F                        ACADEMIA BYFIT           01:29:07
+        353      22056   CENI CONCEICAO RODRIGUES DO SA          40   F4044      45    F                                                 01:29:08
+        354      21948   CECILIA MARIA RODRIGUES JORGE           36   F3539      39    F                        CORREBAS                 01:29:13
+        355      21724   IRINEA DE MOURA FRAULO                  44   F4044      46    F                        ASCOBRAPA                01:29:14
+        356      21545   SILVIA A SOUTTO MAYOR TOTOLI            35   F3539      40    F                                                 01:29:18
+        357      21546   RENATA GORGA QUIRINO                    36   F3539      41    F                        PAULISTANO               01:29:18
+        358      22055   MARCIA FERNANDES BUENO                  44   F4044      47    F                                                 01:29:19
+        359      20097   MARIA DE NAZARE C CUNHA                 24   F2024       -    F   E                    FED PARAENSE             01:29:28
+        360      22135   ALZIRA MENDES DE ALMEIDA CARDO          57   F5559       4    F                                                 01:29:29
+        361      20148   GISELE CRISTINA GILLI                   20   F2024       -    F   E                    BARRA BONIT              01:29:32
+        362      21367   TEREZINHA ALVES LIBERAZ                 45   F4549      22    F                        NOVACAP                  01:29:33
+        363      22456   ELIUDES NUNES PERDIGAO SILVA            41   F4044      48    F                                                 01:29:34
+        364      21839   DIUZETE APARECIDA DA SILVA              46   F4549      23    F                        EGUIPE FORTE             01:29:37
+        365      21642   FLORENICE PINHEIRO NASCIMENTO           37   F3539      42    F                        ASS DE ATLETISMO DE      01:29:38
+        366      22542   CLAUDIA BEATRIZ TRINDADE MARTI          43   F4044      49    F                        GREMIO FBPA/ALEX         01:29:47
+        367      21097   ANA PAULA SOARES DE M E OL              37   F3539      43    F                                                 01:29:52
+        368      21904   MARIA ESTELA LAURINDO DIAS BAT          20   F2024      18    F                        LOSANGO/INFORMAL         01:29:52
+        369      21408   ROSIMEIRE DELCIELLI UZUM                44   F4044      50    F                        GAROTOS DO PQ.           01:29:54
+        370      21857   CRISTINA MACEDO LEME                    24   F2024      19    F                                                 01:29:54
+        371      21051   MARLENE EDER                            50   F5054      16    F                        C A ARAMACAN             01:29:55
+        372      21024   APARECIDA SILVA O FERREIRA              44   F4044      51    F                        EQUIPE ACADEMICA         01:29:57
+        373      21752   VILMA MARIA XAVIER DE MACEDO            37   F3539      44    F                                                 01:30:00
+        374      21964   MARIA JULIA CALVETTI V. DE MAG          41   F4044      52    F                                                 01:30:04
+        375      22425   FLORIZA DE MORAES                       34   F3034      46    F                                                 01:30:04
+        376      20323   GRAZIELA MILANI NAREZZI                 30   F3034       -    F   E                    VASCO                    01:30:10
+        377      22311   ANA MARIA ALVAREZ GARCIA                41   F4044      53    F                                                 01:30:22
+        378      21354   SILVIA TAKANOHACHI KOBAYASHI            30   F3034      47    F                        NIPPOM CONUTRY CLUB      01:30:23
+        379      22316   GLEIDA AMELIA FERREIRA                  29   F2529      43    F                                                 01:30:33
+        380      21019   MARIA ROSA RODRIGUES LOPES              51   F5054      17    F                                                 01:30:34
+        381      21722   ANAILDA DE JESUS AMORIM                 29   F2529      44    F                                                 01:30:35
+        382      21660   SUZANA DE CAMPOS                        25   F2529      45    F                                                 01:30:38
+        383      21350   ROSANGELA BIM SARMENHO                  38   F3539      45    F                        FIT RUNNERS              01:30:40
+        384      21809   CELIA REGINA MILEK                      46   F4549      24    F                        MINGO AUTO-EL+TRICA      01:30:46
+        385      21834   ELIANAY SANTANA DA SILVA PEREI          18   F1619      25    F                        PLANETA TATICO VASP      01:30:51
+        386      22203   LINA PATRICIA TENGUAM                   20   F2024      20    F                        AVULSO                   01:30:58
+        387      21050   MARINA NOMURA                           51   F5054      18    F                        C A ARAMACAN             01:30:59
+        388      21985   LEIDE ARAUJO BARROS                     17   F1619      26    F                                                 01:31:00
+        389      21172   INGLECIAHANIA ARAUJO SOUZA              17   F1619      27    F                                                 01:31:01
+        390      21929   ALMIRA ALMEIDA S. GALDINO               48   F4549      25    F                        COPERE                   01:31:01
+        391      22153   ROGERIA LOPES DA CRUZ                   28   F2529      46    F                                                 01:31:06
+        392      21414   ANA MARIA CARVALHO                      38   F3539      46    F                        GAROTOS DO PQ.           01:31:10
+        393      21278   NADIA GARCIA DE OLIVEIRA                42   F4044      54    F                                                 01:31:17
+        394      21014   SARAH MARTINS DOS SANTOS                22   F2024      21    F                                                 01:31:19
+        395      22047   SILVIA MARIA RUSSO BURGIERMAN           52   F5054      19    F                        RUN&FUN                  01:31:21
+        396      21817   SILVIA MARIA CORREA DE ABREU            48   F4549      26    F                        VOU TREINAR              01:31:22
+        397      22246   ELIZABETH CARVALHO RODRIGUES            20   F2024      22    F                                                 01:31:23
+        398      21575   AGILMA MITSUKO HASEGAWA                 28   F2529      47    F                        PA CLUB                  01:31:27
+        399      21092   DANIELA BARCELOS DE SOUZA               20   F2024      23    F                                                 01:31:38
+        400      21768   NOLAIR DE JESUS SILVA                   45   F4549      27    F                                                 01:31:39
+        401      21665   CARMEM DE FATIMA SILVESTRE              40   F4044      55    F                        E.C TAVARES              01:31:42
+        402      21840   PATRICIA KEIKO HAYASHI                  26   F2529      48    F                                                 01:31:45
+        403      21268   IVONE MENDES FERNANDES                  43   F4044      56    F                        BANCO BNL BRASIL         01:31:48
+        404      21965   ANDREIA MARIA DA SILVA                  22   F2024      24    F                        PREF RIO NOVO            01:31:53
+        405      22306   ALDACIR ANTONIA DE ALBUQUERQUE          45   F4549      28    F                        EQUIPE HERCULES          01:31:54
+        406      21148   MARIA ODETE DE PAIVA                    43   F4044      57    F                        BRANCA FITNESS           01:31:56
+        407      21773   LUZIA DOS SANTOS RIBEIRO                55   F5559       5    F                                                 01:31:56
+        408      21273   EDINA LUCIA GOMES SOUZA                 34   F3034      48    F                                                 01:31:57
+        409      21459   LAZARA AZEVEDO STIELER                  51   F5054      20    F                        BRANCA FITNESS           01:31:58
+        410      22417   SHIRLEY SILVIA BORGES DE OLIVE          19   F1619      28    F                                                 01:32:01
+        411      21365   GRACIELE ARAUJO LIMA                    21   F2024      25    F                        CORDF                    01:32:06
+        412      21611   MARIA GEDALVA SANTOS                    43   F4044      58    F                                                 01:32:12
+        413      21290   ELITA BISPO DE SOUZA                    52   F5054      21    F                        UNASP A E B              01:32:21
+        414      21508   CLAUDIA HARUMI KUMAGAI                  37   F3539      47    F                        EQUIPE ACADEMICA         01:32:27
+        415      21524   ROSANA SIMOES                           38   F3539      48    F                        ENDORFINA                01:32:27
+        416      21195   ROSANGELA ANDRADE MADEIRA               34   F3034      49    F                                                 01:32:29
+        417      22277   MARCIA REGINA MONTEIRO                  32   F3034      50    F                                                 01:32:29
+        418      21786   FRANCISCA AUGUSTA DA SILVA              37   F3539      49    F                        UNIDOS DO VALE DA        01:32:31
+        419      22084   EVELY OTT                               35   F3539      50    F                        AVULSO                   01:32:37
+        420      22245   DANIELLE NAGAOKA                        24   F2024      26    F                        AVULSO                   01:32:38
+        421      21984   MARIA APARECIDA DOS SANTOS              45   F4549      29    F                                                 01:32:39
+        422      22401   ADRIANA METNE                           32   F3034      51    F                                                 01:32:39
+        423      21657   VIVIANE DIAS                            18   F1619      29    F                        LUSA                     01:32:42
+        424      21898   FERNANDA LETICIA ALVES                  22   F2024      27    F                        LUSA                     01:32:42
+        425      21412   JOSIANE M DE VITA RAMOS PRADO           34   F3034      52    F                        GAROTAS DO PQ.           01:32:47
+        426      21074   ALZIRA SOARES SOUZA                     26   F2529      49    F                        OURO VERDE               01:32:53
+        427      21073   MARIA ELENA Z NASCIMENTO                43   F4044      59    F                                                 01:32:56
+        428      21569   MAURICEIA MONTEIRO DA SILVA             29   F2529      50    F                        PAO DE ACUCAR            01:32:56
+        429      21122   ANDREIA MARIA DA SILVA                  31   F3034      53    F                        PAPALEGUAS               01:32:58
+        430      22347   CLAUDECI ALVES DOS SANTOS               44   F4044      60    F                        JORGE BRUDER             01:33:02
+        431      22433   DENISE FALLUH                           40   F4044      61    F                                                 01:33:02
+        432      22510   FRANCISCA DE CASSIA SILVA               38   F3539      51    F                        ANGLO - SOROCABA         01:33:03
+        433      22491   JULIANA CAMPOS IMPERIAL                 23   F2024      28    F                        RIO FELICIDADE           01:33:04
+        434      21353   MARCIA HELENA DE F. YAMAZAKI            45   F4549      30    F                        AABB-SP                  01:33:05
+        435      21661   FATIMA REGINA OLIVEIRA                  22   F2024      29    F                                                 01:33:06
+        436      21960   ALESSANDRA DEL RIO PEREIRA              31   F3034      54    F                                                 01:33:06
+        437      21670   MARIA GOMES SAMPAIO                     44   F4044      62    F                        E.C. TAVARES             01:33:08
+        438      21866   ANA DE LOURDES CARDOSO GUNJI            25   F2529      51    F                                                 01:33:08
+        439      21406   ADRIANA BARBOSA                         26   F2529      52    F                        PAPA LEGUAS - MEDLEY     01:33:09
+        440      21123   MARIA FATIMA CAMILO                     38   F3539      52    F                        POOL SPORTS ACADEMIA     01:33:11
+        441      21474   MARIA DE ARAUJO LOPES                   40   F4044      63    F                                                 01:33:13
+        442      21238   MARIA FERREIRA DE M FILHA               39   F3539      53    F                                                 01:33:15
+        443      21547   CAMILA CONCATO                          27   F2529      53    F                                                 01:33:15
+        444      21468   FABIANA VICEDOMINI COELHO               30   F3034      55    F                        PAULISTANO               01:33:16
+        445      21827   MARIA APARECIDA DE OLIVEIRA SO          38   F3539      54    F                        A.M.A                    01:33:16
+        446      22346   CRISTIANE CAMARGO                       38   F3539      55    F                                                 01:33:17
+        447      21730   MARIA APARECIDA SIGARI                  26   F2529      54    F                                                 01:33:18
+        448      21610   MARIA APARECIDA VECCHIO                 27   F2529      55    F                        CORPO DE BOMBEIROS       01:33:26
+        449      21112   ROSIMEIRE DOS SANTOS CABOATAN           36   F3539      56    F                        S.E. PEDRA BRANCA        01:33:29
+        450      21242   RENILDA LIMA DO CARMO                   32   F3034      56    F                        AMANTES NATUREZA CASAS   01:33:31
+        451      21853   MARIA JOSE DE OLIVEIRA                  45   F4549      31    F                                                 01:33:33
+        452      22326   MARIA ANDRADE DOS SANTOS                39   F3539      57    F                                                 01:33:34
+        453      21342   ANDREA B R CORREA                       33   F3034      57    F                        ATC                      01:33:35
+        454      21618   GESSI FERREIRA                          44   F4044      64    F                        ASCORT CLUBE JOVEM       01:33:40
+        455      22538   MARIA CLEIDE BARROZO DA COSTA           40   F4044      65    F                        ACAV                     01:33:40
+        456      22031   APARECIDA ROCHA AFONSO                  48   F4549      32    F                        VITORIA P. LIMPEZA       01:33:43
+        457      21784   MABILIA DA COSTA LOURENCO               37   F3539      58    F                                                 01:33:57
+        458      21168   IRACEMA VENTURINI                       60   F6064       2    F                        SAO VICENTE              01:34:03
+        459      21348   ROSELIA TENORIO DA SILVA ROSA           37   F3539      59    F                        RIO PEDRENSE             01:34:08
+        460      21479   SANDRA MARIA CAMPOS DE SOUZA            44   F4044      66    F                                                 01:34:11
+        461      22079   ELIANE POLI TETZNER                     27   F2529      56    F                        ATIVO.COM                01:34:13
+        462      21994   ADRIANA GALHARDI APUZZO                 33   F3034      58    F                                                 01:34:14
+        463      21807   DULCELEIA WOISKY DO RIO                 46   F4549      33    F                        PAINEIRAS MORUMBI        01:34:16
+        464      21598   SONIA DE OLIVEIRA S.DA MOTA             40   F4044      67    F                                                 01:34:17
+        465      21912   LINA ARAUJO B BARROS                    43   F4044      68    F                                                 01:34:20
+        466      22522   MARIA DO SOCORRO BATISTA                34   F3034      59    F                                                 01:34:22
+        467      21131   MARIA ESTER RAMOS V NOVA                44   F4044      69    F                                                 01:34:24
+        468      21742   ANNA CAROLINA DA ROCHA GERALDO          26   F2529      57    F                                                 01:34:28
+        469      21777   LUCIANA CAMILO DOS SANTOS               22   F2024      30    F                        A ECONOMICA ESPORTES     01:34:30
+        470      21291   JOSEFA DA SILVA SANTOS                  42   F4044      70    F                        UNASP A E B              01:34:39
+        471      21814   ROSEMARY ELOISA GIMENES                 29   F2529      58    F                                                 01:34:39
+        472      22021   IZAURA DE OLIVEIRA PARANHOS             49   F4549      34    F                        GREMIO F.B.P.A           01:34:39
+        473      21302   RUTH LOBRIGATE                          46   F4549      35    F                        CEPE - PETROBRAS         01:34:43
+        474      21842   CELIA CRISTINA MAZON                    43   F4044      71    F                                                 01:34:45
+        475      22157   RUTE MEGUMI WADA                        36   F3539      60    F                                                 01:34:46
+        476      21973   MARIA CLAUDIA OLIVEIRA DA SILV          19   F1619      30    F                                                 01:34:49
+        477      20085   VALDELENE SOUSA E SILVA                 25   F2529       -    F   E                    AACT                     01:34:58
+        478      21937   BERENICE MARIA GIANNELLA                39   F3539      61    F                        MIGUEL SARKIS            01:35:01
+        479      21429   MARIA AMELIA SANTOS                     45   F4549      36    F                                                 01:35:04
+        480      21565   SILVANA LEITE                           27   F2529      59    F                                                 01:35:04
+        481      21420   CARLA MALAGUTI                          29   F2529      60    F                        BRANCA FITNESS           01:35:06
+        482      21928   SHEILA YAMAMOTO                         24   F2024      31    F                                                 01:35:09
+        483      21082   SONIA MITICO SOEDA                      43   F4044      72    F                                                 01:35:18
+        484      21178   ELENILDA ALMEIDA PEREIRA                20   F2024      32    F                                                 01:35:18
+        485      21091   VERA LUCIA OLIVEIRA R VIDAL             39   F3539      62    F                        BUARQUE                  01:35:21
+        486      22289   CARLA CRISTINA DE PAULA GOMES           29   F2529      61    F                                                 01:35:22
+        487      22384   ANA LUCIA SANTOS M. NOGUEIRA            35   F3539      63    F                                                 01:35:22
+        488      21444   GILCA ALVES NOVAES                      53   F5054      22    F                        ACM CENTRO               01:35:27
+        489      21443   ELAINE LUZ NETO                         38   F3539      64    F                        ACM                      01:35:28
+        490      21628   MONICA EVONE BOCK DE CAMPOS             46   F4549      37    F                        RUNNER                   01:35:30
+        491      21788   MARIA BERTULINA DOS SANTOS ROD          53   F5054      23    F                        EQUIPE 100               01:35:31
+        492      21150   MARISA JOENCK                           44   F4044      73    F                                                 01:35:33
+        493      21845   CHRISTINA DUDIENAS                      43   F4044      74    F                                                 01:35:39
+        494      21113   LILIANE HENRIQUES DO SACRAMENO          30   F3034      60    F                                                 01:35:41
+        495      21287   SILVIA LENGLER                          45   F4549      38    F                                                 01:35:41
+        496      21266   SELMA CRISTINA DE CAMPOS                35   F3539      65    F                        BANCO BNL BRASIL         01:35:49
+        497      21259   LUCIENE LUIZ NASCIMENTO                 35   F3539      66    F                        BANCO BNL BRASIL         01:35:51
+        498      21470   ELIETE DA SILVA                         37   F3539      67    F                        ASPMC                    01:35:52
+        499      22148   SARA DEL CARMEN MORENO                  46   F4549      39    F                                                 01:35:52
+        500      21305   MARIA APARECIDA C OLIVEIRA              36   F3539      68    F                                                 01:35:53
+        501      21500   FERNANDA MARIA CE PEDA ARLINDO          47   F4549      40    F                        TOP NOTCH TRAINING       01:36:09
+        502      21173   GLAUCIA MARIA P DE OLIVEIRA             48   F4549      41    F                                                 01:36:10
+        503      21576   ALESSANDRA MERIGHI RODRIGUES            23   F2024      33    F                        PA CLUB                  01:36:10
+        504      22044   CELIA SANTOS DA VEIGA                   44   F4044      75    F                                                 01:36:16
+        505      21464   ELZA KAZUE SAWAGUCHI                    34   F3034      61    F                        ORITENO                  01:36:19
+        506      22186   TEREZA SINISCALCO                       35   F3539      69    F                                                 01:36:26
+        507      21052   ALINA LOPES                             40   F4044      76    F                        C A ARAMACAN             01:36:27
+        508      22071   SHIZUKO HIROTAKI WATANABE               59   F5559       6    F                                                 01:36:30
+        509      22150   MARIA DAS GRACAS MENDES                 44   F4044      77    F                        ACORGE                   01:36:30
+        510      22296   ANDREA DE CARVALHO PEREIRA              28   F2529      62    F                                                 01:36:38
+        511      21177   LUCIANA SCHUMANN RADO                   28   F2529      63    F                        ACM - CENTRO             01:36:39
+        512      21513   GECILDA MIRTES DE SOUZA SENRA           50   F5054      24    F                                                 01:36:41
+        513      21419   MARIA CRISTINA DE MORAES GULO           37   F3539      70    F                                                 01:36:45
+        514      21566   ROGERIA OLIVEIRA DOS SANTOS             33   F3034      62    F                        PA CLUB                  01:36:45
+        515      22342   PATRICIA NAUSCHILD                      35   F3539      71    F                                                 01:36:47
+        516      21372   MARINEIDE SANTOS SILVA                  42   F4044      78    F                        PO SANTO DIA             01:36:50
+        517      22133   ANA MARIA DE QUEIROZ                    43   F4044      79    F                        CENTRAL FARMA            01:36:50
+        518      21527   HELOISA DE ARRUDA MARTINS PION          44   F4044      80    F                        CER.MILITAR SP           01:36:53
+        519      21363   VANDA FERREIRA CARVALHO                 38   F3539      72    F                        CORDF                    01:36:54
+        520      22134   MARIA FLAVIA G DE PAULA                 33   F3034      63    F                                                 01:36:57
+        521      21009   RAQUEL S MARQUES DE CARVALHO            28   F2529      64    F                        E.C TAVARES              01:36:58
+        522      21214   THAIS SENO FUSARO                       34   F3034      64    F                        RUNNER PERFORMANCE       01:37:06
+        523      21590   FATIMA LOPES PEREIRA                    29   F2529      65    F                                                 01:37:06
+        524      21193   JUCARA RIBEIRO DE SA COFIRO             48   F4549      42    F                        HIPICA CAMPINAS          01:37:07
+        525      22041   CLAUDIA GRANJA BELFORT                  35   F3539      73    F                                                 01:37:07
+        526      21454   ELIZABETH MENDES DE TRINDADE            25   F2529      66    F                                                 01:37:08
+        527      21002   DANIELA APARECIDA M FONSECA             32   F3034      65    F                        AVULSO                   01:37:12
+        528      21514   CREUSA RIEKO MORITA                     38   F3539      74    F                        SC MIZUKI                01:37:12
+        529      22427   MARCIA C.ZANCANELI TANIGAWA             43   F4044      81    F                        RIBEIRAO PIRES F. C.     01:37:14
+        530      21498   INEZ TORELLI                            53   F5054      25    F                        PARQUE DO CARMO          01:37:17
+        531      21274   DIRCE APARECIDA RIBEIRO                 44   F4044      82    F                                                 01:37:18
+        532      22235   SANDRA MARIA DE SOUZA                   27   F2529      67    F                                                 01:37:18
+        533      22359   ELIZABETH GONCALVES DA SILVA            43   F4044      83    F                                                 01:37:21
+        534      21831   JOSEANE VIEIRA DIAS                     43   F4044      84    F                                                 01:37:23
+        535      22475   KARIN STURM                             41   F4044      85    F                                                 01:37:39
+        536      20119   RENATA AVELINO DE SOUZA                 39   F3539       -    F   E                    CORREIOS                 01:37:47
+        537      22404   CLAUCEA CALDAS DE ARAUJO                20   F2024      34    F                        MISTO FC                 01:37:47
+        538      21710   MARGARIDA MARIA FELIX UCHOA             40   F4044      86    F                        FURNAS                   01:37:48
+        539      22107   VALERIA TERENCE                         35   F3539      75    F                                                 01:37:48
+        540      21013   MARIA FERNANDA V C CAMARGO              37   F3539      76    F                                                 01:37:49
+        541      21567   RITA DE CASSIA QUEIROZ                  26   F2529      68    F                        PA CLUB                  01:37:53
+        542      21137   ARACY RIBEIRO DE ARRUDA                 36   F3539      77    F                                                 01:37:56
+        543      21645   MARIA ALVES DOS SANTOS                  26   F2529      69    F                                                 01:38:03
+        544      21085   SARA REGINA S DA SILVA                  17   F1619      31    F                                                 01:38:04
+        545      21471   ROSELI APARECIDA MARTINS DA FO          34   F3034      66    F                        ASPMC                    01:38:04
+        546      22097   SIRLENE MORAIS DIAS MELO                44   F4044      87    F                                                 01:38:09
+        547      22076   ASTONIA MARIA ARAUJO QUADROS            34   F3034      67    F                                                 01:38:14
+        548      22164   RITA DE CASSIA LORENCON GARRI           38   F3539      78    F                                                 01:38:18
+        549      22219   MARILENA MARTINS HESPANHOL              39   F3539      79    F                        STUDIUM "S" ACADEMY      01:38:20
+        550      22185   ANA PAULA QUAGLIANO                     33   F3034      68    F                                                 01:38:24
+        551      21601   CLARISSA NAVARRO FERREIRA               24   F2024      35    F                                                 01:38:37
+        552      21698   CARMEM A FLOSI                          46   F4549      43    F                                                 01:38:40
+        553      21343   ARLETE DE ARAUJO S NESE                 35   F3539      80    F                        ATC                      01:38:42
+        554      21402   MARIA JOSE DA SILVA                     48   F4549      44    F                                                 01:38:46
+        555      21341   NEIDE C GRYGA                           49   F4549      45    F                        ATC                      01:38:49
+        556      21026   SARA SADAKO SATO                        51   F5054      26    F                        E.C.TAVARES              01:38:51
+        557      21167   AMAZONEIDA SA PEIXOTO PINHEIRO          43   F4044      88    F                                                 01:38:57
+        558      21883   MARIA LUZIA LOPES DE BRITO              40   F4044      89    F                                                 01:38:58
+        559      21436   CLAUDIA B. SCARAI ICHI FARIA            44   F4044      90    F                                                 01:38:59
+        560      22053   SUSANA ABE MIAHIRA                      41   F4044      91    F                                                 01:39:00
+        561      21555   MAGNOLIA PEREIRA DA SILVA               27   F2529      70    F                        PA CLUBE                 01:39:02
+        562      22248   CRISTINA KATINSKAS                      33   F3034      69    F                        TOP NOTCH TRAINING       01:39:02
+        563      21170   DULCIMARA PACHECO                       31   F3034      70    F                                                 01:39:03
+        564      21409   ROSA MARIA DE CARVALHO                  41   F4044      92    F                        GAROTOS DO PQ.           01:39:04
+        565      21518   SANDRA NOVAES BASSILI                   46   F4549      46    F                                                 01:39:06
+        566      22177   JUCILENE FERNANDES DA SILVA             27   F2529      71    F                                                 01:39:07
+        567      21510   MARIA ISABEL DA FONSECA ROCHA           45   F4549      47    F                                                 01:39:08
+        568      21701   MARIA CLAUDIA R.DA CUNHA BASTO          32   F3034      71    F                                                 01:39:14
+        569      21540   FABIANA PACHECO                         24   F2024      36    F                                                 01:39:16
+        570      21550   SOLANGE ADDAS                           35   F3539      81    F                        MONTE LIBANO             01:39:16
+        571      21925   NEUSA CABRAL DE NADAI                   45   F4549      48    F                        ALA MEDICAL              01:39:16
+        572      22446   MARIA APARECIDA TREVESAN                44   F4044      93    F                                                 01:39:18
+        573      21210   NEIDE NAOKO NAKAGAWA                    44   F4044      94    F                        RUNNER PERFORMANCE       01:39:20
+        574      22247   ALICE MARQUES RIBEIRO NALETTO           42   F4044      95    F                                                 01:39:20
+        575      21202   MATILDE ALVES MACIEL                    40   F4044      96    F                        ACM LAPA                 01:39:24
+        576      21838   MARIA GERUZA ALVES BENTO                40   F4044      97    F                        ACAV                     01:39:25
+        577      21149   AMELIA TIEKO UEMA                       39   F3539      82    F                        BRANCA FITNESS           01:39:30
+        578      21054   LUCIANA MARTINS BLOTTA                  17   F1619      32    F                        RUN FOR LIFE             01:39:37
+        579      21846   MARCIA MARIA RODRIGUES ELIAS            34   F3034      72    F                        RUN FOR LIFE             01:39:37
+        580      22536   MARIA LUCIA FERNANDES DE CARVO          50   F5054      27    F                                                 01:39:37
+        581      21045   SILVANA NATALE                          39   F3539      83    F                                                 01:39:41
+        582      22366   MARISTELA FARIAS GOMES                  41   F4044      98    F                        SOGIPA RS                01:39:42
+        583      21671   NAIR CARDOSO                            51   F5054      28    F                        EC TAVARES               01:39:43
+        584      22102   MARIA ISABEL GUITTI                     42   F4044      99    F                                                 01:39:43
+        585      21249   GILDETE DA SILVA SANTOS                 31   F3034      73    F                                                 01:39:47
+        586      21369   DENISE RODRIGUES BARBOSA                34   F3034      74    F                        CORDF                    01:39:50
+        587      21190   ISABEL TEIXEIRA PENTEADO                54   F5054      29    F                        HIPICA CAMPINAS          01:39:53
+        588      21340   SILAVANA GOMES PIMENTEL                 25   F2529      72    F                        SO ALEGRIA AFS           01:39:54
+        589      21188   MARLI TEREZINHA REIS                    54   F5054      30    F                        HIPICA CAMPINAS          01:39:56
+        590      21702   ADRIANA VETUHOU PEQUINI                 43   F4044      100   F                        TECHLIX TEM SPORTS       01:39:57
+        591      22136   CARLA MARIA MEDEIROS Y ARAUJO           35   F3539      84    F                                                 01:40:01
+        592      21335   RITA DE CASSIA M F SOARES               36   F3539      85    F                        JBS ASSESSORIA  ESP.     01:40:02
+        593      22199   ELZA PEREIRA DE ARAUJO TEIXEIR          54   F5054      31    F                                                 01:40:03
+        594      21739   MARIA LUISA DE OLIVEIRA CARDOS          25   F2529      73    F                                                 01:40:07
+        595      21152   ELIZETE ANTUNES ROSA                    43   F4044      101   F                        LIKIS MODA               01:40:10
+        596      21325   LUCIA PERPETUA VAZ ZAMPIERI             51   F5054      32    F                        INSS                     01:40:14
+        597      21587   ELIENE APARECIDA RIBEIRO SOBRA          33   F3034      75    F                        PA CLUB                  01:40:17
+        598      22036   HELGA SCHAAL                            33   F3034      76    F                                                 01:40:19
+        599      21496   SUELI RANGEL DE OLIVEIRA                42   F4044      102   F                                                 01:40:24
+        600      21392   APARECIDA MARINUCCI                     51   F5054      33    F                                                 01:40:26
+        601      21878   EDNA SAYOKO MATSUKA BUZZI               44   F4044      103   F                                                 01:40:26
+        602      21811   ZENAIDE MANTOVANI GONCALVES             39   F3539      86    F                        CAC-CURITIBA             01:40:28
+        603      22521   EDNALVA BATISTA ALVES                   53   F5054      34    F                        PARQUE ECOLOGICO         01:40:31
+        604      21232   JULIANA LUMINI                          24   F2024      37    F                        TRIATIHON ACADEMIA       01:40:32
+        605      21397   ADNA SANTOS URBANO                      35   F3539      87    F                                                 01:40:41
+        606      22201   MARIA DE LOURDES F. PADILHA             74   F7099       1    F                        UNIMED ARARAS            01:40:48
+        607      21175   DIONE MARIA DOS S NASCIMENTO            39   F3539      88    F                        ALPINA EQUIPAMENTO       01:40:50
+        608      21869   MARLENE MARINHO MANGIONE                46   F4549      49    F                        SCORP PAINEIRAS          01:40:50
+        609      21106   RUTH CAMILO RAMALHO DE GOIS             42   F4044      104   F                                                 01:40:51
+        610      21349   ANNA LUCIA CAFARO                       48   F4549      50    F                        SECOR                    01:40:51
+        611      21139   MARIA EDILENE ALVES BEZERRA             22   F2024      38    F                        MUSEU IPIRANGA           01:40:53
+        612      21405   JANDIRA BORGES ARAUJO                   45   F4549      51    F                        CATS                     01:40:55
+        613      21963   TEREZINHA JESUS MONTEIRO DA SI          46   F4549      52    F                        EQUIPE PORTUGAL          01:40:57
+        614      21272   TOCHIE MARINA F REBELLO PINHO           46   F4549      53    F                        APAMAGIS                 01:41:07
+        615      22493   ELISA COELHO                            49   F4549      54    F                        RIO FELICIDADE           01:41:08
+        616      21493   MARINALVA AP.DA CUNHA BASTOS            31   F3034      77    F                                                 01:41:11
+        617      21448   LIGIA COSLOPO CENTOMANI                 20   F2024      39    F                                                 01:41:29
+        618      21612   DANIELA AKAHOCHI DI NASCIMENTO          20   F2024      40    F                                                 01:41:30
+        619      22017   CHRISTHIANNE TUCKMANTEL CARVAL          33   F3034      78    F                                                 01:41:30
+        620      22105   MARIA FERREIRA DA SILVA MUNHOZ          38   F3539      89    F                                                 01:41:39
+        621      21310   LILIANE KOPEL                           39   F3539      90    F                                                 01:41:40
+        622      21472   EVA SOARES                              27   F2529      74    F                                                 01:41:40
+        623      21705   DENISE PEREIRA GOMES                    26   F2529      75    F                                                 01:41:40
+        624      21396   ELIANE DOS SANTOS JOAO                  27   F2529      76    F                                                 01:41:43
+        625      21586   EDNA MARIA SIQUEIRA DA SILVA            38   F3539      91    F                                                 01:41:44
+        626      22393   ELENICE ARGENIRA V BRAGA                32   F3034      79    F                        POLICIA MILITAR SP       01:41:48
+        627      21821   IEDA ALVES ROCHA SOARES                 45   F4549      55    F                        CORREDORES DA NOITE      01:41:51
+        628      21848   ROSANGELA DA SILVA                      32   F3034      80    F                                                 01:41:52
+        629      21650   REGIANE SANTANA SANTOS                  21   F2024      41    F                                                 01:41:56
+        630      22451   MARIA LUISA CESCA                       38   F3539      92    F                        CSPRRC                   01:41:56
+        631      21542   MARIA ALVES DE ALMEIDA                  31   F3034      81    F                        8 CARTORIO DE NOTAS      01:41:57
+        632      21930   ANA LUCIA BATISTA LINS                  39   F3539      93    F                        COPERE                   01:41:58
+        633      21639   MARISTELA APARECIDA MARQUES             38   F3539      94    F                                                 01:42:05
+        634      22468   MARGARET DE FATIMA VALESKI              42   F4044      105   F                                                 01:42:07
+        635      21641   SOLANGE SOUZA SILVA                     24   F2024      42    F                                                 01:42:14
+        636      22537   ESTER MIKIKO ONODA                      50   F5054      35    F                                                 01:42:17
+        637      21867   ROSILDA DE LOURDES P.DA SILVA           33   F3034      82    F                        PREF DE GUARATUBA        01:42:18
+        638      22280   NEUCI MOELLER TEIXEIRA                  52   F5054      36    F                        GREMIO FBPA              01:42:22
+        639      22118   TELMA RODRIGUES DA SILVA                34   F3034      83    F                        EQUIPE 100               01:42:23
+        640      21494   GENICE LEITE DOS SANTOS                 36   F3539      95    F                                                 01:42:28
+        641      22485   JOANA ROSA FURTADO DOS SANTOS           59   F5559       7    F                        GT                       01:42:29
+        642      21931   LUCIENE BATISTA LINS                    28   F2529      77    F                        COPERE                   01:42:30
+        643      21849   THEREZINHA NAZARIO MARTUCCI             66   F6569       1    F                        CARDIOFISICO/UNIMED      01:42:31
+        644      21675   DIRCE DIAS CONCEICAO                    38   F3539      96    F                        SAFRA CLUBE              01:42:33
+        645      21917   MARIA HELENA DOS SANTOS                 48   F4549      56    F                                                 01:42:33
+        646      22273   MARIANGELA R. V. GIANNONI               45   F4549      57    F                        PAINEIRAS -SCORP         01:42:36
+        647      21449   MARIA APARECIDA COSSIA MAFFEI           47   F4549      58    F                        ETIP                     01:42:49
+        648      21422   MARIA DO CARMO MARTINS                  44   F4044      106   F                                                 01:43:01
+        649      21333   ROSILENE SANTOS GURGEL                  28   F2529      78    F                        OS INCUTIDOS             01:43:05
+        650      21176   CATARINA F FRANCO TRIDENTI              43   F4044      107   F                                                 01:43:06
+        651      22324   BRUNA DANIELLE DA SILVA                 20   F2024      43    F                                                 01:43:08
+        652      22286   CLEIDE PARIGIO DA SILVA                 48   F4549      59    F                                                 01:43:09
+        653      21731   ALESSANDRA PEREIRA DOS SANTOS           28   F2529      79    F                        PORTUARIOS               01:43:14
+        654      22447   JOICE FERNANDA DOS SANTOS OLIV          16   F1619      33    F                        ELEKTRO- ITANHATM        01:43:16
+        655      21371   MARCIA WENDLER R. DE OLIVEIRA           49   F4549      60    F                                                 01:43:20
+        656      22496   ANA PEREIRA CAMPOS ARAUJO               44   F4044      108   F                        RIO FELICIDADE           01:43:20
+        657      22237   PRISCILA BERNAL DA C SEGURO             22   F2024      44    F                                                 01:43:22
+        658      20307   MARIA DE LOURDES JESUS F FILHA          41   F4044       -    F   E                                             01:43:23
+        659      21208   WILMA MENDES DOS SANTOS                 47   F4549      61    F                                                 01:43:26
+        660      22315   RENATA ALVES DE OLIVEIRA                22   F2024      45    F                                                 01:43:26
+        661      20308   MARIA CRISTINA JESUS FREITAS            41   F4044       -    F   E                                             01:43:27
+        662      21049   LUZIA DE FARIA DINIZ                    54   F5054      37    F                        C A ARAMACAN             01:43:32
+        663      21326   SUELI APARECIDA DE JESUS S.G            49   F4549      62    F                                                 01:43:33
+        664      21664   ANDREA CRISTINA DA CUNHA                33   F3034      84    F                        E.C TAVARES              01:43:33
+        665      22161   MARILUCE VIEIRA DOS SANTOS              32   F3034      85    F                                                 01:43:34
+        666      21535   VILMA SATIKO TAKAUTI                    42   F4044      109   F                        HP                       01:43:46
+        667      22223   MELINA AZEREDO PEREIRA                  33   F3034      86    F                        S&P                      01:43:47
+        668      21453   MARINALVA GOMES                         36   F3539      97    F                        DARC REIMA MAGAZINE      01:43:48
+        669      22224   LUCIANA MUNIZ LEAL                      33   F3034      87    F                        SA�DE & PERFORMANCE      01:43:48
+        670      22293   MARIANA DE PAULA SOUZA ZUQUIM           19   F1619      34    F                        GEOLOGIA                 01:43:48
+        671      21124   ILDA TAGAWA                             44   F4044      110   F                                                 01:43:49
+        672      21512   MARCIA YUKARI CHIROSI                   33   F3034      88    F                        MIZUKI                   01:43:51
+        673      22181   MARIA APARECIDA BASTOS SARAIVA          51   F5054      38    F                                                 01:43:57
+        674      21318   LOURDES BENTO PEREIRA                   71   F7099       2    F                                                 01:43:58
+        675      21358   MARGARET CULLURA                        34   F3034      89    F                        CORDEF                   01:43:59
+        676      22205   MARIA GONCALVES DE SOUZA EFLI           65   F6569       2    F                                                 01:43:59
+        677      22383   ELAINE VIEGAS DA SILVA SANTANA          27   F2529      80    F                                                 01:43:59
+        678      21851   NEUSELI DA ROSA                         37   F3539      98    F                        ACRI                     01:44:02
+        679      21936   SABINA TEIXEIRA CHAVAES                 41   F4044      111   F                                                 01:44:03
+        680      21271   MAYA HASEGAWA                           23   F2024      46    F                                                 01:44:04
+        681      21820   PATRICIA LOBO                           37   F3539      99    F                                                 01:44:04
+        682      22151   EFIGENIA CONCEICAO VIEIRA               49   F4549      63    F                                                 01:44:04
+        683      22192   BEATRIZ V SABBAGH HOLLANDA              49   F4549      64    F                                                 01:44:13
+        684      21194   PATRICIA P DE MAGALHAES COY             40   F4044      112   F                        HIPICA CAMPINAS          01:44:14
+        685      22175   SONIA APARECIDA FURLAN                  40   F4044      113   F                        CRSRECREATIVO SUMARE     01:44:15
+        686      21237   LURDES APARECIDA ROSA                   44   F4044      114   F                                                 01:44:17
+        687      21844   MARIA APARECIDA COSTA  ALFENAS          35   F3539      100   F                                                 01:44:22
+        688      21841   ADRIANA PEREIRA COSTA DE ALMEI          31   F3034      90    F                                                 01:44:23
+        689      21356   CLAUDETE FAUSTINA GOMES JESUS           43   F4044      115   F                        CORGAMA                  01:44:26
+        690      21889   NORA NEY GONSALVES DA SILVA             29   F2529      81    F                                                 01:44:26
+        691      21828   MARIA CECILIA SANTOS DA SILVA           39   F3539      101   F                        HIGH CONCEPT             01:44:27
+        692      22373   SANDRA MARIA DA SILVEIRA                28   F2529      82    F                                                 01:44:35
+        693      21286   MARILZA SOUZA BERNARDES                 41   F4044      116   F                        UNASP A E B              01:44:48
+        694      21801   ROSANGELA MARTINS DOS ANJOS             27   F2529      83    F                        CEPE2004                 01:44:49
+        695      21328   PATRICIA DA SILVA LEITE                 44   F4044      117   F                        FATOR                    01:44:54
+        696      21715   GABRIELA AMORIM ALMEIDA                 30   F3034      91    F                        AABB-SP                  01:45:00
+        697      21130   ELZA HITOMI TABATA KUMAKURA             42   F4044      118   F                        UNIVERSO TEAN            01:45:03
+        698      21099   CILA MARIA LIMA DA SILVA                36   F3539      102   F                                                 01:45:08
+        699      22441   ERIKA FUJYAMA                           37   F3539      103   F                                                 01:45:09
+        700      21220   ADA APARECIDA OLIVEIRA                  24   F2024      47    F                        UNIPAR                   01:45:10
+        701      21803   RUTE DE OLIVEIRA COSTA                  34   F3034      92    F                        CEPE2004                 01:45:10
+        702      22374   VIVIANE BATISTA DA S.TERCIOTTE          36   F3539      104   F                                                 01:45:12
+        703      22202   NUBIA C LISBOA FERNANDES                39   F3539      105   F                                                 01:45:14
+        704      22160   ELISANGELA IGNES CANTANTE DE S          28   F2529      84    F                        SHOWA 1                  01:45:15
+        705      21059   LIZETE MARIA OLIVEIRA R VARGA           47   F4549      65    F                        NELSON E ASS ESPORTIVA   01:45:23
+        706      22328   CRISTIANE COSTA SILVA                   20   F2024      48    F                                                 01:45:26
+        707      21294   ODETE ROANDO                            54   F5054      39    F                                                 01:45:33
+        708      21998   NORMA LANE DALTRON                      46   F4549      66    F                        CORRE                    01:45:33
+        709      22220   MAYRA GYSELIA COSTA LEAO                48   F4549      67    F                                                 01:45:34
+        710      22242   LOWENA LEAO ELMADJIAN                   16   F1619      35    F                                                 01:45:34
+        711      21743   MARIA APARECIDA TORRES DA SILV          29   F2529      85    F                                                 01:45:37
+        712      22091   LUCIANA THOMAZINI ARAUJO                28   F2529      86    F                                                 01:45:37
+        713      21312   SOLANGE CORREA VEGA                     28   F2529      87    F                                                 01:45:38
+        714      22126   LUCIANA PIRANI                          28   F2529      88    F                                                 01:45:40
+        715      21621   NADIR RODRIGUES CARDOSO DA LUZ          43   F4044      119   F                        ASCORT CLUBE JOVEM       01:45:48
+        716      21843   LIVIA CAROLINA VIEIRA DA SILVA          18   F1619      36    F                        C. REGATAS RIB.PRETO     01:45:49
+        717      21583   CARLA LOPES COSTA                       25   F2529      89    F                        PAO DE ACUCAR            01:45:57
+        718      21329   TALILA SOARES DA COSTA                  18   F1619      37    F                        PAULICEIA                01:45:58
+        719      21204   FLAVIAVE P C GRAGNANELLO SILVA          20   F2024      49    F                                                 01:46:01
+        720      21781   RITA DE CASSIA MAYKOT                   44   F4044      120   F                                                 01:46:08
+        721      21986   ROSEMEIRE DA SILVA GARCIA               28   F2529      90    F                        ELI LILLY                01:46:11
+        722      21277   JACIRA DE ANDRADE BECK BOTTION          57   F5559       8    F                        SAO PAULO FC             01:46:12
+        723      21885   MELINA PEN PARREIRA                     30   F3034      93    F                        ACORG-GUARUJA            01:46:18
+        724      21065   SOLANGE SINZINGER                       40   F4044      121   F                        RENNER JK                01:46:24
+        725      22003   CARLA CICO                              41   F4044      122   F                        BRASIL TELECOM           01:46:29
+        726      21203   NEUZA DA SILVA BALDUINO                 41   F4044      123   F                        CASA DA CRIANCA          01:46:32
+        727      22260   ANA LUCIA ROSSIN                        23   F2024      50    F                        MEGA COMPANY             01:46:32
+        728      22372   SONIA YURICO OMORI DEL DEBOIO           44   F4044      124   F                                                 01:46:35
+        729      21797   SUZETE LUSTOSA DE MOURA                 38   F3539      106   F                                                 01:46:47
+        730      21700   INGRID GARCIO SILVA                     26   F2529      91    F                        TECHLIX TEM ESPORTE      01:46:54
+        731      22052   YUMI MASUKAWA                           32   F3034      94    F                                                 01:46:58
+        732      21955   ANA DILENE RODRIGUES                    30   F3034      95    F                                                 01:46:59
+        733      21416   MARIA SHIRLENE DE LORENA                43   F4044      125   F                        GAROTAS DO PQ.           01:47:00
+        734      22367   LETICIA ITO                             39   F3539      107   F                        NRICE                    01:47:00
+        735      21835   NILZA MARIA DIAS PENHA                  40   F4044      126   F                                                 01:47:01
+        736      21580   ANA MARIA DA COSTA                      42   F4044      127   F                        PAO DE ACUCAR            01:47:02
+        737      22125   REGINA KIOMI TAKAHIRA                   32   F3034      96    F                                                 01:47:02
+        738      21215   REGINA YUMI SAITO                       32   F3034      97    F                        RUNNER PERFORMANCE       01:47:16
+        739      21370   MARILENE DA SLVA XAVIER                 36   F3539      108   F                        ADVALDO CARDOSO NEVES    01:47:26
+        740      22349   CECILIA SERAVALLI                       17   F1619      38    F                        ASS ESP CLASSISTA BASF   01:47:27
+        741      22450   DANIELA SEIXAS                          22   F2024      51    F                        MIZUKI                   01:47:27
+        742      21410   NEUSA CEZAR DA SILVA                    51   F5054      40    F                        GAROTAS DO PQ.           01:47:30
+        743      22101   MARGARETE FARIA GOMES                   40   F4044      128   F                                                 01:47:31
+        744      21798   MARIA ALICE ZIMMERMANN                  34   F3034      98    F                                                 01:47:34
+        745      21633   LORENZA MACHICADO COARITE               19   F1619      39    F                                                 01:47:35
+        746      21223   EUNICE DOS SANTOS IAIZZO                61   F6064       3    F                        PIRATININGA              01:47:41
+        747      21140   LUCIA TERUI                             28   F2529      92    F                                                 01:47:43
+        748      21632   SIMONE APARECIDA DE SOUZA               20   F2024      52    F                                                 01:47:52
+        749      21762   SUELI APARECIDA GOMES SALLA             33   F3034      99    F                        CELT/S.DOMINGOS SAUD     01:47:52
+        750      22501   FLORA PEREIRA DA SILVA                  59   F5559       9    F                                                 01:47:55
+        751      21905   MAURA LUCI ALVES DE OLIVEIRA            44   F4044      129   F                        EPAS / LITORAL SERV      01:47:57
+        752      21750   MARIA HELENA FERREIRA DA SILVA          18   F1619      40    F                                                 01:48:11
+        753      22238   LINDALVA COELHO LIMA E SILVA            52   F5054      41    F                        ABRAVA-DF                01:48:12
+        754      21440   ALESSANDRA PECIUKONIS                   28   F2529      93    F                        CRED CLUBE ADC           01:48:14
+        755      21441   RENATA MENDES                           24   F2024      53    F                        CRED CLUBE ADC           01:48:14
+        756      22057   GILDA DA SILVA CRUZ                     57   F5559      10    F                        ASSOCIACAO SABESP        01:48:16
+        757      22058   ARLETE MITJUKO SHIRAYAMA                35   F3539      109   F                        EQUIPE 100               01:48:16
+        758      21467   ROSA RUAS                               39   F3539      110   F                        PINHEIRENSE              01:48:21
+        759      21227   FABIANA MAGALHAES PEREIRA               30   F3034      100   F                        ATLETAS DE CRISTO        01:48:24
+        760      21385   JORGINA BARBOSA DE OLIVEIRA             31   F3034      101   F                        MARCAR VEICULOS          01:48:28
+        761      22046   MARIA JOSE DA SILVA DE SOUZA            41   F4044      130   F                                                 01:48:28
+        762      21865   MARGARETH YOSHIDA BORGHI                37   F3539      111   F                        ACADEMIA RUSH            01:48:30
+        763      22168   FABIOLA BRUNA                           29   F2529      94    F                        SIRIO                    01:48:30
+        764      22054   MARIA CRISTINA AMARAL RAUH              46   F4549      68    F                                                 01:48:33
+        765      21886   MARCIA DE LIMA SANTOS                   36   F3539      112   F                        ADAUTO DOMINGUES         01:48:35
+        766      22449   ALMIRA CASTILHOS DE LIMA                64   F6064       4    F                                                 01:48:37
+        767      20304   ADRIANA MARMO                           36   F3539       -    F   E                                             01:48:40
+        768      21265   NANCI RODRIGUES CORREGEDOR              45   F4549      69    F                        BANCO BNL BRASIL         01:48:41
+        769      21902   NATALIA DA SILVA GITTI                  18   F1619      41    F                                                 01:48:41
+        770      22174   SILVANA LIMA GORNIAK                    43   F4044      131   F                                                 01:48:41
+        771      22167   JOSEFA ANDRADE MADUREIRA                56   F5559      11    F                        EQUIPE 100               01:48:42
+        772      21903   SONIA MARIA RONCON DIAS                 51   F5054      42    F                                                 01:48:44
+        773      22124   LUCIANA CAMPOS MENDES                   36   F3539      113   F                                                 01:48:47
+        774      22147   MARIA DO CARMO CAMPOLINA BARBO          43   F4044      132   F                        MINAS TENIS CLUBE        01:48:48
+        775      21714   ANA LUCIA DE LIMA COIMBRA               27   F2529      95    F                        AABB - SP                01:48:51
+        776      22439   IVANNA FABIANI                          34   F3034      102   F                                                 01:48:52
+        777      21098   FRANCINEIDE F DA FONSECA                34   F3034      103   F                                                 01:48:58
+        778      21347   MARIA APARECIDA MANRIQUE                48   F4549      70    F                        RIO PEDRENSE             01:48:58
+        779      22394   SILVIA MARIA B L COSENTINO              21   F2024      54    F                                                 01:48:58
+        780      21111   ANA PAULA DE ANDRADE                    22   F2024      55    F                                                 01:49:07
+        781      21509   ELISA GONZALES GIL GUILLEM              47   F4549      71    F                        LINEA                    01:49:08
+        782      22166   MERLE ROSE SCHINDLER SCARAMELL          47   F4549      72    F                        ACORT                    01:49:10
+        783      21806   ZENILDE TELES DOS SANTOS CARMO          47   F4549      73    F                        ACORG-GUARUJA            01:49:16
+        784      22405   MARIA DO SOCORRO C VIEIRA               37   F3539      114   F                                                 01:49:17
+        785      22444   ANA MARIA DOS SANTOS VIEIRA             34   F3034      104   F                                                 01:49:19
+        786      22454   IRACYR MARIA LIMA                       44   F4044      133   F                        TURMA DO BAIANO          01:49:31
+        787      21431   EDINAR DE JESUS DA SILVA                36   F3539      115   F                                                 01:49:32
+        788      21761   MIRIAM APARECIDA GIOVANARDI             46   F4549      74    F                                                 01:49:35
+        789      21250   ERICA LOUREIRO GONCALVES                24   F2024      56    F                                                 01:49:39
+        790      22335   WALKIRIA BLANCO MAGNABOSCO              33   F3034      105   F                        RUNNER ACADEMIA          01:49:39
+        791      21897   MARIA ANGELINA SILVA                    43   F4044      134   F                        S.M.E. RIBEIRAO PRET     01:49:40
+        792      21517   EULILENE CHAVES LIMA                    29   F2529      96    F                                                 01:49:46
+        793      22236   ELIZABETH KAZUKO ASHIKAWA               31   F3034      106   F                                                 01:49:46
+        794      21592   FRANCISCA GONCALVES DE SOUSA            35   F3539      116   F                        PAO DE ACUCAR            01:49:47
+        795      21748   TANIA DA SILVA SANTOS                   43   F4044      135   F                        EMBRATEL                 01:49:48
+        796      21935   GIANE HENRICI E SILVA                   35   F3539      117   F                                                 01:49:56
+        797      21707   MARIA DO CARMO QUEIROZ                  68   F6569       3    F                        SIMPOL  RECIFE           01:50:11
+        798      22467   ISAURA GONCALVES DA SILVA               42   F4044      136   F                        RIBEIRAO PIRES FUTEBOL   01:50:14
+        799      21393   ROSANA M DE CABRAL                      32   F3034      107   F                        ADC BASF                 01:50:17
+        800      21127   SALETE FATIMA DA SILVA                  29   F2529      97    F                                                 01:50:19
+        801      21763   MARIANE CORBETTA DA SILVEIRA            41   F4044      137   F                                                 01:50:20
+        802      21785   MARIA CRISTINA BUENO DA SILVA           43   F4044      138   F                        EQUIPE NAATIVA           01:50:25
+        803      22294   ROSEMEIRE CARDOSO DE OLIVEIRA           25   F2529      98    F                        EQUIPE NATIVA            01:50:25
+        804      22212   SABRINA TORRES LAMAITA                  25   F2529      99    F                        SUPERMERCADO DO MOACYR   01:50:32
+        805      21473   RUTE RODRIGUES DA SILVA                 38   F3539      118   F                                                 01:50:41
+        806      22183   LUANA MEZZENA                           23   F2024      57    F                                                 01:50:44
+        807      21747   MARINA RIGA                             28   F2529      100   F                                                 01:50:47
+        808      22297   VANIA ROZINHOLI                         31   F3034      108   F                                                 01:50:52
+        809      22442   ELIDERCIA SIMONI                        59   F5559      12    F                                                 01:50:54
+        810      21183   TANIA TOMOMI OKAMURA                    30   F3034      109   F                                                 01:51:04
+        811      22291   GIGLIOLA LILIAN DECARLI                 21   F2024      58    F                                                 01:51:07
+        812      21184   ANDREIA CRISTINA DE ALMEIDA             26   F2529      101   F                                                 01:51:13
+        813      22001   ANA CAROLINA CHIEREGATI                 29   F2529      102   F                        SKYWALKER                01:51:16
+        814      22208   MARIZA APARECIDA MONTANARI              35   F3539      119   F                                                 01:51:18
+        815      21077   MARCIA CASARINI                         31   F3034      110   F                        ACADEMIA OXIGENIO        01:51:23
+        816      21533   MARIA VILCA C.FREITAS                   49   F4549      75    F                        HP                       01:51:30
+        817      22137   GISELE ANTUNES NADER                    29   F2529      103   F                                                 01:51:34
+        818      22283   REGINA DO NASCIMENTO                    39   F3539      120   F                                                 01:51:36
+        819      21080   ROMILDA PIMENTEL ROCHA                  45   F4549      76    F                                                 01:51:39
+        820      22448   MARIA DA SILVA BEZERRA                  57   F5559      13    F                                                 01:51:40
+        821      22019   CLEUSA MARIA RASPANTINI PELLEG          47   F4549      77    F                                                 01:51:41
+        822      21558   KEIKO MARIA SAMPEI                      41   F4044      139   F                        PA CLUB                  01:51:49
+        823      22430   MARTA DA CONCEICAO                      33   F3034      111   F                                                 01:51:58
+        824      21003   MARIA JOSE ROCHA                        48   F4549      78    F                                                 01:51:59
+        825      21142   MARIA DO CARMO FERREIRA                 61   F6064       5    F                        COORPORE                 01:52:02
+        826      21267   WILCE M DE SOUZA MACIEL                 51   F5054      43    F                        BANCO BNL BRASIL         01:52:05
+        827      21236   EVANIR DE LOUDER SANTOS RANGEL          45   F4549      79    F                        E C TAVARES              01:52:08
+        828      22408   MARIA LUCIA MENDES GUIMARAES            48   F4549      80    F                                                 01:52:11
+        829      22062   LORENA LIMA NASCIMENTO                  27   F2529      104   F                                                 01:52:12
+        830      22171   LUCIMARA FERREIRA MAHOU                 39   F3539      121   F                                                 01:52:16
+        831      22409   AURORA BARROS                           50   F5054      44    F                                                 01:52:21
+        832      21281   APARECIDA CONCEICAO MARQUES             50   F5054      45    F                                                 01:52:26
+        833      22088   SILVIA MARINA DEL COL                   45   F4549      81    F                                                 01:52:28
+        834      21804   LEUDES PAULA DO NASCIMENTO.             34   F3034      112   F                        ACORG-GUARUJA            01:52:29
+        835      22301   MARIA GUADALUPE LAS CASAS DO V          59   F5559      14    F                        TAM                      01:52:36
+        836      21581   ANGELICA ALMEIDA BARROS                 41   F4044      140   F                        PA CLUB                  01:52:37
+        837      21588   ELZA SENA GALVAO                        45   F4549      82    F                                                 01:52:38
+        838      22400   ELIETE DE LIMA AMARAL                   36   F3539      122   F                                                 01:52:40
+        839      21983   FATIMA OTAVIANA DE CASTRO               46   F4549      83    F                                                 01:52:46
+        840      22200   DEUSA MARIA SAMU                        35   F3539      123   F                        SEARA BENDITA            01:52:51
+        841      21439   FERNANDA  MENDES                        24   F2024      59    F                        CRED CLUBE               01:52:53
+        842      22039   STAMATIA KOULIOUMBA                     31   F3034      113   F                        TULI & LULI              01:53:02
+        843      21940   RENATA CARVALHO MUCILO SAITO            33   F3034      114   F                        AVULSO                   01:53:06
+        844      21916   LISETE GUIMARAES AUER VENTURA           48   F4549      84    F                                                 01:53:07
+        845      21382   EDENIR THEODORO                         43   F4044      141   F                                                 01:53:10
+        846      22410   ESMERALDA DE OLIVEIRA                   52   F5054      46    F                                                 01:53:13
+        847      21577   ALICE DE CARVALHO ALENCAR               28   F2529      105   F                                                 01:53:20
+        848      22170   PAULA DA COSTA AGUIAR CRESPI            38   F3539      124   F                        SIRIO RUN FOR LIFE       01:53:26
+        849      21303   JUSSARA RIBEIRO LOPES                   20   F2024      60    F                        AVULSO                   01:53:28
+        850      22406   ANDREA RIBEIRO NEZI                     23   F2024      61    F                        RIO FELICIDADE           01:53:30
+        851      22514   MARIA ISIS MIRANDA RIVELLI              34   F3034      115   F                        ASS. RECREATIVA PRADA    01:53:34
+        852      22253   MAYSA EREMITH JARDIM                    40   F4044      142   F                        E C TAVARES              01:53:38
+        853      21094   ANNA CRISTINA CAFARO DRISCOLL           45   F4549      85    F                        PINHEIROS SPORT CLUB     01:53:40
+        854      21041   KATIA DA SILVA FERREIRA                 24   F2024      62    F                                                 01:53:42
+        855      21896   ANA MARIA GONCALVES                     38   F3539      125   F                                                 01:53:42
+        856      21993   SILDE BENEDETTE WAGNER                  50   F5054      47    F                                                 01:53:43
+        857      22548   MONICA RAMOS DE ARAUJO                  25   F2529      106   F                                                 01:53:43
+        858      22163   MIRIAN RIBEIRO FERREIRA                 33   F3034      116   F                                                 01:53:45
+        859      21562   TAIS ANDREA BARBOSA                     30   F3034      117   F                        PA CLUB                  01:53:47
+        860      21308   ELEIDE ALVES DA SILVA                   41   F4044      143   F                        EQUIPE PAQUEMOO          01:53:57
+        861      22207   MARILEI DA SILVA COELHO                 24   F2024      63    F                                                 01:54:05
+        862      21608   VALERIA NUNES MARINHO DA SILVA          33   F3034      118   F                                                 01:54:13
+        863      22481   CARMEN LUCIA RIBEIRO BARRETO            45   F4549      86    F                                                 01:54:15
+        864      21222   TEKO TSUKADA SHIMABUKURO                64   F6064       6    F                        PIRATININGA              01:54:17
+        865      21166   MARISA IMAIZUMI                         45   F4549      87    F                                                 01:54:23
+        866      21437   GABRIELA CIRINO AYRES                   22   F2024      64    F                                                 01:54:27
+        867      21219   VERONICA DE JESUS OLIVEIRA              30   F3034      119   F                                                 01:54:43
+        868      21695   ADRIANA PICCIONI NALON                  37   F3539      126   F                                                 01:54:45
+        869      21040   YUKO KOBAYASHI                          50   F5054      48    F                                                 01:54:47
+        870      21919   DANIELLE GAVA MENDES                    24   F2024      65    F                        ACADEMIA MARE ALTA       01:54:52
+        871      21424   SIDINEIA ALVES DE SOUZA                 29   F2529      107   F                        PRISCO PALOMBO           01:55:00
+        872      21711   ELEN CRISTINA MORAES SCHELIGA           47   F4549      88    F                                                 01:55:06
+        873      21980   LUCIANA DIAS LIMA                       32   F3034      120   F                        EQUIPE ENDORFINA         01:55:06
+        874      21981   DANIELA RUGGIERI SALMERON               27   F2529      108   F                        EQUIPE ENDORFINA         01:55:06
+        875      21185   NEUSA MARIA RAMOS DA C PAES             49   F4549      89    F                        QG DOS TRAVADINHOS       01:55:16
+        876      21780   TATIANA CAMASMIE ABE                    24   F2024      66    F                                                 01:55:16
+        877      21696   IVONE DA SILVA PINHOL                   49   F4549      90    F                                                 01:55:19
+        878      22012   RITA DE CASSIA MADUREIRA PEREI          41   F4044      144   F                                                 01:55:31
+        879      22074   ANA STELA GALARDI DE MELLO              38   F3539      127   F                                                 01:55:31
+        880      21035   FRANCISCA BETANIA DE ANDRADE            39   F3539      128   F                                                 01:55:36
+        881      21209   ELIZETE CRISTINA DE ALMEIDA             35   F3539      129   F                        RUNNER PERFORMANCE       01:55:38
+        882      22361   ANDREA ALEXANDER DE BRITO               27   F2529      109   F                                                 01:55:42
+        883      21012   JANETE DAS NEVES I MACEDO               32   F3034      121   F                                                 01:55:47
+        884      22042   OLGA TIEMI SATO                         42   F4044      145   F                        ADC - INPE               01:55:51
+        885      21331   JENNI FALGEM                            15   F0015       2    F                                                 01:55:52
+        886      22466   ALAIDE VASSALO COSTA                    25   F2529      110   F                        RIBEIRAO PIRES FUTEBOL   01:55:52
+        887      21810   MARIA APARECIDA RIBEIRO                 43   F4044      146   F                        YOUNG TUOR               01:55:58
+        888      21191   VIVIANA PUPO NOGUEIRA MONTEIRO          40   F4044      147   F                        HIPICA CAMPINAS          01:56:01
+        889      22173   ROBERTA DOS SANTOS AMORIM               26   F2529      111   F                                                 01:56:01
+        890      22539   THAIS BRUNO GUTMANN                     48   F4549      91    F                                                 01:56:01
+        891      21887   MARIANA MARIA FRANCISCA                 54   F5054      49    F                        GREMETAL                 01:56:04
+        892      21230   ANA MARIA BARROS RIBEIRO                34   F3034      122   F                                                 01:56:08
+        893      21338   TOYOKO HIGA                             54   F5054      50    F                        JBS ASSESSORIA ESP.      01:56:11
+        894      21276   ANA MARIA DA SILVA                      48   F4549      92    F                        TOZE BEF CLUBE ABC       01:56:16
+        895      21506   JOSEFA SEVERINA DA SILVA                56   F5559      15    F                                                 01:56:18
+        896      21021   LUCI MARIA DE ALMEIDA                   50   F5054      51    F                        E.C.TAVARES              01:56:19
+        897      22225   DALVA MARIA RENSI SABINO                38   F3539      130   F                        VIDATIVA                 01:56:33
+        898      21766   REGINA CELIA VIEIRA DE MELO             34   F3034      123   F                        TOP NOTCH TRAINING       01:56:40
+        899      22230   ADRIANA FERREIRA                        33   F3034      124   F                        UNAFISCO/STS             01:56:44
+        900      22195   TERESINHA JOANA DOSSIN                  54   F5054      52    F                                                 01:56:49
+        901      22319   MARCIA CRISTINE BARROS GALVIS           38   F3539      131   F                                                 01:56:53
+        902      22089   SANDRA MARA DEL COL                     54   F5054      53    F                                                 01:57:03
+        903      21421   VANIA CAMPOS DOS SANTOS                 32   F3034      125   F                                                 01:57:18
+        904      22243   MARCIA DOS SANTOS FERREIRA COE          33   F3034      126   F                        BF                       01:57:18
+        905      21362   THAISSA DANTAS PESSOA                   21   F2024      67    F                                                 01:57:21
+        906      22304   VERA BARUDI CAVICCHIOLI                 65   F6569       4    F                                                 01:57:29
+        907      22191   EMILIA YOSHIKO TANAKA ISHIZAKI          42   F4044      148   F                        CCR TINTAS               01:57:42
+        908      21491   ANA LENI FOGACA DOS SANTOS              37   F3539      132   F                                                 01:57:43
+        909      21463   ELIANE PARIS SANTOS FREITAS             41   F4044      149   F                                                 01:57:45
+        910      22457   ANA PAULA RODRIGUES BRACAGLIA           33   F3034      127   F                                                 01:57:45
+        911      21770   ANGELITA KAZUYO MAEDA                   27   F2529      112   F                                                 01:57:48
+        912      21135   TANIA APARECIDA FERREIRA                28   F2529      113   F                                                 01:57:50
+        913      21906   ESTELITA DA CONCEICAO ALCION            38   F3539      133   F                                                 01:57:58
+        914      21745   BERNADETE FREITAS DE LIMA               26   F2529      114   F                                                 01:58:15
+        915      21573   MARIA VIRGINIA FAKHANY                  51   F5054      54    F                        PAO DE ACUCAR            01:58:17
+        916      22390   MARIA ISABEL GUALTIERI BRITO            34   F3034      128   F                                                 01:58:17
+        917      22506   INES BEZERRA SOARES                     61   F6064       7    F                        CORPORE / SANO           01:58:18
+        918      21520   PALMIRA LUCIA HOFER ALMEIDA             45   F4549      93    F                                                 01:58:24
+        919      21359   MERCEDES DE MORAIS CARDOSO O            56   F5559      16    F                        CORDF                    01:58:25
+        920      22152   DIVANETE CONCEICAO SANTOS               54   F5054      55    F                                                 01:58:27
+        921      22320   LILIAN CARDOSO GOMES                    21   F2024      68    F                                                 01:58:29
+        922      21407   SONIA STEFANATO ALVARES                 48   F4549      94    F                        GAROTOS DO PQ.           01:58:31
+        923      21813   MARIA IOLANDA NICOLIELO MAIA            39   F3539      134   F                                                 01:58:31
+        924      21031   MARIA SOCORRO DA SILVA                  40   F4044      150   F                                                 01:58:39
+        925      21899   ALICE MIWAKO TABATA SHIMURA             44   F4044      151   F                        UNIVERSO TEAM            01:58:43
+        926      21593   GENTILEZA RODRIGUES T DA SILVA          29   F2529      115   F                        PA CLUB                  01:58:49
+        927      22381   VALDELICE DO CARMO SILVA                39   F3539      135   F                                                 01:58:55
+        928      21093   PAULA PEREIRA BRITO                     21   F2024      69    F                        ESPERIA                  01:59:03
+        929      21759   JANDIRA  REBELATTO                      46   F4549      95    F                                                 01:59:06
+        930      22209   ANA CRISTINA RODRIGUES                  22   F2024      70    F                                                 01:59:09
+        931      22114   TANIA HELENA DA S SOUZA                 44   F4044      152   F                        TRILOPEZ                 01:59:14
+        932      21428   GENY TIGNI FUKUHARA                     48   F4549      96    F                                                 01:59:15
+        933      21663   MARIA JOSE DOS SANTOS SILVA             44   F4044      153   F                        CONJUNTO NACIONAL;       01:59:18
+        934      22082   MONICA TAKEUTI CASTRO                   36   F3539      136   F                                                 01:59:23
+        935      21072   SILVIA LUCIANA DA SILVA                 30   F3034      129   F                                                 01:59:28
+        936      21107   FATIMA HELENA GENTIL                    36   F3539      137   F                        SASAKI SPORT             01:59:28
+        937      22060   MICHELLE RODRIGUES VIRGOLIM             25   F2529      116   F                                                 01:59:37
+        938      21629   ELAINE MARA BANDEIRA DOS SANTO          27   F2529      117   F                                                 01:59:39
+        939      21321   PATRICIA RODRIGUES  VISMARA             27   F2529      118   F                        ACADEMIA ATLANTIS S B C  01:59:44
+        940      22145   GISLEIDE MARLEI GUELERE                 32   F3034      130   F                                                 01:59:46
+        941      21133   SILVIA BRUNETI KAISER MATHIENS          47   F4549      97    F                                                 01:59:48
+        942      21086   MARGARIDA M S DAMICO                    50   F5054      56    F                                                 01:59:49
+        943      21559   ISABEL CAROLINA ZORZI DE MIRAN          43   F4044      154   F                        PA CLUB                  01:59:50
+        944      22391   MARIA CECILIA MOREIRA DA COSTA          45   F4549      98    F                                                 01:59:55
+        945      21729   VANIA MARIA SALGADO                     32   F3034      131   F                                                 02:00:00
+        946      22483   MARIA ELENA MOREIRA                     36   F3539      138   F                                                 02:00:05
+        947      21029   VERA LUCIA CAPPELLO CHIQUETO            50   F5054      57    F                        BRANCA FITNESS           02:00:06
+        948      21723   MARTA APARECIDA DE OLIVERA              32   F3034      132   F                                                 02:00:06
+        949      21596   GLAUCIA VERSIANI LUPORINI               40   F4044      155   F                        PA CLUB                  02:00:10
+        950      21484   MARIA DE LOURDES DA SILVA               40   F4044      156   F                                                 02:00:24
+        951      21751   ELVIRA MARGARETH DE OLIVEIRA            28   F2529      119   F                                                 02:00:29
+        952      21241   SIMONE COTIC                            39   F3539      139   F                                                 02:00:32
+        953      21969   MARLI DE ALMEIDA VENTURA                44   F4044      157   F                                                 02:00:37
+        954      21892   SHEILA CRISTINA DE SOUZA                29   F2529      120   F                                                 02:00:38
+        955      21034   ELMA FERREIRA DE SOUSA                  35   F3539      140   F                        AUTONOMO                 02:00:39
+        956      22007   CELSI APARECIDA MOTTA RODRIGUE          41   F4044      158   F                        ENGECEL                  02:00:39
+        957      21360   GLORINEIDE MOREIRA LEONEZ               35   F3539      141   F                        CORDF                    02:00:46
+        958      22066   MARA LAXA                               44   F4044      159   F                        MARCOS PAULO REIS        02:00:48
+        959      22218   RONEIDE RODRIGUES DA S TAVARES          30   F3034      133   F                                                 02:00:50
+        960      21314   MARIA DE CARVALHO SANTOS                19   F1619      42    F                                                 02:00:53
+        961      22497   LINDAURA MARIA VELLOSO                  68   F6569       5    F                        ILHA                     02:00:53
+        962      22109   ROSEMEIRE BENEDITA NOGUEIRA CO          36   F3539      142   F                                                 02:00:57
+        963      21987   REGINA CHAVES SOARES BELCHIOR           25   F2529      121   F                        ELI LILLY                02:00:58
+        964      21162   SOFIA DUBOIS                            57   F5559      17    F                                                 02:00:59
+        965      21053   MARCIA MACEDO                           32   F3034      134   F                                                 02:01:00
+        966      22310   ANA MARIA DOS SANTOS                    39   F3539      143   F                                                 02:01:03
+        967      22240   DANIELE MARIA RENSI SABINO              31   F3034      135   F                        VIDATIVA                 02:01:05
+        968      21169   SIMONE KINUGAWA CABARITTI               36   F3539      144   F                        SIRIO / RUN FOR LIFE     02:01:07
+        969      21879   REIGIANE SANTANA DE FRANCA CE           31   F3034      136   F                                                 02:01:13
+        970      21868   ISABEL TEREZINHA DA SILVA RAIM          48   F4549      99    F                        AABB-CAC                 02:01:14
+        971      21706   ANA LIDIA MARINHO DE LIMA               36   F3539      145   F                                                 02:01:21
+        972      22226   MARIA DE FATIMA RIBEIRO                 42   F4044      160   F                        UNAFISCO/STOS            02:01:21
+        973      22090   NAZA HIRATA                             61   F6064       8    F                                                 02:01:24
+        974      22445   LINDALVA DOS SANTOS  ZANOONATO          38   F3539      146   F                                                 02:01:27
+        975      21957   MARLEISE SANTOS MATHIAS                 47   F4549      100   F                        VASCO DA GAMA            02:01:37
+        976      22229   ROSELI DOS SANTOS REIS                  44   F4044      161   F                        UNAFISCO/STS             02:01:37
+        977      21036   EDNA FERREIRA DE SOUSA                  36   F3539      147   F                                                 02:01:40
+        978      22108   ELVIRA SOUZA DE SAMPAIO                 50   F5054      58    F                                                 02:01:45
+        979      22032   REGINA CELIA B DOS S CARNEIRO           35   F3539      148   F                                                 02:01:46
+        980      21582   ARMINDA DA ROCHA                        47   F4549      101   F                                                 02:01:48
+        981      21658   RITA DE FATIMA S TELES                  43   F4044      162   F                                                 02:01:48
+        982      22131   TANIA APARECIDA CHAGAS SOARES           50   F5054      59    F                                                 02:01:52
+        983      21735   MARIA APARECIDA LUCAS MOREIRA           37   F3539      149   F                        ACORG - GUARUJA          02:02:00
+        984      22142   CYNTIA LYKA TABUTI                      27   F2529      122   F                        -                        02:02:00
+        985      21615   NEUSA SANTOS DO AMARAL                  59   F5559      18    F                        DECRIM                   02:02:04
+        986      21304   ANA LUCIA DA SILVA                      23   F2024      71    F                                                 02:02:14
+        987      21180   ROSANGELA RODRIGUES DE ALMEIDA          41   F4044      163   F                                                 02:02:27
+        988      21246   LIGIA TAYAR                             47   F4549      102   F                        ESPORTE CLUBE PINHEIROS  02:02:29
+        989      21126   NORMA LANFRANCHI DE MARTIN              67   F6569       6    F                        VITALLITA-JIVENTOS       02:02:30
+        990      21561   TATIANE SOARES DA SILVA                 21   F2024      72    F                        PA CLUB                  02:02:48
+        991      21796   MARTA CRISTINA SILVEIRA                 33   F3034      137   F                                                 02:02:54
+        992      21775   MARIA DA PAZ OLIVEIRA                   51   F5054      60    F                                                 02:02:58
+        993      21401   MARIA HELENA CASTRO LIMA                43   F4044      164   F                                                 02:03:00
+        994      21011   MARIA ROSINEIDE ALVES                   34   F3034      138   F                        AVULSO                   02:03:02
+        995      21995   MARIANA PIRES DA LUZ                    21   F2024      73    F                                                 02:03:02
+        996      22016   CAROLINA JUZWIAK DA CUNHA SILV          24   F2024      74    F                                                 02:03:02
+        997      22413   MUSA GOMES LEPLETIER                    35   F3539      150   F                        VARIG S/A                02:03:13
+        998      21600   ELISABETE MONTEIRO DE ARAUJO F          50   F5054      61    F                                                 02:03:19
+        999      22130   SONIA REGINA DAGOSTO TOLEDO             48   F4549      103   F                                                 02:03:19
+        1000     22495   ISABEL DOS SANTOS DE JESUS              51   F5054      62    F                                                 02:03:27
+        1001     22463   ANA PAULA BARBOSA                       31   F3034      139   F                        POLICIA MILITAR          02:03:30
+        1002     21753   CLAUDIA ROSANA TREVISANI CORRE          39   F3539      151   F                                                 02:03:32
+        1003     21373   DAYANE MIRANDA FABIANO MATTOS           27   F2529      123   F                        MIZUTA                   02:03:41
+        1004     21482   LIDIA LOPES DA SILVA PEREIRA            61   F6064       9    F                        BOLAO                    02:03:45
+        1005     21483   SILVANA FERNANDES DOS SANTOS            29   F2529      124   F                        BOLAO                    02:03:45
+        1006     22314   CLAUDIA VALENTINA FELISBERTO            31   F3034      140   F                                                 02:03:47
+        1007     21556   LILIA GENI ANSELMO DE LIMA              30   F3034      141   F                        PA CLUBE                 02:03:53
+        1008     22020   LUCIANE CANDELORO                       30   F3034      142   F                                                 02:03:53
+        1009     22206   PRISCILA NAPOLITANO DOS SANTOS          25   F2529      125   F                        NAPOLITANO               02:03:53
+        1010     21532   MILENE ANDRADE WAGNER                   36   F3539      152   F                        BASICA                   02:03:57
+        1011     21244   DELZUITA DE SOUSA COSTA LEITE           51   F5054      63    F                                                 02:04:02
+        1012     21384   MARILZA DE CASSIA SALLES                37   F3539      153   F                                                 02:04:44
+        1013     21997   SUELI MARIA DE BARROS LEITE             45   F4549      104   F                                                 02:04:50
+        1014     21435   ANA CLAUDIA DINIZ TAKAHASHI             22   F2024      75    F                                                 02:04:52
+        1015     21589   ENI REGINA FERREIRA                     37   F3539      154   F                        PA CLUB                  02:04:54
+        1016     22104   MARINETE FERREIRA DA SILVA              40   F4044      165   F                                                 02:05:04
+        1017     21676   MARI OSCELE CUSTODIO                    32   F3034      143   F                        SAFRA CLUBE              02:05:10
+        1018     22327   HE XIU LAN                              49   F4549      105   F                                                 02:05:18
+        1019     21284   VANILDA SALLES GOMES                    37   F3539      155   F                        ASCOBRAPA                02:05:23
+        1020     21015   LEONISA ALVES DE LIMA                   54   F5054      64    F                        REGATAS TIETE            02:05:28
+        1021     21309   EDNA AKEMI NAKAMA                       43   F4044      166   F                        EQUIPE PAQUEMOO          02:05:47
+        1022     22323   TAIS GONCALVES F. SALVADOR              21   F2024      76    F                                                 02:05:52
+        1023     21028   MARIA MONICA DA SILVEIRA                45   F4549      106   F                                                 02:05:54
+        1024     21805   ZENAIDE CRUZ                            37   F3539      156   F                        CEPE2004                 02:05:54
+        1025     21088   EDILENA SHINTANI AZEVEDO                29   F2529      126   F                        AVULSO                   02:05:56
+        1026     22045   CINTIA IUMI YONAMINE                    31   F3034      144   F                        MEIBUKAN                 02:05:56
+        1027     21089   LUCIANA KAORI SHINTANI                  17   F1619      43    F                        AVULSO                   02:05:58
+        1028     21808   MARIA CRISTINA PASSOS GIANNINI          41   F4044      167   F                        FMG                      02:06:08
+        1029     21490   ROSELI ESPIGARES SANCHEZ                43   F4044      168   F                        EPM                      02:06:09
+        1030     22028   TAMARA RINALDI                          27   F2529      127   F                                                 02:06:10
+        1031     21231   CONCEICAO BUDRI COCENZO                 56   F5559      19    F                                                 02:06:16
+        1032     22261   SANDRA REGINA DA SILVA                  30   F3034      145   F                                                 02:06:34
+        1033     21226   CLEUZA DA SILVA KO                      45   F4549      107   F                                                 02:06:36
+        1034     22470   MIRIAM SEGRE ROSENFELD                  41   F4044      169   F                                                 02:06:38
+        1035     22321   VERONICA RIBEIRO CORREIA                28   F2529      128   F                                                 02:06:56
+        1036     21450   MICHELLE CRISTINE SAAD H BAND           42   F4044      170   F                        E YASMIM                 02:06:59
+        1037     22523   LAIS DO NASCIMENTO SALVADOR             33   F3034      146   F                                                 02:06:59
+        1038     21374   PATRICIA FELDMAN                        25   F2529      129   F                                                 02:07:08
+        1039     21528   EDNA GONZALES FERNANDEZ                 59   F5559      20    F                        BASICA                   02:07:14
+        1040     21888   MARIA DE MELLO MATTOS                   68   F6569       7    F                        CAC-CURITIBA             02:07:15
+        1041     21044   MARIA APARECIDA DE LIMA                 43   F4044      171   F                        AVULSO                   02:07:26
+        1042     20062   ESTELA NOGUEIRA                         65   F6569       -    F   E                    PARAGUAY                 02:07:30
+        1043     21659   DIRCE FRANCISCA COSTA                   51   F5054      65    F                        ADPM / SOROCABA          02:07:31
+        1044     22080   LUCIANA BALDACIN MARQUES                29   F2529      130   F                                                 02:07:44
+        1045     22398   DENISE SILVA FREITAS                    22   F2024      77    F                                                 02:08:10
+        1046     21432   MARIAINES AUTUNES MARTINS               30   F3034      147   F                                                 02:08:11
+        1047     21192   IDA SANTUCCI                            55   F5559      21    F                        HIPICA CAMPINAS          02:08:17
+        1048     21782   GRACIETE PORFIRIO DA SILVA              44   F4044      172   F                                                 02:08:23
+        1049     21465   MARIA TERESA NASTRI DE CARVALH          36   F3539      157   F                                                 02:08:24
+        1050     21585   DENISE CAMPOS                           32   F3034      148   F                        PA CLUB                  02:08:30
+        1051     22144   OLGA DE DEA SELAIDE                     77   F7099       3    F                                                 02:08:30
+        1052     21165   MARIA BENEDITA GALVAO                   63   F6064      10    F                                                 02:08:35
+        1053     21667   SUMIKO ARAI KAJIHARA                    47   F4549      108   F                        E C TAVARES              02:08:37
+        1054     21572   MARIA APARECIDA SILVA DE SOUZA          40   F4044      173   F                        PA CLUB                  02:08:41
+        1055     21934   ELAINE NUNES DA SILVA                   43   F4044      174   F                        ACORBA                   02:08:51
+        1056     21507   VILMA SANTIAGO                          59   F5559      22    F                        TURMA DO BAHIANO         02:09:10
+        1057     22305   ADALGISA BRITO RIBEIRO                  33   F3034      149   F                                                 02:09:14
+        1058     21521   MARIA APARECIDA B LEONARDO              46   F4549      109   F                                                 02:09:23
+        1059     21279   JOVINA MURTA DE ARAUJO                  42   F4044      175   F                                                 02:09:30
+        1060     21307   LEONILDIA DOS SANTOS RODRIGUES          50   F5054      66    F                                                 02:09:35
+        1061     20303   LUCINA MARIA M RATINHO                  58   F5559       -    F   E                                             02:09:39
+        1062     21740   CARLA VANESSA E SILVA MACEDO            28   F2529      131   F                                                 02:09:50
+        1063     21466   MARISA MARQUES COUTINHO                 50   F5054      67    F                                                 02:09:57
+        1064     22103   RAQUEL ALVES CONSTANTINO                43   F4044      176   F                                                 02:10:03
+        1065     22509   ANTONIA MARIA F DE S OLIVEIRA           57   F5559      23    F                                                 02:10:03
+        1066     22239   CLAUDIA FATIMA PANCINI ORTEGA           36   F3539      158   F                                                 02:10:06
+        1067     22423   LAIS LEMOS VIANA                        48   F4549      110   F                        HOTEL EXCELSIOR          02:10:13
+        1068     21005   DENISE APARECIDA Z BALDAN               37   F3539      159   F                        LABORATORIO FLEURY       02:10:14
+        1069     22322   MARIA INES RODRIGUES TELLES             42   F4044      177   F                                                 02:10:14
+        1070     21571   MARIA IVANETE JERONIMO DA COST          34   F3034      150   F                        PA CLUB                  02:10:15
+        1071     21578   ANA LUCIA DA SILVA SANTOS               37   F3539      160   F                        PAO DE ACUCAR            02:10:15
+        1072     21668   DARCI DE CAMARGO                        63   F6064      11    F                        E C. TAVARES             02:10:17
+        1073     22502   FLORIPES MOREIRA DOS SANTOS             37   F3539      161   F                                                 02:10:17
+        1074     21595   GISLENE APARECIDA DA SILVA              36   F3539      162   F                        PA CLUB                  02:10:20
+        1075     21734   CLAUDINETE SANTOS LINS                  39   F3539      163   F                        ACORG - GUARUJA          02:10:20
+        1076     21620   MARIA GRACIA BOTON PEREIRA              60   F6064      12    F                        ASCORT CLUBE JOVEM       02:10:24
+        1077     22278   NANCI GARRIDO BRUSCO CORDEIRO           60   F6064      13    F                                                 02:10:31
+        1078     21043   MARCIA SAYURI NAKANISHI                 25   F2529      132   F                                                 02:10:55
+        1079     22040   CRISTIANE TOMA                          25   F2529      133   F                                                 02:10:55
+        1080     21949   CIRENE PITA PIRES                       46   F4549      111   F                                                 02:11:07
+        1081     21971   ERMILINDA DE JESUS ALVES DOS S          37   F3539      164   F                        CURITIBA                 02:11:21
+        1082     21084   MARIA DO CARMO DAVILLA ORTIZ            61   F6064      14    F                        ATLETICO MARCORRER       02:11:35
+        1083     21604   DENILDA PEREIRA BEBIANO ASTOLF          33   F3034      151   F                                                 02:11:38
+        1084     21605   VALQUIRIA FERREIRA DA SILVA             36   F3539      165   F                                                 02:11:38
+        1085     22397   WALKIRIA BRITO RIBEIRO                  31   F3034      152   F                                                 02:11:38
+        1086     21032   NAIR CORDEIRO DOS S DA PAIXAO           35   F3539      166   F                                                 02:11:42
+        1087     21199   LIGIA HADDAD BARUQUE FARIAS             45   F4549      112   F                                                 02:11:47
+        1088     21248   JUDILENE CORDEIRO DE ARRUDA             51   F5054      68    F                                                 02:12:15
+        1089     21769   SANDRA REGINA DE OLIVEIRA DE S          44   F4044      178   F                                                 02:12:15
+        1090     21042   MARIA CICERA GOMES LIMA                 50   F5054      69    F                                                 02:12:22
+        1091     21530   SANDRA FREIRE                           35   F3539      167   F                        HP                       02:12:33
+        1092     21541   REGINA HIGA SANTOS                      37   F3539      168   F                        HP                       02:12:34
+        1093     21153   ANA PAULA VOLPATO                       29   F2529      134   F                                                 02:12:36
+        1094     22002   ANGELIKA WINKLER                        46   F4549      113   F                                                 02:13:06
+        1095     22146   LINDALVA FREITAS HABARA                 63   F6064      15    F                                                 02:13:10
+        1096     21079   MARINA ESASHIKA CASAGRANDE              25   F2529      135   F                                                 02:13:55
+        1097     21366   CORA FERREIRA SILVA                     38   F3539      169   F                        CORDF                    02:13:55
+        1098     21560   TEREZA CRISTINA PAPA                    36   F3539      170   F                                                 02:14:22
+        1099     21228   EDITE SANTANA P GONCALVES               51   F5054      70    F                                                 02:14:27
+        1100     21048   DEBORA CRISTINA BONAZZI                 26   F2529      136   F                                                 02:14:32
+        1101     21480   ELAINE DE SOUZA PARAGUASSU              26   F2529      137   F                        EPERSONALTRAINER         02:15:07
+        1102     21519   RITA MARIA DA SILVA                     47   F4549      114   F                                                 02:15:30
+        1103     21020   DAMARIS DE SOUZA CAMARGO                23   F2024      78    F                                                 02:15:32
+        1104     21433   ELAINE CRISTINA PUCCI                   27   F2529      138   F                                                 02:16:17
+        1105     21976   MARINA ENEIDA QUEVEDO CARRILLO          43   F4044      179   F                                                 02:16:46
+        1106     21619   MARIA ROSA MONTEIRO                     54   F5054      71    F                        ASCORT CLUBE JOVEM       02:16:55
+        1107     21537   FABIOLA FERREIRA VALENTE                23   F2024      79    F                        BASICA                   02:16:59
+        1108     22043   CRISTIANA MARIA M DE CASTRO             32   F3034      153   F                                                 02:17:17
+        1109     21636   ELAINE ZAVAN                            40   F4044      180   F                                                 02:17:27
+        1110     22106   LIANE ISENSEE SABOYA DE SOUSA           43   F4044      181   F                                                 02:17:27
+        1111     21495   ANTONIA GINO                            51   F5054      72    F                                                 02:17:37
+        1112     21025   TOMICO MORE SAITO                       76   F7099       4    F                        ANASP                    02:18:08
+        1113     22287   BARBARA ALVES GARCEZ                    23   F2024      80    F                                                 02:18:23
+        1114     21129   DENISE RAMOS VILA NOVA                  45   F4549      115   F                                                 02:18:56
+        1115     22392   CRISTINA MINO  BISCAIA                  31   F3034      154   F                                                 02:19:32
+        1116     22432   RITA CAROLINA B. VILARIM                35   F3539      171   F                                                 02:19:40
+        1117     22431   MARIA APARECIDA THIAGO                  35   F3539      172   F                                                 02:19:41
+        1118     21534   THAIS DI LORENZO                        28   F2529      139   F                        HP                       02:20:02
+        1119     21068   MARCIA ROBLES                           32   F3034      155   F                                                 02:20:03
+        1120     21403   ISABEL PEREIRA MARQUES                  50   F5054      73    F                                                 02:20:42
+        1121     21674   DOLORES LAMELAS G FRANCHINI             40   F4044      182   F                        SAFRA CLUBE              02:20:44
+        1122     22123   VALERIA MOREIRA TRIBUNA ELIAS           41   F4044      183   F                                                 02:21:34
+        1123     21394   CELIA APARECIDA BARBOSA SILVA           24   F2024      81    F                        BNL                      02:21:46
+        1124     21460   NATYLLA KERCI AX BITTENCOUR             42   F4044      184   F                                                 02:21:58
+        1125     21462   MARIVANIA  PATRICIO DE ALMEIDA          28   F2529      140   F                                                 02:21:59
+        1126     22257   VALDETE COSTA PIVA SANTOS               41   F4044      185   F                        UNIV MOGI DAS CRUZES     02:22:03
+        1127     21812   MARLI HENCKES                           55   F5559      24    F                        CAC-CURITIBA             02:22:04
+        1128     22069   LUCIANA DE ABREU GAROFALO               36   F3539      173   F                                                 02:22:16
+        1129     21570   MARIA LAURA ALVES DE LIMA               34   F3034      156   F                                                 02:22:17
+        1130     21293   NAIR CELESTINO SOUZA                    48   F4549      116   F                        AVULSO                   02:22:28
+        1131     21442   LUCIA DE JESUS SANTANA                  52   F5054      74    F                                                 02:22:32
+        1132     21400   MARIA DE LOURDES O D SIQUEIRA           38   F3539      174   F                                                 02:22:36
+        1133     21716   PATRICIA DE LIMA COIMBRA GARCI          32   F3034      157   F                        AABB-SP                  02:23:47
+        1134     21275   MARIA ROSA AZEVEDO RIBEIRO              65   F6569       8    F                                                 02:23:50
+        1135     21201   CANDIDA RIBEIRO                         51   F5054      75    F                                                 02:23:58
+        1136     22006   ANA MARIA CAETANO DE LIMA               40   F4044      186   F                                                 02:24:05
+        1137     20311   STELLA PAULA FRANCHINI                  36   F3539       -    F   E                    UNIAO                    02:24:19
+        1138     22025   ROSINEIDE LEANDRO NASCIMENTO            27   F2529      141   F                                                 02:24:19
+        1139     20310   SUELY BEZERRA DE CARVALHO               34   F3034       -    F   E                    UNIAO                    02:24:20
+        1140     22399   ANDREA ALVES MACHADO                    27   F2529      142   F                                                 02:24:31
+        1141     21861   ANA CAROLINA BEJAR BARBOSA              24   F2024      82    F                                                 02:24:56
+        1142     21141   CELIA HORTA                             40   F4044      187   F                                                 02:25:33
+        1143     22358   KIYOKO KOHIGASHI                        59   F5559      25    F                                                 02:25:42
+        1144     21890   ELVIRA MARIA DE SOUZA                   57   F5559      26    F                                                 02:26:46
+        1145     21616   MARIA DA SOLIDADE SANTOS                44   F4044      188   F                                                 02:27:19
+        1146     21253   RUBIA MARIZA DE AZEVEDO SILVA           51   F5054      76    F                                                 02:27:31

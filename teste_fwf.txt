@@ -1,0 +1,10 @@
+Col.  Nr      Nome                            Ano     CCat    Categ   T.TOTAL         Equipe
+1     20005   OLIVERA JEVTIC                  (77)            F2024   0:51:35         FILA TEAM                     (REPUBLICA ESLOVACA  )
+2     20001   MARTHA TENORIO                  (67)            F3034   0:51:55         FILA INTERNACIONAL            (EQUADOR             )
+3     20007   JANE WANJIKU NGOTHO             (69)            F2529   0:52:42         PUMA                          (KENYA               )
+4     20034   ERIKA ALEJANDRO O DE LA FUENTE  (76)            F2024   0:53:33         CHILE                         (SANTIAGO            )
+5     20014   CLEUZA MARIA IRINEU             (65)            F3034   0:53:56         FILA CASCAVEL                 (LONDRINA            )
+6     20008   MARCIA NARLOCH                  (70)            F2529   0:54:35         ARPOADOR                      (RIO DE JANEIRO      )
+7     20030   WILMA GUERRA                    (67)            F3034   0:54:59         REEBOK ECUADOR                (                    )
+8     20011   ROSANGELA RAIMUNDA P FARIA      (75)            F2024   0:55:08         ASICS FUNILENSE SCS           (                    )
+9     20010   PETROVA LIOVDMILA               (68)            F3034   0:55:47         RUSSIA                        (                    )
