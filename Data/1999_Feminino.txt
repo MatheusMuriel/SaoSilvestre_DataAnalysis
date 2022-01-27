@@ -1,3 +1,4 @@
+Col.  Nr    Nome                           Ano CCat Categ T.TOTAL         Equipe
     1     3 LYDIA CHEROMEI                 (77)     F2024 0:51:29         QUENIA                        (                    )
     2     7 DELILLAH ASIAGO                (77)     F2024 0:52:45         QUENIA                        (                    )
     3     8 ESTHER KIPLAGAT                (66)     F3034 0:52:46         QUENIA                        (                    )

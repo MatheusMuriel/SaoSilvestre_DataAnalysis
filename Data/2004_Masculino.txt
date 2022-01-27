@@ -1,4 +1,4 @@
-        Coloc.      Num.      Atleta                                  Id.    Fx.Et.  Cl.Fx.E   Sx.  C.  SC    Equipe                Tempo             L�quido
+        Coloc.      Num.      Atleta                                  Id.  Fx.Et.  Cl.Fx.E     Sx.  C.  SC   Equipe                Tempo             L�quido
         1           4          ROBERT CHERUYIOT                       21    M2024       -       M   E        KENIA                  00:44:43          00:44:43
         2           109        SISAY BEZABEH                          27    M2529       -       M   E        ADIDAS                 00:45:06          00:45:04
         3           77         STEPHEN BIWOTT                         20    M2024       -       M   E        KENIA                  00:45:28          00:45:28

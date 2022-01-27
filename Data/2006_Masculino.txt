@@ -1,4 +1,4 @@
-ColocaçãoNúmeroNome                                          SexoIdadFaixa EtárClass. Faixa EtáTempo BrutTempo LíquidCategoriEquipe
+Coloc     Num      Nome                                               Sex   Idad   Faixa       Class.          Tempo Brut   Tempo Liq   Catg    Equipe
         1        3 FRANCK CALDEIRA DE ALMEIDA                         M     23     M2024            -          00:44:07     00:44:06       E    P� DE VENTO/NIKE
         2       30 CLODOALDO GOMES DA SILVA                           M     30     M3034            -          00:45:14     00:45:13       E    NIKE/MARANATA
         3       12 PAULO ALVES DOS SANTOS                             M     29     M2529            -          00:45:17     00:45:17       E    CRUZEIRO

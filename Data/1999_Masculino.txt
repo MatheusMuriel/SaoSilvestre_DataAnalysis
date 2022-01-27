@@ -1,4 +1,4 @@
-Col. Nr    Nome                     Ano CCat        Categ T.TOTAL  Min/Km Equipe
+Col.  Nr    Nome                           Ano CCat Categ T.TOTAL MinKm Equipe
     1     1 PAUL TERGAT                    (69)     M3034 0:44:35  2.58 QUENIA                        (                    )
     2    15 TESFAYE TOLA                   (74)     M2529 0:44:40  2.59 ETIOPIA                       (                    )
     3     6 WILLIAM KIPLAGAT               (72)     M2529 0:44:44  2.59 QUENIA                        (                    )

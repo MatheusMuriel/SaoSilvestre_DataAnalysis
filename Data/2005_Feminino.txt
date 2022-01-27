@@ -1,4 +1,4 @@
-        Coloc.      Num.      Atleta                                  Id.    Fx.Et.  Cl.Fx.E   Sx.  C.  SC    Equipe                Tempo             L�quido
+        Coloc.      Num.      Atleta                                  Id.  Fx.Et.  Cl.Fx.E    Sx.  C.  SC    Equipe                Tempo             L�quido
         1           14115      JEVETIC OLIVERA                        28    F2529       -       F   1                               00:51:38          00:51:37
         2           14015      ROSE CHERIYOT                          29    F2529       -       F   1                               00:51:47          00:51:46
         3           14013      BIZUNISH BEKELE                        22    F2024       -       F   1                               00:52:02          00:51:59

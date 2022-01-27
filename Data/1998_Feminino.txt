@@ -1,4 +1,4 @@
-Col. Nr    Nome                     Ano CCat        Categ T.TOTAL         Equipe
+Col.  Nr    Nome                           Ano CCat Categ T.TOTAL         Equipe
     1 20005 OLIVERA JEVTIC                 (77)     F2024 0:51:35         FILA TEAM                     (REPUBLICA ESLOVACA  )
     2 20001 MARTHA TENORIO                 (67)     F3034 0:51:55         FILA INTERNACIONAL            (EQUADOR             )
     3 20007 JANE WANJIKU NGOTHO            (69)     F2529 0:52:42         PUMA                          (KENYA               )
